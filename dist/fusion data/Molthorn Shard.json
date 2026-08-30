@@ -1,0 +1,35 @@
+{
+  "name": "Molthorn Shard",
+  "fusion_required": 5,
+  "skyblock_id": "SHARD_MOLTHORN",
+  "input_recipes": [
+    {
+      "fusion_type": "Special",
+      "right_name": "Starborn Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_STARBORN",
+      "output_name": "Tempest Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Starborn Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_STARBORN",
+      "output_name": "Titanoboa Shard",
+      "output_count": 1
+    }
+  ],
+  "output_recipes": [
+    {
+      "fusion_type": "Special",
+      "left_name": "Jormung Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_JORMUNG",
+      "right_name": "Etherdrake Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ETHERDRAKE",
+      "output_count": 2
+    }
+  ]
+}

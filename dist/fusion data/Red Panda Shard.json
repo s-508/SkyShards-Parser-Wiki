@@ -1,0 +1,4791 @@
+{
+  "name": "Red Panda Shard",
+  "fusion_required": 5,
+  "skyblock_id": "SHARD_RED_PANDA",
+  "input_recipes": [
+    {
+      "fusion_type": "Special",
+      "right_name": "Red Panda Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RED_PANDA",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Red Panda Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RED_PANDA",
+      "output_name": "Rat Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sprawl Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SPRAWL",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Sprawl Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SPRAWL",
+      "output_name": "Rat Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sneaky Tiki Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SNEAKY_TIKI",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Sneaky Tiki Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SNEAKY_TIKI",
+      "output_name": "Shrieky Tiki Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Sneaky Tiki Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SNEAKY_TIKI",
+      "output_name": "Rat Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Shrieky Tiki Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SHRIEKY_TIKI",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Shrieky Tiki Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SHRIEKY_TIKI",
+      "output_name": "Honeymite Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Shrieky Tiki Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SHRIEKY_TIKI",
+      "output_name": "Rat Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Woodpecker Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WOODPECKER",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Woodpecker Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WOODPECKER",
+      "output_name": "Kiwi Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Woodpecker Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WOODPECKER",
+      "output_name": "Boreal Owl Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Honeymite Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HONEYMITE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Honeymite Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HONEYMITE",
+      "output_name": "Rat Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Queen Ant Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_QUEEN_ANT",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Queen Ant Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_QUEEN_ANT",
+      "output_name": "Rat Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hawk Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HAWK",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hawk Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HAWK",
+      "output_name": "Kiwi Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hawk Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HAWK",
+      "output_name": "Boreal Owl Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "June Bug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_JUNE_BUG",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "June Bug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_JUNE_BUG",
+      "output_name": "Rat Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Dung Beetle Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DUNG_BEETLE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Dung Beetle Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DUNG_BEETLE",
+      "output_name": "Rat Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RAT",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Rat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RAT",
+      "output_name": "Keeled Slug Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Keeled Slug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_KEELED_SLUG",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Keeled Slug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_KEELED_SLUG",
+      "output_name": "Mite Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Mite Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MITE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Mite Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MITE",
+      "output_name": "Moth Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Moth Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOTH",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Moth Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOTH",
+      "output_name": "Mosquito Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Mosquito Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOSQUITO",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Mosquito Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOSQUITO",
+      "output_name": "Rat Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rabbit Cat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_CAT",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Rabbit Cat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_CAT",
+      "output_name": "Rat Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sylvan Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_SYLVAN",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sylvan Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_SYLVAN",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sylvan Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_SYLVAN",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cascade Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CASCADE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cascade Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CASCADE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cascade Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CASCADE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bolt Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_BOLT",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bolt Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_BOLT",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bolt Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_BOLT",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bambloom Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BAMBLOOM",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bambloom Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BAMBLOOM",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Bambloom Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BAMBLOOM",
+      "output_name": "Beaconmite Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Toad Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TOAD",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Toad Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TOAD",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Toad Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TOAD",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Glacite Walker Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GLACITE_WALKER",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Glacite Walker Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GLACITE_WALKER",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Glacite Walker Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GLACITE_WALKER",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Beaconmite Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BEACONMITE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Beaconmite Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BEACONMITE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Beaconmite Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BEACONMITE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lizard King Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_LIZARD_KING",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lizard King Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_LIZARD_KING",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lizard King Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_LIZARD_KING",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Python Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_PYTHON",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Python Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_PYTHON",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Python Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_PYTHON",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Invisibug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_INVISIBUG",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Invisibug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_INVISIBUG",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Invisibug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_INVISIBUG",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Piranha Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PIRANHA",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Piranha Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PIRANHA",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Piranha Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PIRANHA",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideongeon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONGEON",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideongeon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONGEON",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideongeon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONGEON",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lapis Skeleton Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LAPIS_SKELETON",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lapis Skeleton Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LAPIS_SKELETON",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lapis Skeleton Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LAPIS_SKELETON",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Beetle Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CROPEETLE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Beetle Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CROPEETLE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Beetle Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CROPEETLE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Drowned Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DROWNED",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Drowned Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DROWNED",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Drowned Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DROWNED",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Vulture Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_VULTURE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Vulture Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_VULTURE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Vulture Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_VULTURE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Star Sentry Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_STAR_SENTRY",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Star Sentry Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_STAR_SENTRY",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Star Sentry Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_STAR_SENTRY",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideondra Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONDRA",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideondra Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONDRA",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideondra Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONDRA",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Abyssal Lanternfish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ABYSSAL_LANTERN",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Abyssal Lanternfish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ABYSSAL_LANTERN",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Abyssal Lanternfish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ABYSSAL_LANTERN",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Arachne Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ARACHNE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Arachne Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ARACHNE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Arachne Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ARACHNE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bitbug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BITBUG",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bitbug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BITBUG",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bitbug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BITBUG",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lava Leech Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LAVA_LEECH",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lava Leech Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LAVA_LEECH",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lava Leech Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LAVA_LEECH",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Revenant Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_REVENANT",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Revenant Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_REVENANT",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Revenant Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_REVENANT",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Silentdepth Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SILENTDEPTH",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Silentdepth Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SILENTDEPTH",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Silentdepth Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SILENTDEPTH",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Skeletor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SKELETOR",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Skeletor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SKELETOR",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Skeletor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SKELETOR",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Thyst Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_THYST",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Thyst Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_THYST",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Thyst Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_THYST",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Seashine Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SEA_SHINE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Seashine Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SEA_SHINE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Seashine Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SEA_SHINE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Quartzfang Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_QUARTZFANG",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Quartzfang Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_QUARTZFANG",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Quartzfang Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_QUARTZFANG",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideonring Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONRING",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideonring Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONRING",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideonring Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONRING",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Snowfin Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SNOWFIN",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Snowfin Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SNOWFIN",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Snowfin Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SNOWFIN",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Kada Knight Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_KADA_KNIGHT",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Kada Knight Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_KADA_KNIGHT",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Kada Knight Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_KADA_KNIGHT",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hummingbird Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HUMMINGBIRD",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hummingbird Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HUMMINGBIRD",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hummingbird Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HUMMINGBIRD",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Carrot King Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CARROT_KING",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Carrot King Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CARROT_KING",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Carrot King Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CARROT_KING",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wither Spectre Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WITHER_SPECTER",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wither Spectre Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WITHER_SPECTER",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wither Spectre Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WITHER_SPECTER",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Badger Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BADGER",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Badger Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BADGER",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Badger Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BADGER",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Matcho Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MATCHO",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Matcho Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MATCHO",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Matcho Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MATCHO",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Ladybug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LADYBUG",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Ladybug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LADYBUG",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Ladybug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LADYBUG",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lumisquid Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LUMISQUID",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lumisquid Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LUMISQUID",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lumisquid Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LUMISQUID",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Crocodile Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CROCODILE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Crocodile Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CROCODILE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Crocodile Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CROCODILE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wild Hog Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WILD_HOG",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wild Hog Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WILD_HOG",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wild Hog Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WILD_HOG",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bullfrog Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_BULLFROG",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bullfrog Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_BULLFROG",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bullfrog Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_BULLFROG",
+      "output_name": "Toad Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Dreadwing Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DREADWING",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Dreadwing Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DREADWING",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Dreadwing Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DREADWING",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Joydive Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_JOYDIVE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Joydive Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_JOYDIVE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Joydive Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_JOYDIVE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Stalagmight Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_STALAGMIGHT",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Stalagmight Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_STALAGMIGHT",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Stalagmight Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_STALAGMIGHT",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Fungloom Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FUNGLOOM",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Fungloom Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FUNGLOOM",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Fungloom Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FUNGLOOM",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Eel Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_EEL",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Eel Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_EEL",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Eel Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_EEL",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "King Cobra Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_KING_COBRA",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "King Cobra Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_KING_COBRA",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "King Cobra Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_KING_COBRA",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hewver Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HEWVER",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hewver Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HEWVER",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hewver Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HEWVER",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lava Flame Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LAVA_FLAME",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lava Flame Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LAVA_FLAME",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lava Flame Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LAVA_FLAME",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Draconic Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DRACONIC",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Draconic Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DRACONIC",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Draconic Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DRACONIC",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Falcon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FALCON",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Falcon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FALCON",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Falcon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FALCON",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Inferno Koi Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_INFERNO_KOI",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Inferno Koi Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_INFERNO_KOI",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Inferno Koi Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_INFERNO_KOI",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wither Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WITHER",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wither Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WITHER",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wither Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WITHER",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Gecko Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_GECKO",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Gecko Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_GECKO",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Gecko Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_GECKO",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wiki Tiki Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WIKI_TIKI",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wiki Tiki Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WIKI_TIKI",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wiki Tiki Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WIKI_TIKI",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Minotaur Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MINOTAUR",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Minotaur Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MINOTAUR",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Minotaur Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MINOTAUR",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hivethief Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIVETHIEF",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hivethief Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIVETHIEF",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hivethief Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIVETHIEF",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Maggot Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MAGGOT",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Maggot Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MAGGOT",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Maggot Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MAGGOT",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Snoozle Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SNOOZLE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Snoozle Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SNOOZLE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Snoozle Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SNOOZLE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Parakeet Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PARAKEET",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Parakeet Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PARAKEET",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Parakeet Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PARAKEET",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Thunder Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_THUNDER",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Thunder Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_THUNDER",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Thunder Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_THUNDER",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rockmite Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ROCKMITE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rockmite Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ROCKMITE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rockmite Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ROCKMITE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Anteater Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ANTEATER",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Anteater Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ANTEATER",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Anteater Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ANTEATER",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Scrappy Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SCRAPPY",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Scrappy Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SCRAPPY",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Scrappy Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SCRAPPY",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideyho Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEYHO",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideyho Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEYHO",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideyho Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEYHO",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Mantis Shrimp Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MANTIS_SHRIMP",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Mantis Shrimp Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MANTIS_SHRIMP",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Mantis Shrimp Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MANTIS_SHRIMP",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Chuckwalla Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CHUCKWALLA",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Chuckwalla Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CHUCKWALLA",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Chuckwalla Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CHUCKWALLA",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideonfloor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONFLOOR",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideonfloor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONFLOOR",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideonfloor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONFLOOR",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Gimmiegold Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GIMMIEGOLD",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Gimmiegold Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GIMMIEGOLD",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Gimmiegold Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GIMMIEGOLD",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Billygoat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BILLYGOAT",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Billygoat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BILLYGOAT",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Billygoat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BILLYGOAT",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideonwall Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONWALL",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideonwall Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONWALL",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideonwall Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONWALL",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Nozzlenose Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_NOZZLENOSE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Nozzlenose Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_NOZZLENOSE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Nozzlenose Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_NOZZLENOSE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Stoneworm Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_STONEWORM",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Stoneworm Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_STONEWORM",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Stoneworm Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_STONEWORM",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Fluffling Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLUFFLING",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Fluffling Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLUFFLING",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Fluffling Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLUFFLING",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Stingray Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_STINGRAY",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Stingray Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_STINGRAY",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Stingray Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_STINGRAY",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Zombuddy Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ZOMBUDDY",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Zombuddy Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ZOMBUDDY",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Zombuddy Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ZOMBUDDY",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Puck Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PUCK",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Puck Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PUCK",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Puck Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PUCK",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Troodon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TROODON",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Troodon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TROODON",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Troodon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TROODON",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Black Widow Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BLACK_WIDOW",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Black Widow Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BLACK_WIDOW",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Black Widow Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BLACK_WIDOW",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Pangolin Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PANGOLIN",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Pangolin Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PANGOLIN",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Pangolin Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PANGOLIN",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Giant Water Bug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GIANT_WATER_BUG",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Giant Water Bug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GIANT_WATER_BUG",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Giant Water Bug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GIANT_WATER_BUG",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Murkbat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MURKBAT",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Murkbat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MURKBAT",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Murkbat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MURKBAT",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Goldolot Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GOLDOLOT",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Goldolot Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GOLDOLOT",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Goldolot Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GOLDOLOT",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rabbit Neighbor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_NEIGHBOR",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rabbit Neighbor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_NEIGHBOR",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rabbit Neighbor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_NEIGHBOR",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Torrid Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TORRID",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Torrid Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TORRID",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Torrid Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TORRID",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Drybark Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DRYBARK",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Drybark Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DRYBARK",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Drybark Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DRYBARK",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Terra Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TERRA",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Terra Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TERRA",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Terra Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TERRA",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cryo Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CRYO",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cryo Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CRYO",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cryo Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CRYO",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Aero Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_AERO",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Aero Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_AERO",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Aero Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_AERO",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Pandarai Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PANDARAI",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Pandarai Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PANDARAI",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Pandarai Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PANDARAI",
+      "output_name": "XYZ Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Leviathan Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_LEVIATHAN",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Leviathan Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_LEVIATHAN",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Leviathan Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_LEVIATHAN",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Alligator Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_ALLIGATOR",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Alligator Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_ALLIGATOR",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Alligator Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_ALLIGATOR",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Fenlord Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_FENLORD",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Fenlord Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_FENLORD",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Fenlord Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_FENLORD",
+      "output_name": "Toad Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Abyssal Miner Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ABYSSAL_MINER",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Abyssal Miner Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ABYSSAL_MINER",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Abyssal Miner Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ABYSSAL_MINER",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Basilisk Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_BASILISK",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Basilisk Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_BASILISK",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Basilisk Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_BASILISK",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Iguana Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_IGUANA",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Iguana Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_IGUANA",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Iguana Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_IGUANA",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Moray Eel Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_MORAY_EEL",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Moray Eel Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_MORAY_EEL",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Moray Eel Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_MORAY_EEL",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Special Zealot Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SPECIAL_ZEALOT",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Special Zealot Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SPECIAL_ZEALOT",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Special Zealot Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SPECIAL_ZEALOT",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lunar Moth Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LUNAR_MOTH",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lunar Moth Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LUNAR_MOTH",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lunar Moth Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LUNAR_MOTH",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Fire Eel Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_FIRE_EEL",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Fire Eel Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_FIRE_EEL",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Fire Eel Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_FIRE_EEL",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bal Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BAL",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bal Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BAL",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bal Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BAL",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideonsack Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONSACK",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideonsack Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONSACK",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideonsack Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONSACK",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Water Hydra Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WATER_HYDRA",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Water Hydra Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WATER_HYDRA",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Water Hydra Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WATER_HYDRA",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Flare Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLARE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Flare Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLARE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Flare Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLARE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Murderwing Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MURDERWING",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Murderwing Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MURDERWING",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Murderwing Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MURDERWING",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Loch Emperor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SEA_EMPEROR",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Loch Emperor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SEA_EMPEROR",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Loch Emperor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SEA_EMPEROR",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Prince Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PRINCE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Prince Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PRINCE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Prince Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PRINCE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Komodo Dragon Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_KOMODO_DRAGON",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Komodo Dragon Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_KOMODO_DRAGON",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Komodo Dragon Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_KOMODO_DRAGON",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Blue Crab Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BLUE_CRAB",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Blue Crab Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BLUE_CRAB",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Blue Crab Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BLUE_CRAB",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Mimic Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MIMIC",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Mimic Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MIMIC",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Mimic Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MIMIC",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wolverine Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WOLVERINE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wolverine Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WOLVERINE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wolverine Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WOLVERINE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Shellwise Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_SHELLWISE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Shellwise Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_SHELLWISE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Shellwise Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_SHELLWISE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Barbarian Duke X Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Barbarian Duke X Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Barbarian Duke X Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Toucan Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TOUCAN",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Toucan Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TOUCAN",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Toucan Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TOUCAN",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Caiman Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CAIMAN",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Caiman Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CAIMAN",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Caiman Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CAIMAN",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Firefly Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FIREFLY",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Firefly Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FIREFLY",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Firefly Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FIREFLY",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sea Serpent Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_SEA_SERPENT",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sea Serpent Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_SEA_SERPENT",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sea Serpent Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_SEA_SERPENT",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Ghost Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GHOST",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Ghost Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GHOST",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Ghost Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GHOST",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "XYZ Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_XYZ",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "XYZ Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_XYZ",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "XYZ Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_XYZ",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Leatherback Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_LEATHERBACK",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Leatherback Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_LEATHERBACK",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Leatherback Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_LEATHERBACK",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cavernshade Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CAVERNSHADE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cavernshade Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CAVERNSHADE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cavernshade Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CAVERNSHADE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Dragonfly Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DRAGONFLY",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Dragonfly Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DRAGONFLY",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Dragonfly Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DRAGONFLY",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sphinx Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SPHINX",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sphinx Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SPHINX",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sphinx Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SPHINX",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "King Minos Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_KING_MINOS",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "King Minos Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_KING_MINOS",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "King Minos Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_KING_MINOS",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Dive Ghast Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DIVE_GHAST",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Dive Ghast Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DIVE_GHAST",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Dive Ghast Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DIVE_GHAST",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Silkbreeze Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SILKBREEZE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Silkbreeze Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SILKBREEZE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Silkbreeze Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SILKBREEZE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Gemzie Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GEMZIE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Gemzie Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GEMZIE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Gemzie Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GEMZIE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rabbit Godmother Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_GODMOTHER",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rabbit Godmother Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_GODMOTHER",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rabbit Godmother Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_GODMOTHER",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Giant Isopod Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Giant Isopod Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Giant Isopod Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Inferno Demonlord Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BURNINGSOUL",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Inferno Demonlord Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BURNINGSOUL",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Inferno Demonlord Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BURNINGSOUL",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Queen Bee Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_QUEEN_BEE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Queen Bee Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_QUEEN_BEE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Queen Bee Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_QUEEN_BEE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bonzo Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BONZO",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bonzo Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BONZO",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bonzo Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BONZO",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Beeheemoth Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BEEHEEMOTH",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Beeheemoth Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BEEHEEMOTH",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Beeheemoth Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BEEHEEMOTH",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Scarf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SCARF",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Scarf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SCARF",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Scarf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SCARF",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Thorn Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_THORN",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Thorn Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_THORN",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Thorn Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_THORN",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Mountain Goat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOUNTAIN_GOAT",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Mountain Goat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOUNTAIN_GOAT",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Mountain Goat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOUNTAIN_GOAT",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Scatha Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SCATHA",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Scatha Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SCATHA",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Scatha Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SCATHA",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Nilbog Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_NILBOG",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Nilbog Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_NILBOG",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Nilbog Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_NILBOG",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Littlefoot Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LITTLEFOOT",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Littlefoot Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LITTLEFOOT",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Littlefoot Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LITTLEFOOT",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Tenebris Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TENEBRIS",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Tenebris Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TENEBRIS",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Tenebris Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TENEBRIS",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Blizzard Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_BLIZZARD",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Blizzard Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_BLIZZARD",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Blizzard Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_BLIZZARD",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Tempest Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TEMPEST",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Tempest Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TEMPEST",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Tempest Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TEMPEST",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Chameleon",
+      "right_name": "Chameleon Shard",
+      "right_count": 1,
+      "right_skyblock_id": "SHARD_CHAMELEON",
+      "output_name": "Sprawl Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Chameleon",
+      "right_name": "Chameleon Shard",
+      "right_count": 1,
+      "right_skyblock_id": "SHARD_CHAMELEON",
+      "output_name": "Sneaky Tiki Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Chameleon",
+      "right_name": "Chameleon Shard",
+      "right_count": 1,
+      "right_skyblock_id": "SHARD_CHAMELEON",
+      "output_name": "Sylvan Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Nessie Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_NESSIE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Nessie Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_NESSIE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Nessie Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_NESSIE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Tiamat Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TIAMAT",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Tiamat Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TIAMAT",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Tiamat Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TIAMAT",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wyvern Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_WYVERN",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wyvern Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_WYVERN",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wyvern Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_WYVERN",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Tortoise Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TORTOISE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Tortoise Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TORTOISE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Tortoise Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TORTOISE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "End Stone Protector Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ENDSTONE_PROTECTOR",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "End Stone Protector Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ENDSTONE_PROTECTOR",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "End Stone Protector Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ENDSTONE_PROTECTOR",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rabbit Godfather Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_GODFATHER",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rabbit Godfather Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_GODFATHER",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rabbit Godfather Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_GODFATHER",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Naga Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_NAGA",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Naga Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_NAGA",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Naga Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_NAGA",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lapis Creeper Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LAPIS_CREEPER",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lapis Creeper Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LAPIS_CREEPER",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lapis Creeper Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LAPIS_CREEPER",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wartybug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WARTYBUG",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wartybug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WARTYBUG",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wartybug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WARTYBUG",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Spike Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SPIKE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Spike Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SPIKE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Spike Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SPIKE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Kraken Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_KRAKEN",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Kraken Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_KRAKEN",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Kraken Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_KRAKEN",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Taurus Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TAURUS",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Taurus Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TAURUS",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Taurus Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TAURUS",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Daemon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DAEMON",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Daemon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DAEMON",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Daemon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DAEMON",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Moltenfish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOLTENFISH",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Moltenfish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOLTENFISH",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Moltenfish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOLTENFISH",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Doomspiral Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_DOOMSPIRAL",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Doomspiral Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_DOOMSPIRAL",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Doomspiral Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_DOOMSPIRAL",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Macaw Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MACAW",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Macaw Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MACAW",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Macaw Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MACAW",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Shinyfish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SHINYFISH",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Shinyfish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SHINYFISH",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Shinyfish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SHINYFISH",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Ananke Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ANANKE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Ananke Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ANANKE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Ananke Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ANANKE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideonbox Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONBOX",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideonbox Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONBOX",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideonbox Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONBOX",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lord Jawbus Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LORD_JAWBUS",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lord Jawbus Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LORD_JAWBUS",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lord Jawbus Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LORD_JAWBUS",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hellwisp Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HELLWISP",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hellwisp Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HELLWISP",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hellwisp Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HELLWISP",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cinderbat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CINDER_BAT",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cinderbat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CINDER_BAT",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cinderbat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CINDER_BAT",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Megalith Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_MEGALITH",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Megalith Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_MEGALITH",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Megalith Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_MEGALITH",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Power Dragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_POWER_DRAGON",
+      "output_name": "Apex Dragon Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Power Dragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_POWER_DRAGON",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Power Dragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_POWER_DRAGON",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Condor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CONDOR",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Condor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CONDOR",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Condor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CONDOR",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sun Fish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SUN_FISH",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sun Fish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SUN_FISH",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sun Fish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SUN_FISH",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Apex Dragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_APEX_DRAGON",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Apex Dragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_APEX_DRAGON",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Apex Dragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_APEX_DRAGON",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Dodo Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DODO",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Dodo Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DODO",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Dodo Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DODO",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Queen Snake Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_QUEEN_SNAKE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Queen Snake Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_QUEEN_SNAKE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Queen Snake Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_QUEEN_SNAKE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Jormung Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_JORMUNG",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Jormung Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_JORMUNG",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Jormung Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_JORMUNG",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Ghost Crab Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GHOST_CRAB",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Ghost Crab Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GHOST_CRAB",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Ghost Crab Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GHOST_CRAB",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Etherdrake Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ETHERDRAKE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Etherdrake Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ETHERDRAKE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Etherdrake Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ETHERDRAKE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Grizzly Bear Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Grizzly Bear Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Grizzly Bear Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Galaxy Fish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GALAXY_FISH",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Galaxy Fish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GALAXY_FISH",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Galaxy Fish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GALAXY_FISH",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Molthorn Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOLTHORN",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Molthorn Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOLTHORN",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Molthorn Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOLTHORN",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Starborn Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_STARBORN",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Starborn Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_STARBORN",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Starborn Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_STARBORN",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Primordial Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PRIMORDIAL",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Primordial Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PRIMORDIAL",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Primordial Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PRIMORDIAL",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cocoaleech Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_COCOALEECH",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cocoaleech Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_COCOALEECH",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cocoaleech Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_COCOALEECH",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Titanoboa Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Titanoboa Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Titanoboa Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rainbug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RAINBUG",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rainbug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RAINBUG",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rainbug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RAINBUG",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Paragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PARAGON",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Paragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PARAGON",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Paragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PARAGON",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Timestalk Clone Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TIMESTALK_CLONE",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Timestalk Clone Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TIMESTALK_CLONE",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Timestalk Clone Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TIMESTALK_CLONE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wumpa Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WUMPA",
+      "output_name": "Pandarai Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wumpa Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WUMPA",
+      "output_name": "Bambloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wumpa Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WUMPA",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    }
+  ],
+  "output_recipes": [
+    {
+      "fusion_type": "Chameleon",
+      "left_name": "Woodlouse Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_WOODLOUSE",
+      "right_name": "Chameleon Shard",
+      "right_count": 1,
+      "right_skyblock_id": "SHARD_CHAMELEON",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Chameleon",
+      "left_name": "Ember Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_EMBER",
+      "right_name": "Chameleon Shard",
+      "right_count": 1,
+      "right_skyblock_id": "SHARD_CHAMELEON",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Chameleon",
+      "left_name": "Cheeky Tiki Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHEEKY_TIKI",
+      "right_name": "Chameleon Shard",
+      "right_count": 1,
+      "right_skyblock_id": "SHARD_CHAMELEON",
+      "output_count": 1
+    }
+  ]
+}

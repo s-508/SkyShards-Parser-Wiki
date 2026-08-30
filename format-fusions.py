@@ -1,16 +1,9 @@
 import json
-from collections import defaultdict, OrderedDict
+from collections import defaultdict
 import re
-import hashlib
-import subprocess
-import os
 
-
+# for sorting fusion recipes
 prefix_order = {'C': 0, 'U': 1, 'R': 2, 'E': 3, 'L': 4}
-
-github_actions = os.environ.get('GITHUB_ACTIONS')
-
-
 def parse_component(component):
     match = re.match(r'([A-Z])(\d+)(?:-(\d+))?$', component)
     if match:
@@ -18,135 +11,112 @@ def parse_component(component):
         return prefix_order.get(prefix, 999), int(number), int(suffix) if suffix else 0
     return 999, 999, 999
 
+# Returns fusion type based on recipe
+def get_fusion_type(left_name, right_name, output_count):
+    if output_count == 2:
+        return "Special"
+    if left_name == "Chameleon Shard" or right_name == "Chameleon Shard":
+        return "Chameleon"
+    return "ID"
 
+# load recipe data
 with open('dist/fusion-recipes.json', 'r') as f:
     data = json.load(f)
 
-# transform the recipes
-new_recipes = defaultdict(lambda: defaultdict(list))
-for input_combo, results in data['recipes'].items():
-    inputs = input_combo.split('+')
-    for result in results:
-        result_id = result['id']
-        count = str(result['count'])
-        new_recipes[result_id][count].append(inputs)
-
-# sort
-final_recipes = OrderedDict()
-for result_id in sorted(new_recipes.keys(), key=parse_component):
-    count_dict = new_recipes[result_id]
-    count_ordered = OrderedDict()
-    for count, input_lists in sorted(count_dict.items(), key=lambda item: int(item[0])):
-        input_lists.sort(key=lambda pair: (parse_component(pair[0]), parse_component(pair[1])))
-        count_ordered[count] = input_lists
-    final_recipes[result_id] = count_ordered
-
-data['recipes'] = final_recipes
-
-
+# load shard data
 with open('shard-data.json', 'r') as f:
     shards = json.load(f)
 
-with open('dist/fusion-properties.json', 'r', encoding='utf-8') as f:
-    properties = json.load(f)
+# recipes each shard is used in as an input
+# { "C1": [...], "C2": [...], etc. }
+input_recipes = defaultdict(list)
+# recipes each shard is an output from
+output_recipes = defaultdict(list)
 
-fusion_flags = ('synthesized', 'chameleon', 'recipe_type')
-merged_shards = {}
-for shard_id, shard in shards['shards'].items():
-    merged = OrderedDict()
-    for key, value in shard.items():
-        if key == 'fuse_amount':
-            merged[key] = properties[shard_id]['fuse_amount']
-            for flag in fusion_flags:
-                merged[flag] = properties[shard_id][flag]
-        else:
-            merged[key] = value
-    merged_shards[shard_id] = merged
+# get recipe lists
+for input_combo, results in data['recipes'].items():
+    inputs = input_combo.split('+') # 'C1+C2' --> ['C1', 'C2']
 
-# sort shards
-sorted_shards = OrderedDict(
-    sorted(merged_shards.items(), key=lambda item: parse_component(item[0]))
-)
-data['shards'] = sorted_shards
+    left_shard = shards['shards'][inputs[0]]
+    right_shard = shards['shards'][inputs[1]]
 
+    # iterate through each result of the fusion
+    for result in results:
+        result_id = result['id']
 
-def format_dict_inline(d):
-    items = [f'"{k}": {json.dumps(v)}' for k, v in d.items()]
-    return '{ ' + ', '.join(items) + ' }'
+        output_shard = shards['shards'][result_id]
 
+        # recipe data
+        recipe = {
+            "left_name": left_shard['name'] + " Shard",
+            "left_count": left_shard['fuse_amount'], # shards required for fusion
+            "left_skyblock_id": left_shard['internal_id'],
 
-# custom JSON encoder
-class JsonEncoder(json.JSONEncoder):
-    def encode(self, obj):
-        shards_ = obj.get("shards", {})
-        compact_shards = {k: format_dict_inline(v) for k, v in shards_.items()}
+            "right_name": right_shard['name'] + " Shard",
+            "right_count": right_shard['fuse_amount'], # shards required for fusion
+            "right_skyblock_id": right_shard['internal_id'],
 
-        obj_copy = dict(obj)
-        del obj_copy["shards"]
-        base_json = json.dumps(obj_copy, indent=2)
+            "output_name": output_shard['name'] + " Shard",
+            "output_count": result['count'], # shards produced
 
-        base_json = base_json.rstrip()
-        if base_json.endswith("}"):
-            base_json = base_json[:-1].rstrip()
+            "fusion_type": get_fusion_type( # ID, Special, or Chameleon
+                left_shard['name'] + " Shard",
+                right_shard['name'] + " Shard",
+                result['count']
+            ),
+        }
 
-        if base_json.strip() != "{":
-            base_json += ",\n"
-        else:
-            base_json += "\n"
+        input_recipes[inputs[0]].append(recipe)
+        output_recipes[result_id].append(recipe)
 
-        shard_lines = [f'    "{k}": {v}' for k, v in compact_shards.items()]
-        shards_block = '  "shards" : {\n' + ',\n'.join(shard_lines) + '\n  }'
+# TODO: sort dictionaries
 
-        json_result = base_json + shards_block + "\n}"
+# maps input recipe to list
+def map_input_recipe(recipe):
+    return {
+        "fusion_type": recipe['fusion_type'],
 
-        json_result = re.sub(
-            r'\[\s*"([^"]+)",\s*"([^"]+)"\s*]',
-            r'["\1", "\2"]',
-            json_result
-        )
+        # left shard data is implied
 
-        return json_result
+        "right_name": recipe['right_name'],
+        "right_count": recipe['right_count'],
+        "right_skyblock_id": recipe['right_skyblock_id'],
 
+        "output_name": recipe['output_name'],
+        "output_count": recipe['output_count']
+    }
 
-json_str = json.dumps(data, indent=2, cls=JsonEncoder)
+# maps output recipe to list
+def map_output_recipe(recipe):
+    return {
+        "fusion_type": recipe['fusion_type'],
 
-with open('dist/fusion-data.json', 'w') as f:
-    f.write(json_str)
+        "left_name": recipe['left_name'],
+        "left_count": recipe['left_count'],
+        "left_skyblock_id": recipe['left_skyblock_id'],
 
-with open('dist/fusion-data.json', 'r') as f:
-    fusion_data_content = f.read()
-fusion_data_hash = hashlib.sha256(fusion_data_content.encode('utf-8')).hexdigest()
+        "right_name": recipe['right_name'],
+        "right_count": recipe['right_count'],
+        "right_skyblock_id": recipe['right_skyblock_id'],
 
-shard_hashes_path = 'shard-hashes.json'
+        # output shard name is implied
+        "output_count": recipe['output_count']
+    }
 
-try:
-    result = subprocess.run(['git', 'show', 'HEAD:shard-hashes.json'], capture_output=True, text=True, check=True)
-    committed_hashes = json.loads(result.stdout)
-    old_fusion_data_hash = committed_hashes.get('fusion-data')
-except (subprocess.CalledProcessError, json.JSONDecodeError, FileNotFoundError):
-    old_fusion_data_hash = None
+# split recipe data into individual JSON files
+for shard_id in input_recipes.keys():
+    shard_data = shards['shards'][shard_id]
+    shard_name = shard_data['name'] + " Shard"
 
-try:
-    with open(shard_hashes_path, 'r') as f:
-        shard_hashes = json.load(f)
-except FileNotFoundError:
-    shard_hashes = {}
+    out = {
+        "name": shard_name,
+        "fusion_required": shard_data['fuse_amount'],
+        "skyblock_id": shard_data['internal_id'],
+        
+        "input_recipes": list(map(map_input_recipe, input_recipes[shard_id])),
+        "output_recipes": list(map(map_output_recipe, output_recipes[shard_id])),
+    }
 
-if old_fusion_data_hash != fusion_data_hash:
-    if github_actions:
-        with open('changed-shards.txt', 'a') as f:
-            f.write(f"fusion-data hash changed from {old_fusion_data_hash} to {fusion_data_hash}\n")
-    else:
-        print(f"fusion-data hash mismatch:\n"
-              f"  expected: {old_fusion_data_hash}\n"
-              f"  got:      {fusion_data_hash}")
-
-ordered_hashes = OrderedDict()
-ordered_hashes['fusion-data'] = fusion_data_hash
-
-for key, value in shard_hashes.items():
-    if key != 'fusion-data':
-        ordered_hashes[key] = value
-
-with open(shard_hashes_path, 'w') as f:
-    json.dump(ordered_hashes, f, indent=2)
+    # write JSON to file
+    with open(f'dist/fusion data/{shard_name}.json', 'w') as f:
+        f.write(json.dumps(out, indent=2))

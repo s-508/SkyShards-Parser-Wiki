@@ -1,0 +1,1089 @@
+{
+  "name": "Hideonbox Shard",
+  "fusion_required": 5,
+  "skyblock_id": "SHARD_HIDEONBOX",
+  "input_recipes": [
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideonbox Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONBOX",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideonbox Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONBOX",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideonbox Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONBOX",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lord Jawbus Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LORD_JAWBUS",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lord Jawbus Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LORD_JAWBUS",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lord Jawbus Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LORD_JAWBUS",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hellwisp Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HELLWISP",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hellwisp Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HELLWISP",
+      "output_name": "Hideondra Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hellwisp Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HELLWISP",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cinderbat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CINDER_BAT",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cinderbat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CINDER_BAT",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cinderbat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CINDER_BAT",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Megalith Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_MEGALITH",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Megalith Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_MEGALITH",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Megalith Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_MEGALITH",
+      "output_name": "Cuboa Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Power Dragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_POWER_DRAGON",
+      "output_name": "Apex Dragon Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Power Dragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_POWER_DRAGON",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Power Dragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_POWER_DRAGON",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Condor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CONDOR",
+      "output_name": "Dodo Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Condor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CONDOR",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Condor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CONDOR",
+      "output_name": "Toucan Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sun Fish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SUN_FISH",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sun Fish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SUN_FISH",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sun Fish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SUN_FISH",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Apex Dragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_APEX_DRAGON",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Apex Dragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_APEX_DRAGON",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Apex Dragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_APEX_DRAGON",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Dodo Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DODO",
+      "output_name": "Condor Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Dodo Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DODO",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Dodo Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DODO",
+      "output_name": "Toucan Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Queen Snake Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_QUEEN_SNAKE",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Queen Snake Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_QUEEN_SNAKE",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Queen Snake Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_QUEEN_SNAKE",
+      "output_name": "Cuboa Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Jormung Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_JORMUNG",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Jormung Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_JORMUNG",
+      "output_name": "Hideondra Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Jormung Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_JORMUNG",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Ghost Crab Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GHOST_CRAB",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Ghost Crab Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GHOST_CRAB",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Ghost Crab Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GHOST_CRAB",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Etherdrake Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ETHERDRAKE",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Etherdrake Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ETHERDRAKE",
+      "output_name": "Hideondra Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Etherdrake Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ETHERDRAKE",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Grizzly Bear Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Grizzly Bear Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Grizzly Bear Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Galaxy Fish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GALAXY_FISH",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Galaxy Fish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GALAXY_FISH",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Galaxy Fish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GALAXY_FISH",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Molthorn Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOLTHORN",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Molthorn Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOLTHORN",
+      "output_name": "Hideondra Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Molthorn Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOLTHORN",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Starborn Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_STARBORN",
+      "output_name": "Tenebris Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Starborn Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_STARBORN",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Starborn Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_STARBORN",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Primordial Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PRIMORDIAL",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Primordial Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PRIMORDIAL",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Primordial Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PRIMORDIAL",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cocoaleech Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_COCOALEECH",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cocoaleech Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_COCOALEECH",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cocoaleech Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_COCOALEECH",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Titanoboa Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Titanoboa Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Titanoboa Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_name": "Cuboa Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rainbug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RAINBUG",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rainbug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RAINBUG",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rainbug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RAINBUG",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Paragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PARAGON",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Paragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PARAGON",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Paragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PARAGON",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Timestalk Clone Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TIMESTALK_CLONE",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Timestalk Clone Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TIMESTALK_CLONE",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Timestalk Clone Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TIMESTALK_CLONE",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wumpa Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WUMPA",
+      "output_name": "Hideonsack Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wumpa Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WUMPA",
+      "output_name": "Hideonring Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wumpa Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WUMPA",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
+    }
+  ],
+  "output_recipes": [
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Tenebris Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TENEBRIS",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Blizzard Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_BLIZZARD",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Tempest Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TEMPEST",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Nessie Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_NESSIE",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Tiamat Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TIAMAT",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Wyvern Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_WYVERN",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Tortoise Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TORTOISE",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "End Stone Protector Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ENDSTONE_PROTECTOR",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Rabbit Godfather Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_GODFATHER",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Naga Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_NAGA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Lapis Creeper Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LAPIS_CREEPER",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Wartybug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WARTYBUG",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Spike Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SPIKE",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Kraken Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_KRAKEN",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Taurus Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TAURUS",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Daemon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DAEMON",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Moltenfish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOLTENFISH",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Doomspiral Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_DOOMSPIRAL",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Macaw Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MACAW",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Shinyfish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SHINYFISH",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Ananke Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ANANKE",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Lord Jawbus Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LORD_JAWBUS",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Hellwisp Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HELLWISP",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Cinderbat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CINDER_BAT",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Megalith Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_MEGALITH",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Power Dragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_POWER_DRAGON",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Condor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CONDOR",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Sun Fish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SUN_FISH",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Apex Dragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_APEX_DRAGON",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Dodo Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DODO",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Queen Snake Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_QUEEN_SNAKE",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Jormung Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_JORMUNG",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Ghost Crab Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GHOST_CRAB",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Etherdrake Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ETHERDRAKE",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Grizzly Bear Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Galaxy Fish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GALAXY_FISH",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Molthorn Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOLTHORN",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Starborn Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_STARBORN",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Primordial Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PRIMORDIAL",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Cocoaleech Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_COCOALEECH",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Titanoboa Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Rainbug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RAINBUG",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Paragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PARAGON",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Timestalk Clone Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TIMESTALK_CLONE",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsack Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSACK",
+      "right_name": "Wumpa Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WUMPA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Chameleon",
+      "left_name": "Chameleon Shard",
+      "left_count": 1,
+      "left_skyblock_id": "SHARD_CHAMELEON",
+      "right_name": "Macaw Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MACAW",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Chameleon",
+      "left_name": "Chameleon Shard",
+      "left_count": 1,
+      "left_skyblock_id": "SHARD_CHAMELEON",
+      "right_name": "Shinyfish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SHINYFISH",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Chameleon",
+      "left_name": "Chameleon Shard",
+      "left_count": 1,
+      "left_skyblock_id": "SHARD_CHAMELEON",
+      "right_name": "Ananke Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ANANKE",
+      "output_count": 1
+    }
+  ]
+}

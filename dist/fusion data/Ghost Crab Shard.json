@@ -1,0 +1,193 @@
+{
+  "name": "Ghost Crab Shard",
+  "fusion_required": 5,
+  "skyblock_id": "SHARD_GHOST_CRAB",
+  "input_recipes": [
+    {
+      "fusion_type": "ID",
+      "right_name": "Ghost Crab Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GHOST_CRAB",
+      "output_name": "Titanoboa Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Etherdrake Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ETHERDRAKE",
+      "output_name": "Titanoboa Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Grizzly Bear Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
+      "output_name": "Titanoboa Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Galaxy Fish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GALAXY_FISH",
+      "output_name": "Titanoboa Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Molthorn Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOLTHORN",
+      "output_name": "Titanoboa Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Starborn Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_STARBORN",
+      "output_name": "Blizzard Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Starborn Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_STARBORN",
+      "output_name": "Titanoboa Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Primordial Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PRIMORDIAL",
+      "output_name": "Titanoboa Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Cocoaleech Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_COCOALEECH",
+      "output_name": "Titanoboa Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Rainbug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RAINBUG",
+      "output_name": "Titanoboa Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Paragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PARAGON",
+      "output_name": "Titanoboa Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Timestalk Clone Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TIMESTALK_CLONE",
+      "output_name": "Titanoboa Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Wumpa Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WUMPA",
+      "output_name": "Titanoboa Shard",
+      "output_count": 1
+    }
+  ],
+  "output_recipes": [
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideyho Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEYHO",
+      "right_name": "Blue Crab Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BLUE_CRAB",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Puck Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PUCK",
+      "right_name": "Blue Crab Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BLUE_CRAB",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Torrid Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_TORRID",
+      "right_name": "Blue Crab Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BLUE_CRAB",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Blue Crab Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BLUE_CRAB",
+      "right_name": "Mimic Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MIMIC",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Blue Crab Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BLUE_CRAB",
+      "right_name": "Nilbog Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_NILBOG",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Blue Crab Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BLUE_CRAB",
+      "right_name": "Timestalk Clone Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TIMESTALK_CLONE",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Chameleon",
+      "left_name": "Chameleon Shard",
+      "left_count": 1,
+      "left_skyblock_id": "SHARD_CHAMELEON",
+      "right_name": "Queen Snake Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_QUEEN_SNAKE",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Chameleon",
+      "left_name": "Chameleon Shard",
+      "left_count": 1,
+      "left_skyblock_id": "SHARD_CHAMELEON",
+      "right_name": "Jormung Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_JORMUNG",
+      "output_count": 1
+    }
+  ]
+}
