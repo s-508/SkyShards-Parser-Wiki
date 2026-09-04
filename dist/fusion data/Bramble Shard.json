@@ -814,7 +814,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Field Mouse Shard",
       "output_count": 1
@@ -822,7 +822,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Tewtil Shard",
       "output_count": 1
@@ -1161,22 +1161,6 @@
       "right_count": 5,
       "right_skyblock_id": "SHARD_MOTH",
       "output_name": "Mosquito Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Mosquito Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOSQUITO",
-      "output_name": "Field Mouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Rabbit Cat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RABBIT_CAT",
-      "output_name": "Field Mouse Shard",
       "output_count": 1
     },
     {
@@ -2358,7 +2342,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Torrid Shard",
       "output_count": 1
@@ -2366,7 +2350,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Field Mouse Shard",
       "output_count": 1
@@ -2384,14 +2368,6 @@
       "right_name": "Torrid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TORRID",
-      "output_name": "Field Mouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Drybark Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRYBARK",
       "output_name": "Field Mouse Shard",
       "output_count": 1
     },
@@ -3077,14 +3053,6 @@
     },
     {
       "fusion_type": "ID",
-      "right_name": "Mountain Goat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOUNTAIN_GOAT",
-      "output_name": "Field Mouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "right_name": "Scatha Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SCATHA",
@@ -3669,14 +3637,6 @@
     },
     {
       "fusion_type": "ID",
-      "right_name": "Grizzly Bear Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
-      "output_name": "Field Mouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "right_name": "Galaxy Fish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GALAXY_FISH",
@@ -3725,25 +3685,9 @@
     },
     {
       "fusion_type": "ID",
-      "right_name": "Cocoaleech Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_name": "Field Mouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_name": "Field Mouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_name": "Field Mouse Shard",
       "output_count": 1
     },
@@ -3775,29 +3719,19 @@
   "output_recipes": [
     {
       "fusion_type": "Chameleon",
-      "left_name": "Honeyhog Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HONEYHOG",
-      "right_name": "Chameleon Shard",
-      "right_count": 1,
-      "right_skyblock_id": "SHARD_CHAMELEON",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Chameleon",
-      "left_name": "Shyworm Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SHYWORM",
-      "right_name": "Chameleon Shard",
-      "right_count": 1,
-      "right_skyblock_id": "SHARD_CHAMELEON",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Chameleon",
       "left_name": "Brineling Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BRINELING",
+      "right_name": "Chameleon Shard",
+      "right_count": 1,
+      "right_skyblock_id": "SHARD_CHAMELEON",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Chameleon",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
       "right_name": "Chameleon Shard",
       "right_count": 1,
       "right_skyblock_id": "SHARD_CHAMELEON",
@@ -4709,7 +4643,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_SPARROW",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -6089,7 +6023,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_HIDEONCAVE",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -7939,7 +7873,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_PEST",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -9789,7 +9723,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_HERON",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -11169,7 +11103,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_CRICKET",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -13019,7 +12953,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_PRAYING_MANTIS",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -14859,7 +14793,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_BAMBULEAF",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -16689,7 +16623,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_SEAGULL",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -18009,7 +17943,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_MOCHIBEAR",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -19839,7 +19773,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_KIWI",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -21219,7 +21153,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_TERMITE",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -23059,7 +22993,7 @@
       "left_count": 2,
       "left_skyblock_id": "SHARD_TREEFROG",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -24899,7 +24833,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_BLUEBIRD",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -26279,7 +26213,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_LITTERBUG",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -28129,7 +28063,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_HONEYBUG",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -29979,7 +29913,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_SOLSNATCHER",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -31829,7 +31763,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_DRIFTLING",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -33679,7 +33613,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_WOODCHUCKER",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -35529,7 +35463,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_BLOODBAT",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -37379,7 +37313,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_WOODLOUSE",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -39219,7 +39153,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_RED_PANDA",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -41049,7 +40983,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_WOODPECKER",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -42429,7 +42363,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_QUEEN_ANT",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -44279,7 +44213,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_HAWK",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -45659,7 +45593,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_JUNE_BUG",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -47509,7 +47443,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_DUNG_BEETLE",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -49359,7 +49293,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_RAT",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -51209,7 +51143,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_KEELED_SLUG",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -53059,7 +52993,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_MITE",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -54909,7 +54843,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_MOTH",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -56759,7 +56693,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_MOSQUITO",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -58609,7 +58543,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_RABBIT_CAT",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },

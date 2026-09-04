@@ -357,14 +357,6 @@
     },
     {
       "fusion_type": "ID",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
-      "output_name": "Shellwise Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "right_name": "Inferno Demonlord Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BURNINGSOUL",
@@ -1348,14 +1340,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_name": "Shellwise Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Rainbug Shard",
       "right_count": 5,
@@ -1826,6 +1810,16 @@
       "left_name": "Brineling Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BRINELING",
+      "right_name": "Water Hydra Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WATER_HYDRA",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
       "right_name": "Water Hydra Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WATER_HYDRA",
@@ -2334,7 +2328,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Water Hydra Shard",
       "right_count": 5,
@@ -3304,7 +3298,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Goldolot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_GOLDOLOT",
       "right_name": "Water Hydra Shard",
       "right_count": 5,
@@ -3696,16 +3690,6 @@
       "left_name": "Water Hydra Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WATER_HYDRA",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Water Hydra Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WATER_HYDRA",
       "right_name": "Inferno Demonlord Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BURNINGSOUL",
@@ -4009,16 +3993,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Water Hydra Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WATER_HYDRA",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
       "output_count": 1
     },
     {

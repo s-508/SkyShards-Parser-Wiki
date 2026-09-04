@@ -397,14 +397,6 @@
     },
     {
       "fusion_type": "ID",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
-      "output_name": "Loch Emperor Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "right_name": "Inferno Demonlord Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BURNINGSOUL",
@@ -1386,14 +1378,6 @@
       "right_skyblock_id": "SHARD_TITANOBOA",
       "output_name": "Cryo Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_name": "Loch Emperor Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -2653,6 +2637,36 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Abyssal Miner Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ABYSSAL_MINER",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Moray Eel Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_MORAY_EEL",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Fire Eel Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_FIRE_EEL",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
       "left_name": "Foxtrot Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_FOXTROT",
@@ -4154,7 +4168,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Abyssal Miner Shard",
       "right_count": 5,
@@ -4164,7 +4178,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Moray Eel Shard",
       "right_count": 2,
@@ -4174,7 +4188,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Fire Eel Shard",
       "right_count": 2,
@@ -6984,7 +6998,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Goldolot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_GOLDOLOT",
       "right_name": "Abyssal Miner Shard",
       "right_count": 5,
@@ -6994,7 +7008,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Goldolot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_GOLDOLOT",
       "right_name": "Fire Eel Shard",
       "right_count": 2,
@@ -7566,16 +7580,6 @@
       "left_name": "Abyssal Miner Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_ABYSSAL_MINER",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Abyssal Miner Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ABYSSAL_MINER",
       "right_name": "Inferno Demonlord Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BURNINGSOUL",
@@ -7739,16 +7743,6 @@
       "right_name": "Primordial Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PRIMORDIAL",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Abyssal Miner Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ABYSSAL_MINER",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
       "output_count": 1
     },
     {
@@ -8066,16 +8060,6 @@
       "left_name": "Moray Eel Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_MORAY_EEL",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Moray Eel Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_MORAY_EEL",
       "right_name": "Inferno Demonlord Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BURNINGSOUL",
@@ -8376,16 +8360,6 @@
       "left_name": "Moray Eel Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_MORAY_EEL",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Moray Eel Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_MORAY_EEL",
       "right_name": "Rainbug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RAINBUG",
@@ -8649,16 +8623,6 @@
       "right_name": "Rabbit Godmother Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_GODMOTHER",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Fire Eel Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_FIRE_EEL",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
       "output_count": 1
     },
     {
@@ -8969,16 +8933,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Fire Eel Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_FIRE_EEL",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
       "output_count": 1
     },
     {

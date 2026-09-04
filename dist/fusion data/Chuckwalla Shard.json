@@ -181,14 +181,6 @@
     },
     {
       "fusion_type": "ID",
-      "right_name": "Zombuddy Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ZOMBUDDY",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "right_name": "Puck Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PUCK",
@@ -224,14 +216,6 @@
       "right_name": "Troodon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TROODON",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Black Widow Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BLACK_WIDOW",
       "output_name": "Stoneworm Shard",
       "output_count": 1
     },
@@ -294,7 +278,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Leviathan Shard",
       "output_count": 2
@@ -302,7 +286,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Lizard King Shard",
       "output_count": 2
@@ -310,7 +294,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Stoneworm Shard",
       "output_count": 1
@@ -1500,14 +1484,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Littlefoot Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LITTLEFOOT",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Tenebris Shard",
       "right_count": 2,
@@ -2036,14 +2012,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Hellwisp Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HELLWISP",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Cinderbat Shard",
       "right_count": 5,
@@ -2108,14 +2076,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Power Dragon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_POWER_DRAGON",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Condor Shard",
       "right_count": 5,
@@ -2170,14 +2130,6 @@
       "right_skyblock_id": "SHARD_APEX_DRAGON",
       "output_name": "Bolt Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Apex Dragon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_APEX_DRAGON",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -2236,14 +2188,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Jormung Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_JORMUNG",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Ghost Crab Shard",
       "right_count": 5,
@@ -2274,14 +2218,6 @@
       "right_skyblock_id": "SHARD_ETHERDRAKE",
       "output_name": "Bolt Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Etherdrake Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ETHERDRAKE",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -2332,14 +2268,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Molthorn Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOLTHORN",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Starborn Shard",
       "right_count": 2,
@@ -2370,14 +2298,6 @@
       "right_skyblock_id": "SHARD_PRIMORDIAL",
       "output_name": "Bolt Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Primordial Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PRIMORDIAL",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -2444,14 +2364,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Paragon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PARAGON",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Timestalk Clone Shard",
       "right_count": 5,
@@ -2460,28 +2372,12 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Timestalk Clone Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TIMESTALK_CLONE",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Wumpa Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WUMPA",
       "output_name": "Bolt Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Wumpa Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WUMPA",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
     }
   ],
   "output_recipes": [

@@ -1388,14 +1388,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Zombuddy Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ZOMBUDDY",
-      "output_name": "Drowned Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Puck Shard",
       "right_count": 5,
@@ -1450,14 +1442,6 @@
       "right_skyblock_id": "SHARD_BLACK_WIDOW",
       "output_name": "Skeletor Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Black Widow Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BLACK_WIDOW",
-      "output_name": "Drowned Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -1534,7 +1518,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Skeletor Shard",
       "output_count": 2
@@ -1542,7 +1526,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Drowned Shard",
       "output_count": 1
@@ -1550,7 +1534,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Torrid Shard",
       "output_count": 1
@@ -2874,14 +2858,6 @@
       "right_skyblock_id": "SHARD_LITTLEFOOT",
       "output_name": "Skeletor Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Littlefoot Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LITTLEFOOT",
-      "output_name": "Drowned Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -4829,7 +4805,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_LAPIS_ZOMBIE",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },

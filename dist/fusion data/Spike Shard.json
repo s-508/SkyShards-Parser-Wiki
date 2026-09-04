@@ -381,14 +381,6 @@
     },
     {
       "fusion_type": "ID",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_name": "Taurus Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "right_name": "Rainbug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RAINBUG",
@@ -1606,6 +1598,36 @@
       "left_name": "Brineling Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BRINELING",
+      "right_name": "Naga Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_NAGA",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Nessie Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_NESSIE",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Tortoise Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TORTOISE",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
       "right_name": "Naga Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_NAGA",
@@ -3094,7 +3116,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Nessie Shard",
       "right_count": 2,
@@ -3104,7 +3126,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Tortoise Shard",
       "right_count": 2,
@@ -3114,7 +3136,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Naga Shard",
       "right_count": 2,
@@ -5974,7 +5996,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Goldolot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_GOLDOLOT",
       "right_name": "Nessie Shard",
       "right_count": 2,
@@ -5984,7 +6006,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Goldolot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_GOLDOLOT",
       "right_name": "Tortoise Shard",
       "right_count": 2,
@@ -5994,7 +6016,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Goldolot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_GOLDOLOT",
       "right_name": "Naga Shard",
       "right_count": 2,
@@ -7926,16 +7948,6 @@
       "left_name": "Nessie Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_NESSIE",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Nessie Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_NESSIE",
       "right_name": "Rainbug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RAINBUG",
@@ -8206,16 +8218,6 @@
       "left_name": "Tortoise Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_TORTOISE",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Tortoise Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TORTOISE",
       "right_name": "Rainbug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RAINBUG",
@@ -8429,16 +8431,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Naga Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_NAGA",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
       "output_count": 1
     },
     {

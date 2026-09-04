@@ -1294,7 +1294,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Leviathan Shard",
       "output_count": 2
@@ -1302,7 +1302,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Newt Shard",
       "output_count": 2
@@ -1310,7 +1310,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Torrid Shard",
       "output_count": 1
@@ -1338,14 +1338,6 @@
       "right_skyblock_id": "SHARD_TORRID",
       "output_name": "Leviathan Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Torrid Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TORRID",
-      "output_name": "Piranha Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "ID",
@@ -2370,14 +2362,6 @@
       "right_skyblock_id": "SHARD_GIANT_ISOPOD",
       "output_name": "Cascade Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
-      "output_name": "Piranha Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -3564,14 +3548,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_name": "Piranha Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Rainbug Shard",
       "right_count": 5,
@@ -3813,7 +3789,7 @@
       "left_count": 2,
       "left_skyblock_id": "SHARD_NEWT",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_count": 2
     },
@@ -4113,7 +4089,7 @@
       "left_count": 2,
       "left_skyblock_id": "SHARD_NEWT",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -4633,7 +4609,7 @@
       "left_count": 2,
       "left_skyblock_id": "SHARD_SALAMANDER",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_count": 2
     },
@@ -4943,7 +4919,7 @@
       "left_count": 2,
       "left_skyblock_id": "SHARD_SALAMANDER",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -5530,7 +5506,7 @@
     {
       "fusion_type": "Special",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Chuckwalla Shard",
       "right_count": 2,
@@ -5540,7 +5516,7 @@
     {
       "fusion_type": "Special",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Leviathan Shard",
       "right_count": 2,
@@ -6113,7 +6089,7 @@
       "left_count": 2,
       "left_skyblock_id": "SHARD_CHUCKWALLA",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -6470,7 +6446,7 @@
     {
       "fusion_type": "Special",
       "left_name": "Goldolot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_GOLDOLOT",
       "right_name": "Leviathan Shard",
       "right_count": 2,

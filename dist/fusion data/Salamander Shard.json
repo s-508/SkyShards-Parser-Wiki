@@ -758,7 +758,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Lizard King Shard",
       "output_count": 2
@@ -766,7 +766,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Newt Shard",
       "output_count": 2
@@ -774,7 +774,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Tewtil Shard",
       "output_count": 1
@@ -1002,14 +1002,6 @@
       "right_skyblock_id": "SHARD_SPRAWL",
       "output_name": "Lizard King Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Sprawl Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SPRAWL",
-      "output_name": "Mossybit Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "ID",
@@ -3182,7 +3174,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Leviathan Shard",
       "output_count": 2
@@ -3190,7 +3182,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Lizard King Shard",
       "output_count": 2
@@ -3198,7 +3190,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Tide Shard",
       "output_count": 2
@@ -5893,7 +5885,7 @@
       "left_count": 2,
       "left_skyblock_id": "SHARD_NEWT",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_count": 2
     },
@@ -6203,7 +6195,7 @@
       "left_count": 2,
       "left_skyblock_id": "SHARD_NEWT",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },

@@ -349,14 +349,6 @@
     },
     {
       "fusion_type": "ID",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_name": "Lord Jawbus Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "right_name": "Rainbug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RAINBUG",
@@ -794,6 +786,16 @@
       "left_name": "Brineling Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BRINELING",
+      "right_name": "Spike Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SPIKE",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
       "right_name": "Spike Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SPIKE",
@@ -1302,7 +1304,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Spike Shard",
       "right_count": 5,
@@ -2262,7 +2264,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Goldolot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_GOLDOLOT",
       "right_name": "Spike Shard",
       "right_count": 5,
@@ -3087,16 +3089,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Spike Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SPIKE",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
       "output_count": 1
     },
     {

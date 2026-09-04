@@ -14,7 +14,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Tewtil Shard",
       "output_count": 1
@@ -22,7 +22,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Woodlouse Shard",
       "output_count": 1
@@ -361,22 +361,6 @@
       "right_count": 5,
       "right_skyblock_id": "SHARD_MOTH",
       "output_name": "Mosquito Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Mosquito Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOSQUITO",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Rabbit Cat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RABBIT_CAT",
-      "output_name": "Woodlouse Shard",
       "output_count": 1
     },
     {
@@ -2174,7 +2158,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Bramble Shard",
       "output_count": 2
@@ -2182,7 +2166,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Torrid Shard",
       "output_count": 1
@@ -2190,7 +2174,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Woodlouse Shard",
       "output_count": 1
@@ -2234,14 +2218,6 @@
       "right_skyblock_id": "SHARD_DRYBARK",
       "output_name": "Bramble Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Drybark Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRYBARK",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -3428,14 +3404,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Mountain Goat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOUNTAIN_GOAT",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Scatha Shard",
       "right_count": 5,
@@ -4388,14 +4356,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Grizzly Bear Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Galaxy Fish Shard",
       "right_count": 5,
@@ -4508,14 +4468,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Cocoaleech Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Titanoboa Shard",
       "right_count": 2,
@@ -4554,14 +4506,6 @@
       "right_skyblock_id": "SHARD_RAINBUG",
       "output_name": "Bramble Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",

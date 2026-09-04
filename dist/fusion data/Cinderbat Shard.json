@@ -221,25 +221,9 @@
     },
     {
       "fusion_type": "ID",
-      "right_name": "Cocoaleech Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_name": "Grizzly Bear Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_name": "Grizzly Bear Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_name": "Grizzly Bear Shard",
       "output_count": 1
     },
@@ -2421,6 +2405,66 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Tenebris Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TENEBRIS",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Wyvern Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_WYVERN",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Rabbit Godfather Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_GODFATHER",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Wartybug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WARTYBUG",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Macaw Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MACAW",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Hideonbox Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONBOX",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
       "left_name": "Foxtrot Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_FOXTROT",
@@ -4752,7 +4796,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Tenebris Shard",
       "right_count": 2,
@@ -4762,7 +4806,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Wyvern Shard",
       "right_count": 2,
@@ -4772,7 +4816,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Rabbit Godfather Shard",
       "right_count": 5,
@@ -4782,7 +4826,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Wartybug Shard",
       "right_count": 5,
@@ -4792,7 +4836,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Hideonbox Shard",
       "right_count": 5,
@@ -8762,7 +8806,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Goldolot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_GOLDOLOT",
       "right_name": "Tenebris Shard",
       "right_count": 2,
@@ -8772,7 +8816,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Goldolot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_GOLDOLOT",
       "right_name": "Wyvern Shard",
       "right_count": 2,
@@ -8782,7 +8826,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Goldolot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_GOLDOLOT",
       "right_name": "Rabbit Godfather Shard",
       "right_count": 5,
@@ -8792,7 +8836,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Goldolot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_GOLDOLOT",
       "right_name": "Wartybug Shard",
       "right_count": 5,
@@ -11154,16 +11198,6 @@
       "left_name": "Tenebris Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_TENEBRIS",
-      "right_name": "Grizzly Bear Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Tenebris Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TENEBRIS",
       "right_name": "Galaxy Fish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GALAXY_FISH",
@@ -11204,29 +11238,9 @@
       "left_name": "Tenebris Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_TENEBRIS",
-      "right_name": "Cocoaleech Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Tenebris Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TENEBRIS",
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Tenebris Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TENEBRIS",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {
@@ -11654,16 +11668,6 @@
       "left_name": "Wyvern Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_WYVERN",
-      "right_name": "Grizzly Bear Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Wyvern Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_WYVERN",
       "right_name": "Galaxy Fish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GALAXY_FISH",
@@ -11704,29 +11708,9 @@
       "left_name": "Wyvern Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_WYVERN",
-      "right_name": "Cocoaleech Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Wyvern Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_WYVERN",
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Wyvern Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_WYVERN",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {
@@ -12014,16 +11998,6 @@
       "left_name": "Rabbit Godfather Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_RABBIT_GODFATHER",
-      "right_name": "Grizzly Bear Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Rabbit Godfather Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_RABBIT_GODFATHER",
       "right_name": "Galaxy Fish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GALAXY_FISH",
@@ -12064,29 +12038,9 @@
       "left_name": "Rabbit Godfather Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_RABBIT_GODFATHER",
-      "right_name": "Cocoaleech Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Rabbit Godfather Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_RABBIT_GODFATHER",
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Rabbit Godfather Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_RABBIT_GODFATHER",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {
@@ -12324,16 +12278,6 @@
       "left_name": "Wartybug Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WARTYBUG",
-      "right_name": "Grizzly Bear Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Wartybug Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WARTYBUG",
       "right_name": "Galaxy Fish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GALAXY_FISH",
@@ -12374,29 +12318,9 @@
       "left_name": "Wartybug Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WARTYBUG",
-      "right_name": "Cocoaleech Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Wartybug Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WARTYBUG",
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Wartybug Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WARTYBUG",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {

@@ -494,7 +494,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Bambloom Shard",
       "output_count": 2
@@ -502,7 +502,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Tewtil Shard",
       "output_count": 1
@@ -510,7 +510,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Woodlouse Shard",
       "output_count": 1
@@ -1036,28 +1036,12 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Mosquito Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOSQUITO",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Rabbit Cat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_CAT",
       "output_name": "Bambloom Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Rabbit Cat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RABBIT_CAT",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -3030,7 +3014,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Pandarai Shard",
       "output_count": 2
@@ -3038,7 +3022,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Bambloom Shard",
       "output_count": 2
@@ -3046,7 +3030,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Bramble Shard",
       "output_count": 2
@@ -6257,6 +6241,26 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Bambuleaf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BAMBULEAF",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Seagull Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SEAGULL",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
       "left_name": "Foxtrot Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_FOXTROT",
@@ -6821,7 +6825,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_BAMBULEAF",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_count": 1
     },
@@ -6947,26 +6951,6 @@
     },
     {
       "fusion_type": "ID",
-      "left_name": "Bambuleaf Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BAMBULEAF",
-      "right_name": "Mosquito Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOSQUITO",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Bambuleaf Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BAMBULEAF",
-      "right_name": "Rabbit Cat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RABBIT_CAT",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "left_name": "Seagull Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SEAGULL",
@@ -7061,7 +7045,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_SEAGULL",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_count": 1
     },
@@ -7103,16 +7087,6 @@
       "right_name": "Sprawl Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SPRAWL",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Seagull Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SEAGULL",
-      "right_name": "Rabbit Cat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RABBIT_CAT",
       "output_count": 1
     },
     {

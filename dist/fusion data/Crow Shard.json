@@ -621,6 +621,14 @@
     },
     {
       "fusion_type": "Special",
+      "right_name": "Chocobun Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CHOCOBUN",
+      "output_name": "Boreal Owl Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
       "right_name": "Foxtrot Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FOXTROT",
@@ -738,14 +746,6 @@
       "right_skyblock_id": "SHARD_POLLENDART",
       "output_name": "Boreal Owl Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Pollendart Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_POLLENDART",
-      "output_name": "Mudworm Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -1974,7 +1974,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Kiwi Shard",
       "output_count": 2
@@ -1982,7 +1982,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Grove Shard",
       "output_count": 2
@@ -1990,7 +1990,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Boreal Owl Shard",
       "output_count": 2
@@ -4638,7 +4638,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Falcon Shard",
       "output_count": 2
@@ -4646,7 +4646,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Kiwi Shard",
       "output_count": 2
@@ -4654,7 +4654,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Grove Shard",
       "output_count": 2

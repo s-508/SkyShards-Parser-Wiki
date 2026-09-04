@@ -133,6 +133,14 @@
     },
     {
       "fusion_type": "ID",
+      "right_name": "Chocobun Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CHOCOBUN",
+      "output_name": "Haggard Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
       "right_name": "Foxtrot Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FOXTROT",
@@ -177,14 +185,6 @@
       "right_count": 5,
       "right_skyblock_id": "SHARD_GROUNDHOG",
       "output_name": "Blue Jay Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Timil Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TIMIL",
-      "output_name": "Haggard Shard",
       "output_count": 1
     },
     {
@@ -1342,7 +1342,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Mist Shard",
       "output_count": 2
@@ -1350,7 +1350,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Newt Shard",
       "output_count": 2
@@ -1358,7 +1358,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Tewtil Shard",
       "output_count": 1
@@ -1650,14 +1650,6 @@
       "right_skyblock_id": "SHARD_SPRAWL",
       "output_name": "Mist Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Sprawl Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SPRAWL",
-      "output_name": "Haggard Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -3726,7 +3718,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Mist Shard",
       "output_count": 2
@@ -3734,7 +3726,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Newt Shard",
       "output_count": 2
@@ -3742,7 +3734,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Torrid Shard",
       "output_count": 1
@@ -3778,14 +3770,6 @@
       "right_skyblock_id": "SHARD_TORRID",
       "output_name": "Mist Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Torrid Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TORRID",
-      "output_name": "Haggard Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -4722,14 +4706,6 @@
       "right_skyblock_id": "SHARD_GIANT_ISOPOD",
       "output_name": "Mist Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
-      "output_name": "Haggard Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -5786,14 +5762,6 @@
       "right_skyblock_id": "SHARD_TITANOBOA",
       "output_name": "Mist Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_name": "Haggard Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",

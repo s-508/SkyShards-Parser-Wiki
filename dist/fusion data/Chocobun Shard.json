@@ -1,14 +1,734 @@
 {
-  "name": "Treefrog Shard",
-  "fusion_required": 2,
-  "skyblock_id": "SHARD_TREEFROG",
+  "name": "Chocobun Shard",
+  "fusion_required": 5,
+  "skyblock_id": "SHARD_CHOCOBUN",
   "input_recipes": [
+    {
+      "fusion_type": "ID",
+      "right_name": "Foxtrot Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOXTROT",
+      "output_name": "Firefox Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Firefox Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FIREFOX",
+      "output_name": "Groundhog Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Groundhog Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GROUNDHOG",
+      "output_name": "Blue Jay Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Blue Jay Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BLUE_JAY",
+      "output_name": "Boreal Owl Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Blue Jay Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BLUE_JAY",
+      "output_name": "Bunbun Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Bunbun Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BUNBUN",
+      "output_name": "Honeybuzz Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Honeybuzz Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HONEYBUZZ",
+      "output_name": "Pollendart Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bramble Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_BRAMBLE",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Bramble Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_BRAMBLE",
+      "output_name": "Field Mouse Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Tide Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TIDE",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Tide Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TIDE",
+      "output_name": "Mossybit Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Quake Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_QUAKE",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Quake Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_QUAKE",
+      "output_name": "Rain Slime Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sparrow Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SPARROW",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sparrow Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SPARROW",
+      "output_name": "Boreal Owl Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Sparrow Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SPARROW",
+      "output_name": "Field Mouse Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Goldfin Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GOLDFIN",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Goldfin Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GOLDFIN",
+      "output_name": "Mossybit Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Troglobyte Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TROGLOBYTE",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Troglobyte Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TROGLOBYTE",
+      "output_name": "Rain Slime Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideoncave Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONCAVE",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideoncave Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONCAVE",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Hideoncave Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONCAVE",
+      "output_name": "Field Mouse Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Salamander Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_SALAMANDER",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Salamander Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_SALAMANDER",
+      "output_name": "Mossybit Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cuboa Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CUBOA",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Cuboa Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CUBOA",
+      "output_name": "Rain Slime Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Field Mouse Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PEST",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Field Mouse Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PEST",
+      "output_name": "Cricket Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Mossybit Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_MOSSYBIT",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Mossybit Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_MOSSYBIT",
+      "output_name": "Wetwing Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rain Slime Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RAIN_SLIME",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Rain Slime Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RAIN_SLIME",
+      "output_name": "Seer Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Wetwing Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WETWING",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Wetwing Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WETWING",
+      "output_name": "Sea Witch Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Seer Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SEER",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Seer Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SEER",
+      "output_name": "Obsidian Defender Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Heron Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HERON",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Heron Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HERON",
+      "output_name": "Boreal Owl Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Heron Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HERON",
+      "output_name": "Cricket Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sea Witch Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SEA_WITCH",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Sea Witch Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SEA_WITCH",
+      "output_name": "Salmon Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Obsidian Defender Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_OBSIDIAN_DEFENDER",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Obsidian Defender Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_OBSIDIAN_DEFENDER",
+      "output_name": "Zombie Soldier Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Cricket Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CRICKET",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Cricket Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CRICKET",
+      "output_name": "Praying Mantis Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Salmon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SALMON",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Salmon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SALMON",
+      "output_name": "Lotum Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Viper Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_VIPER",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Viper Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_VIPER",
+      "output_name": "Zombie Soldier Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Praying Mantis Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PRAYING_MANTIS",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Praying Mantis Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PRAYING_MANTIS",
+      "output_name": "Bambuleaf Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Lotum Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_LOTUM",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Lotum Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_LOTUM",
+      "output_name": "Treasure Hoarder Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Zombie Soldier Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ZOMBIE_SOLDIER",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Zombie Soldier Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ZOMBIE_SOLDIER",
+      "output_name": "Sycophant Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Bambuleaf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BAMBULEAF",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Bambuleaf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BAMBULEAF",
+      "output_name": "Mochibear Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Treasure Hoarder Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TREASURE_HOARDER",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Treasure Hoarder Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TREASURE_HOARDER",
+      "output_name": "Ent Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sycophant Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SYCOPHANT",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Sycophant Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SYCOPHANT",
+      "output_name": "Soul of the Alpha Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Seagull Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SEAGULL",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Seagull Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SEAGULL",
+      "output_name": "Boreal Owl Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Seagull Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SEAGULL",
+      "output_name": "Mochibear Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Ent Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ENT",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Ent Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ENT",
+      "output_name": "Magma Slug Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Soul of the Alpha Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Soul of the Alpha Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
+      "output_name": "Flaming Spider Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Mochibear Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOCHIBEAR",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Mochibear Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOCHIBEAR",
+      "output_name": "Woodlouse Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Magma Slug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MAGMA_SLUG",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Magma Slug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MAGMA_SLUG",
+      "output_name": "Stridersurfer Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Flaming Spider Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLAMING_SPIDER",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Flaming Spider Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLAMING_SPIDER",
+      "output_name": "Zealot Bruiser Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Kiwi Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_KIWI",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Kiwi Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_KIWI",
+      "output_name": "Boreal Owl Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Kiwi Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_KIWI",
+      "output_name": "Woodlouse Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Zealot Bruiser Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BRUISER",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Zealot Bruiser Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BRUISER",
+      "output_name": "Minos Hunter Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Stridersurfer Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_STRIDER_SURFER",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Stridersurfer Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_STRIDER_SURFER",
+      "output_name": "Flipflopper Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Rana Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_RANA",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Rana Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_RANA",
+      "output_name": "Minos Hunter Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Earthworm Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TERMITE",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Earthworm Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TERMITE",
+      "output_name": "Woodlouse Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Flipflopper Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLIP_FLOPPER",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Flipflopper Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLIP_FLOPPER",
+      "output_name": "Bayou Sludge Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Polaris Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_POLARIS",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Polaris Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_POLARIS",
+      "output_name": "Minos Hunter Shard",
+      "output_count": 1
+    },
     {
       "fusion_type": "Special",
       "right_name": "Treefrog Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TREEFROG",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -20,6 +740,14 @@
       "output_count": 1
     },
     {
+      "fusion_type": "Special",
+      "right_name": "Bayou Sludge Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BAYOU_SLUDGE",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
       "fusion_type": "ID",
       "right_name": "Bayou Sludge Shard",
       "right_count": 5,
@@ -28,19 +756,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Bayou Sludge Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BAYOU_SLUDGE",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Areita Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_AREITA",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -52,27 +772,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Areita Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_AREITA",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Bluebird Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BLUEBIRD",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Bluebird Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BLUEBIRD",
-      "output_name": "Kiwi Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -85,6 +789,22 @@
     },
     {
       "fusion_type": "ID",
+      "right_name": "Bluebird Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BLUEBIRD",
+      "output_name": "Woodlouse Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Osedax Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_OSEDAX",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
       "right_name": "Osedax Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_OSEDAX",
@@ -92,19 +812,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Osedax Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_OSEDAX",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Duplico Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DUPLICO",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -116,19 +828,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Duplico Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DUPLICO",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Litterbug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LITTERBUG",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -140,6 +844,14 @@
       "output_count": 1
     },
     {
+      "fusion_type": "Special",
+      "right_name": "Water Snake Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_WATER_SNAKE",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
       "fusion_type": "ID",
       "right_name": "Water Snake Shard",
       "right_count": 2,
@@ -148,19 +860,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Water Snake Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_WATER_SNAKE",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Gazer Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GAZER",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -172,19 +876,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Gazer Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GAZER",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Honeybug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HONEYBUG",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -194,6 +890,14 @@
       "right_skyblock_id": "SHARD_HONEYBUG",
       "output_name": "Woodlouse Shard",
       "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Shuddersquid Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SHUDDERSQUID",
+      "output_name": "Grove Shard",
+      "output_count": 2
     },
     {
       "fusion_type": "ID",
@@ -204,19 +908,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Shuddersquid Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SHUDDERSQUID",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Solsnatcher Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SOLSNATCHER",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -226,6 +922,14 @@
       "right_skyblock_id": "SHARD_SOLSNATCHER",
       "output_name": "Woodlouse Shard",
       "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Sepialot Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_SEPIALOT",
+      "output_name": "Grove Shard",
+      "output_count": 2
     },
     {
       "fusion_type": "ID",
@@ -236,19 +940,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Sepialot Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_SEPIALOT",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Honey Badger Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HONEY_BADGER",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -260,19 +956,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Honey Badger Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HONEY_BADGER",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Driftling Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DRIFTLING",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -284,6 +972,14 @@
       "output_count": 1
     },
     {
+      "fusion_type": "Special",
+      "right_name": "Tewtil Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TEWTIL",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
       "fusion_type": "ID",
       "right_name": "Tewtil Shard",
       "right_count": 2,
@@ -292,19 +988,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Tewtil Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TEWTIL",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Minos Hunter Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MINOS_HUNTER",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -316,19 +1004,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Minos Hunter Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MINOS_HUNTER",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Woodchucker Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOODCHUCKER",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -338,6 +1018,14 @@
       "right_skyblock_id": "SHARD_WOODCHUCKER",
       "output_name": "Woodlouse Shard",
       "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Solar Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SOLAR",
+      "output_name": "Grove Shard",
+      "output_count": 2
     },
     {
       "fusion_type": "ID",
@@ -348,28 +1036,12 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Solar Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SOLAR",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Parched Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARCHED",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Parched Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PARCHED",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "ID",
@@ -384,7 +1056,7 @@
       "right_name": "Bloodbat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BLOODBAT",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -400,16 +1072,8 @@
       "right_name": "Dustybit Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DUSTYBIT",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Dustybit Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DUSTYBIT",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "ID",
@@ -424,7 +1088,7 @@
       "right_name": "Woodlouse Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOODLOUSE",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -436,12 +1100,12 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
+      "fusion_type": "Special",
       "right_name": "Ember Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_EMBER",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
+      "output_name": "Grove Shard",
+      "output_count": 2
     },
     {
       "fusion_type": "ID",
@@ -456,16 +1120,8 @@
       "right_name": "Cheeky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CHEEKY_TIKI",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Cheeky Tiki Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CHEEKY_TIKI",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "ID",
@@ -480,15 +1136,7 @@
       "right_name": "Red Panda Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RED_PANDA",
-      "output_name": "Bambloom Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Red Panda Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RED_PANDA",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -500,28 +1148,20 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
+      "fusion_type": "Special",
       "right_name": "Sprawl Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SPRAWL",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
+      "output_name": "Grove Shard",
+      "output_count": 2
     },
     {
       "fusion_type": "Special",
       "right_name": "Sneaky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNEAKY_TIKI",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Sneaky Tiki Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SNEAKY_TIKI",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "ID",
@@ -536,16 +1176,8 @@
       "right_name": "Shrieky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SHRIEKY_TIKI",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Shrieky Tiki Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SHRIEKY_TIKI",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "ID",
@@ -560,15 +1192,7 @@
       "right_name": "Woodpecker Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOODPECKER",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Woodpecker Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WOODPECKER",
-      "output_name": "Kiwi Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -580,27 +1204,27 @@
       "output_count": 2
     },
     {
+      "fusion_type": "ID",
+      "right_name": "Woodpecker Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WOODPECKER",
+      "output_name": "Rat Shard",
+      "output_count": 1
+    },
+    {
       "fusion_type": "Special",
       "right_name": "Honeymite Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HONEYMITE",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Honeymite Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HONEYMITE",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Queen Ant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_QUEEN_ANT",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -616,15 +1240,7 @@
       "right_name": "Hawk Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HAWK",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Hawk Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HAWK",
-      "output_name": "Kiwi Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -636,11 +1252,19 @@
       "output_count": 2
     },
     {
+      "fusion_type": "ID",
+      "right_name": "Hawk Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HAWK",
+      "output_name": "Rat Shard",
+      "output_count": 1
+    },
+    {
       "fusion_type": "Special",
       "right_name": "June Bug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_JUNE_BUG",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -656,7 +1280,7 @@
       "right_name": "Dung Beetle Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DUNG_BEETLE",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -672,7 +1296,7 @@
       "right_name": "Rat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RAT",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -688,7 +1312,7 @@
       "right_name": "Keeled Slug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_KEELED_SLUG",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -704,7 +1328,7 @@
       "right_name": "Mite Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MITE",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -720,7 +1344,7 @@
       "right_name": "Moth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MOTH",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -736,7 +1360,7 @@
       "right_name": "Mosquito Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MOSQUITO",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -744,7 +1368,7 @@
       "right_name": "Rabbit Cat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_CAT",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -752,31 +1376,23 @@
       "right_name": "Sylvan Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_SYLVAN",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Sylvan Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_SYLVAN",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Sylvan Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_SYLVAN",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Beaconmite Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Cascade Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CASCADE",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -788,27 +1404,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Cascade Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_CASCADE",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Bolt Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_BOLT",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Bolt Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_BOLT",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -824,31 +1424,23 @@
       "right_name": "Bambloom Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BAMBLOOM",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Bambloom Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BAMBLOOM",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Bambloom Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BAMBLOOM",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Beaconmite Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Toad Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TOAD",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -860,27 +1452,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Toad Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TOAD",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Glacite Walker Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GLACITE_WALKER",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Glacite Walker Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GLACITE_WALKER",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -896,31 +1472,23 @@
       "right_name": "Beaconmite Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BEACONMITE",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Beaconmite Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BEACONMITE",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Beaconmite Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BEACONMITE",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Invisibug Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Lizard King Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_LIZARD_KING",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -932,27 +1500,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Lizard King Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_LIZARD_KING",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Python Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_PYTHON",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Python Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_PYTHON",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -968,31 +1520,23 @@
       "right_name": "Invisibug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_INVISIBUG",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Invisibug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_INVISIBUG",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Invisibug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_INVISIBUG",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Beetle Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Piranha Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PIRANHA",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1004,51 +1548,35 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Piranha Shard",
+      "fusion_type": "Special",
+      "right_name": "Hideongeon Shard",
       "right_count": 5,
-      "right_skyblock_id": "SHARD_PIRANHA",
-      "output_name": "Woodlouse Shard",
+      "right_skyblock_id": "SHARD_HIDEONGEON",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Hideongeon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONGEON",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Hideongeon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONGEON",
+      "output_name": "Beetle Shard",
       "output_count": 1
     },
     {
       "fusion_type": "Special",
-      "right_name": "Hideongeon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONGEON",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Hideongeon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONGEON",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Hideongeon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONGEON",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
       "right_name": "Lapis Skeleton Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LAPIS_SKELETON",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Lapis Skeleton Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LAPIS_SKELETON",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1064,39 +1592,23 @@
       "right_name": "Beetle Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CROPEETLE",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Beetle Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CROPEETLE",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Beetle Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CROPEETLE",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Thyst Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Drowned Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DROWNED",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Drowned Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DROWNED",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1112,7 +1624,7 @@
       "right_name": "Vulture Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_VULTURE",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1120,31 +1632,23 @@
       "right_name": "Vulture Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_VULTURE",
-      "output_name": "Bullfrog Shard",
+      "output_name": "Boreal Owl Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Vulture Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_VULTURE",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Thyst Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Star Sentry Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STAR_SENTRY",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Star Sentry Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_STAR_SENTRY",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1160,7 +1664,7 @@
       "right_name": "Hideondra Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONDRA",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1168,23 +1672,23 @@
       "right_name": "Hideondra Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONDRA",
-      "output_name": "Bullfrog Shard",
+      "output_name": "Hideongift Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Hideondra Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONDRA",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Thyst Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Abyssal Lanternfish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ABYSSAL_LANTERN",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1196,27 +1700,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Abyssal Lanternfish Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ABYSSAL_LANTERN",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Arachne Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ARACHNE",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Arachne Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ARACHNE",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1232,31 +1720,23 @@
       "right_name": "Bitbug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BITBUG",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Bitbug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BITBUG",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Bitbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BITBUG",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Thyst Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Lava Leech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LAVA_LEECH",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1268,27 +1748,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Lava Leech Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LAVA_LEECH",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Revenant Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_REVENANT",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1304,7 +1768,7 @@
       "right_name": "Silentdepth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILENTDEPTH",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1316,27 +1780,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Silentdepth Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SILENTDEPTH",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Skeletor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SKELETOR",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Skeletor Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SKELETOR",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1352,31 +1800,23 @@
       "right_name": "Thyst Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_THYST",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Thyst Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_THYST",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Thyst Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_THYST",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Dreadwing Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Seashine Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEA_SHINE",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1388,27 +1828,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Seashine Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SEA_SHINE",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Quartzfang Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_QUARTZFANG",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Quartzfang Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_QUARTZFANG",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1424,7 +1848,7 @@
       "right_name": "Hideonring Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONRING",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1432,23 +1856,23 @@
       "right_name": "Hideonring Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONRING",
-      "output_name": "Bullfrog Shard",
+      "output_name": "Hideongift Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Hideonring Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONRING",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Dreadwing Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Snowfin Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNOWFIN",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1460,27 +1884,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Snowfin Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SNOWFIN",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Kada Knight Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_KADA_KNIGHT",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Kada Knight Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_KADA_KNIGHT",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1496,7 +1904,7 @@
       "right_name": "Hummingbird Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HUMMINGBIRD",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1504,23 +1912,23 @@
       "right_name": "Hummingbird Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HUMMINGBIRD",
-      "output_name": "Bullfrog Shard",
+      "output_name": "Boreal Owl Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Hummingbird Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HUMMINGBIRD",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Dreadwing Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Carrot King Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CARROT_KING",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1532,27 +1940,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Carrot King Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CARROT_KING",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Wither Spectre Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WITHER_SPECTER",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Wither Spectre Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WITHER_SPECTER",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1568,39 +1960,23 @@
       "right_name": "Badger Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BADGER",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Badger Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BADGER",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Badger Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BADGER",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Dreadwing Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Matcho Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MATCHO",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Matcho Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MATCHO",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1616,31 +1992,23 @@
       "right_name": "Ladybug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LADYBUG",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Ladybug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LADYBUG",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Ladybug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LADYBUG",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Dreadwing Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Lumisquid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LUMISQUID",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1652,27 +2020,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Lumisquid Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LUMISQUID",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Crocodile Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CROCODILE",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Crocodile Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_CROCODILE",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1688,39 +2040,23 @@
       "right_name": "Wild Hog Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WILD_HOG",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Wild Hog Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WILD_HOG",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Wild Hog Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WILD_HOG",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Dreadwing Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Bullfrog Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_BULLFROG",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Bullfrog Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_BULLFROG",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1736,31 +2072,23 @@
       "right_name": "Dreadwing Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DREADWING",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Dreadwing Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DREADWING",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Dreadwing Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DREADWING",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Fungloom Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Joydive Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_JOYDIVE",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1772,27 +2100,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Joydive Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_JOYDIVE",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Stalagmight Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STALAGMIGHT",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Stalagmight Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_STALAGMIGHT",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1808,31 +2120,23 @@
       "right_name": "Fungloom Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FUNGLOOM",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Fungloom Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FUNGLOOM",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Fungloom Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_FUNGLOOM",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Hewver Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Eel Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_EEL",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1844,27 +2148,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Eel Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_EEL",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "King Cobra Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_KING_COBRA",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "King Cobra Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_KING_COBRA",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1880,31 +2168,23 @@
       "right_name": "Hewver Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HEWVER",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Hewver Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HEWVER",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Hewver Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HEWVER",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Hivethief Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Lava Flame Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LAVA_FLAME",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1916,27 +2196,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Lava Flame Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LAVA_FLAME",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Draconic Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DRACONIC",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Draconic Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRACONIC",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1952,7 +2216,7 @@
       "right_name": "Falcon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FALCON",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1960,23 +2224,23 @@
       "right_name": "Falcon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FALCON",
-      "output_name": "Bullfrog Shard",
+      "output_name": "Boreal Owl Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Falcon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FALCON",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Hivethief Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Inferno Koi Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_INFERNO_KOI",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -1988,27 +2252,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Inferno Koi Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_INFERNO_KOI",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Wither Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WITHER",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Wither Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WITHER",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2024,31 +2272,23 @@
       "right_name": "Gecko Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_GECKO",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Gecko Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_GECKO",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Gecko Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_GECKO",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Hivethief Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Wiki Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WIKI_TIKI",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2060,27 +2300,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Wiki Tiki Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WIKI_TIKI",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Minotaur Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MINOTAUR",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Minotaur Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MINOTAUR",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2096,31 +2320,23 @@
       "right_name": "Hivethief Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIVETHIEF",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Hivethief Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIVETHIEF",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Hivethief Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIVETHIEF",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Puck Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Maggot Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MAGGOT",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2132,27 +2348,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Maggot Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MAGGOT",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Snoozle Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNOOZLE",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Snoozle Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SNOOZLE",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2168,7 +2368,7 @@
       "right_name": "Parakeet Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAKEET",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2176,23 +2376,23 @@
       "right_name": "Parakeet Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAKEET",
-      "output_name": "Bullfrog Shard",
+      "output_name": "Boreal Owl Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Parakeet Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAKEET",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Puck Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Thunder Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_THUNDER",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2204,27 +2404,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Thunder Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_THUNDER",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Rockmite Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ROCKMITE",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Rockmite Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ROCKMITE",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2240,39 +2424,23 @@
       "right_name": "Anteater Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ANTEATER",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Anteater Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ANTEATER",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Anteater Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ANTEATER",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Puck Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Scrappy Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SCRAPPY",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Scrappy Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SCRAPPY",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2288,31 +2456,23 @@
       "right_name": "Hideyho Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEYHO",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Hideyho Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEYHO",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Hideyho Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEYHO",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Puck Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Mantis Shrimp Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MANTIS_SHRIMP",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2324,27 +2484,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Mantis Shrimp Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MANTIS_SHRIMP",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Chuckwalla Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CHUCKWALLA",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Chuckwalla Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_CHUCKWALLA",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2360,7 +2504,7 @@
       "right_name": "Hideonfloor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONFLOOR",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2368,23 +2512,23 @@
       "right_name": "Hideonfloor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONFLOOR",
-      "output_name": "Bullfrog Shard",
+      "output_name": "Hideongift Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Hideonfloor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONFLOOR",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Puck Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Gimmiegold Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GIMMIEGOLD",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2396,27 +2540,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Gimmiegold Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIMMIEGOLD",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Billygoat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BILLYGOAT",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Billygoat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BILLYGOAT",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2432,7 +2560,7 @@
       "right_name": "Hideonwall Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONWALL",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2440,23 +2568,23 @@
       "right_name": "Hideonwall Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONWALL",
-      "output_name": "Bullfrog Shard",
+      "output_name": "Hideongift Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Hideonwall Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONWALL",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Puck Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Nozzlenose Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_NOZZLENOSE",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2465,14 +2593,6 @@
       "right_count": 5,
       "right_skyblock_id": "SHARD_NOZZLENOSE",
       "output_name": "Stingray Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Nozzlenose Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_NOZZLENOSE",
-      "output_name": "Woodlouse Shard",
       "output_count": 1
     },
     {
@@ -2480,15 +2600,7 @@
       "right_name": "Stoneworm Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STONEWORM",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Stoneworm Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_STONEWORM",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2504,31 +2616,23 @@
       "right_name": "Fluffling Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FLUFFLING",
-      "output_name": "Bambloom Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Fluffling Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FLUFFLING",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Fluffling Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_FLUFFLING",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
+      "output_name": "Puck Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Stingray Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STINGRAY",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2540,67 +2644,35 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Stingray Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_STINGRAY",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Zombuddy Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ZOMBUDDY",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
       "fusion_type": "Special",
-      "right_name": "Zombuddy Shard",
+      "right_name": "Puck Shard",
       "right_count": 5,
-      "right_skyblock_id": "SHARD_ZOMBUDDY",
-      "output_name": "Rana Shard",
+      "right_skyblock_id": "SHARD_PUCK",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
       "fusion_type": "ID",
-      "right_name": "Zombuddy Shard",
+      "right_name": "Puck Shard",
       "right_count": 5,
-      "right_skyblock_id": "SHARD_ZOMBUDDY",
-      "output_name": "Woodlouse Shard",
+      "right_skyblock_id": "SHARD_PUCK",
+      "output_name": "Pangolin Shard",
       "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Puck Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PUCK",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Puck Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PUCK",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Puck Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PUCK",
-      "output_name": "Bramble Shard",
-      "output_count": 2
     },
     {
       "fusion_type": "Special",
       "right_name": "Troodon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TROODON",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2612,67 +2684,35 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Troodon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TROODON",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Black Widow Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BLACK_WIDOW",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
       "fusion_type": "Special",
-      "right_name": "Black Widow Shard",
+      "right_name": "Pangolin Shard",
       "right_count": 5,
-      "right_skyblock_id": "SHARD_BLACK_WIDOW",
-      "output_name": "Rana Shard",
+      "right_skyblock_id": "SHARD_PANGOLIN",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
       "fusion_type": "ID",
-      "right_name": "Black Widow Shard",
+      "right_name": "Pangolin Shard",
       "right_count": 5,
-      "right_skyblock_id": "SHARD_BLACK_WIDOW",
-      "output_name": "Woodlouse Shard",
+      "right_skyblock_id": "SHARD_PANGOLIN",
+      "output_name": "Murkbat Shard",
       "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Pangolin Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PANGOLIN",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Pangolin Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PANGOLIN",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Pangolin Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PANGOLIN",
-      "output_name": "Bramble Shard",
-      "output_count": 2
     },
     {
       "fusion_type": "Special",
       "right_name": "Giant Water Bug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GIANT_WATER_BUG",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2684,43 +2724,27 @@
       "output_count": 1
     },
     {
+      "fusion_type": "Special",
+      "right_name": "Murkbat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MURKBAT",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
       "fusion_type": "ID",
-      "right_name": "Giant Water Bug Shard",
+      "right_name": "Murkbat Shard",
       "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_WATER_BUG",
-      "output_name": "Woodlouse Shard",
+      "right_skyblock_id": "SHARD_MURKBAT",
+      "output_name": "Drybark Shard",
       "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Murkbat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MURKBAT",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Murkbat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MURKBAT",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Murkbat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MURKBAT",
-      "output_name": "Bramble Shard",
-      "output_count": 2
     },
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2732,107 +2756,59 @@
       "output_count": 1
     },
     {
+      "fusion_type": "Special",
+      "right_name": "Rabbit Neighbor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_NEIGHBOR",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
       "fusion_type": "ID",
-      "right_name": "Goldolot Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_GOLDOLOT",
-      "output_name": "Woodlouse Shard",
+      "right_name": "Rabbit Neighbor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_NEIGHBOR",
+      "output_name": "Drybark Shard",
       "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Rabbit Neighbor Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RABBIT_NEIGHBOR",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Rabbit Neighbor Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RABBIT_NEIGHBOR",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Rabbit Neighbor Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RABBIT_NEIGHBOR",
-      "output_name": "Bramble Shard",
-      "output_count": 2
     },
     {
       "fusion_type": "Special",
       "right_name": "Torrid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TORRID",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Drybark Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DRYBARK",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Terra Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TERRA",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
       "fusion_type": "ID",
-      "right_name": "Torrid Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TORRID",
-      "output_name": "Woodlouse Shard",
+      "right_name": "Terra Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TERRA",
+      "output_name": "XYZ Shard",
       "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Drybark Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRYBARK",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Drybark Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRYBARK",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Drybark Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRYBARK",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Terra Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TERRA",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Terra Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TERRA",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Terra Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TERRA",
-      "output_name": "Bramble Shard",
-      "output_count": 2
     },
     {
       "fusion_type": "Special",
       "right_name": "Cryo Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CRYO",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2844,27 +2820,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Cryo Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_CRYO",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Aero Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_AERO",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Aero Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_AERO",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2880,31 +2840,23 @@
       "right_name": "Pandarai Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PANDARAI",
-      "output_name": "Bambloom Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Pandarai Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PANDARAI",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Pandarai Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PANDARAI",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
+      "output_name": "XYZ Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Leviathan Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_LEVIATHAN",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2916,27 +2868,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Leviathan Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_LEVIATHAN",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Alligator Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_ALLIGATOR",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Alligator Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_ALLIGATOR",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2952,31 +2888,23 @@
       "right_name": "Fenlord Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_FENLORD",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Fenlord Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_FENLORD",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Fenlord Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_FENLORD",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "XYZ Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Abyssal Miner Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ABYSSAL_MINER",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -2988,27 +2916,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Abyssal Miner Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ABYSSAL_MINER",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Basilisk Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_BASILISK",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Basilisk Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_BASILISK",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3024,31 +2936,23 @@
       "right_name": "Iguana Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_IGUANA",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Iguana Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_IGUANA",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Iguana Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_IGUANA",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "XYZ Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Moray Eel Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_MORAY_EEL",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3060,27 +2964,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Moray Eel Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_MORAY_EEL",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Special Zealot Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SPECIAL_ZEALOT",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Special Zealot Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SPECIAL_ZEALOT",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3096,31 +2984,23 @@
       "right_name": "Lunar Moth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LUNAR_MOTH",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Lunar Moth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LUNAR_MOTH",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Lunar Moth Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LUNAR_MOTH",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "XYZ Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Fire Eel Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_FIRE_EEL",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3132,27 +3012,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Fire Eel Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_FIRE_EEL",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Bal Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BAL",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Bal Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BAL",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3168,7 +3032,7 @@
       "right_name": "Hideonsack Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONSACK",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3176,23 +3040,23 @@
       "right_name": "Hideonsack Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONSACK",
-      "output_name": "Bullfrog Shard",
+      "output_name": "Hideongift Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Hideonsack Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONSACK",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "XYZ Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Water Hydra Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WATER_HYDRA",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3204,27 +3068,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Water Hydra Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WATER_HYDRA",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Flare Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FLARE",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Flare Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_FLARE",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3240,31 +3088,23 @@
       "right_name": "Murderwing Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MURDERWING",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Murderwing Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MURDERWING",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Murderwing Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MURDERWING",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "XYZ Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Loch Emperor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEA_EMPEROR",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3276,27 +3116,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Loch Emperor Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SEA_EMPEROR",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Prince Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PRINCE",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Prince Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PRINCE",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3312,31 +3136,23 @@
       "right_name": "Komodo Dragon Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_KOMODO_DRAGON",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Komodo Dragon Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_KOMODO_DRAGON",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Komodo Dragon Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_KOMODO_DRAGON",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "XYZ Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Blue Crab Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BLUE_CRAB",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3348,27 +3164,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Blue Crab Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BLUE_CRAB",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Mimic Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MIMIC",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Mimic Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MIMIC",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3384,31 +3184,23 @@
       "right_name": "Wolverine Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOLVERINE",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Wolverine Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOLVERINE",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Wolverine Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WOLVERINE",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "XYZ Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Shellwise Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_SHELLWISE",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3420,27 +3212,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Shellwise Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_SHELLWISE",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Barbarian Duke X Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Barbarian Duke X Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3456,7 +3232,7 @@
       "right_name": "Toucan Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TOUCAN",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3464,31 +3240,23 @@
       "right_name": "Toucan Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TOUCAN",
-      "output_name": "Bullfrog Shard",
+      "output_name": "Boreal Owl Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Toucan Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TOUCAN",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "XYZ Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Caiman Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CAIMAN",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Caiman Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_CAIMAN",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3504,31 +3272,23 @@
       "right_name": "Firefly Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FIREFLY",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Firefly Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FIREFLY",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Firefly Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_FIREFLY",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "XYZ Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Sea Serpent Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_SEA_SERPENT",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3540,27 +3300,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Sea Serpent Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_SEA_SERPENT",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Ghost Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GHOST",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Ghost Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GHOST",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3576,31 +3320,23 @@
       "right_name": "XYZ Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_XYZ",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "XYZ Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_XYZ",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "XYZ Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_XYZ",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Dive Ghast Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Leatherback Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_LEATHERBACK",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3612,27 +3348,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Leatherback Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_LEATHERBACK",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Cavernshade Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CAVERNSHADE",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Cavernshade Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CAVERNSHADE",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3648,39 +3368,23 @@
       "right_name": "Dragonfly Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DRAGONFLY",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Dragonfly Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DRAGONFLY",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Dragonfly Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRAGONFLY",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Dive Ghast Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Sphinx Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SPHINX",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Sphinx Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SPHINX",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3696,15 +3400,7 @@
       "right_name": "King Minos Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_KING_MINOS",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "King Minos Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_KING_MINOS",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3720,31 +3416,23 @@
       "right_name": "Dive Ghast Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DIVE_GHAST",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Dive Ghast Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DIVE_GHAST",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Dive Ghast Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DIVE_GHAST",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Mountain Goat Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Silkbreeze Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILKBREEZE",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3756,27 +3444,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Silkbreeze Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SILKBREEZE",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Gemzie Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GEMZIE",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Gemzie Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GEMZIE",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3792,47 +3464,23 @@
       "right_name": "Rabbit Godmother Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_GODMOTHER",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Rabbit Godmother Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_GODMOTHER",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Rabbit Godmother Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RABBIT_GODMOTHER",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Mountain Goat Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Giant Isopod Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GIANT_ISOPOD",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Inferno Demonlord Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BURNINGSOUL",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3840,7 +3488,7 @@
       "right_name": "Inferno Demonlord Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BURNINGSOUL",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3856,39 +3504,23 @@
       "right_name": "Queen Bee Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_QUEEN_BEE",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Queen Bee Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_QUEEN_BEE",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Queen Bee Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_QUEEN_BEE",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Mountain Goat Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Bonzo Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BONZO",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Bonzo Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BONZO",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3904,39 +3536,23 @@
       "right_name": "Beeheemoth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BEEHEEMOTH",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Beeheemoth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BEEHEEMOTH",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Beeheemoth Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BEEHEEMOTH",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Mountain Goat Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Scarf Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SCARF",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Scarf Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SCARF",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3952,15 +3568,7 @@
       "right_name": "Thorn Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_THORN",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Thorn Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_THORN",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -3976,23 +3584,7 @@
       "right_name": "Mountain Goat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MOUNTAIN_GOAT",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Mountain Goat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOUNTAIN_GOAT",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Mountain Goat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOUNTAIN_GOAT",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4000,15 +3592,7 @@
       "right_name": "Scatha Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SCATHA",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Scatha Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SCATHA",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4024,15 +3608,7 @@
       "right_name": "Nilbog Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_NILBOG",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Nilbog Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_NILBOG",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4048,55 +3624,31 @@
       "right_name": "Littlefoot Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LITTLEFOOT",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
       "fusion_type": "Special",
-      "right_name": "Littlefoot Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LITTLEFOOT",
-      "output_name": "Rana Shard",
+      "right_name": "Tenebris Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TENEBRIS",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
       "fusion_type": "ID",
-      "right_name": "Littlefoot Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LITTLEFOOT",
-      "output_name": "Woodlouse Shard",
+      "right_name": "Tenebris Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TENEBRIS",
+      "output_name": "Cinderbat Shard",
       "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Tenebris Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TENEBRIS",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Tenebris Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TENEBRIS",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Tenebris Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TENEBRIS",
-      "output_name": "Bramble Shard",
-      "output_count": 2
     },
     {
       "fusion_type": "Special",
       "right_name": "Blizzard Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_BLIZZARD",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4108,27 +3660,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Blizzard Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_BLIZZARD",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Tempest Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TEMPEST",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Tempest Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TEMPEST",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4144,7 +3680,7 @@
       "right_name": "Chameleon Shard",
       "right_count": 1,
       "right_skyblock_id": "SHARD_CHAMELEON",
-      "output_name": "Bayou Sludge Shard",
+      "output_name": "Foxtrot Shard",
       "output_count": 1
     },
     {
@@ -4152,7 +3688,7 @@
       "right_name": "Chameleon Shard",
       "right_count": 1,
       "right_skyblock_id": "SHARD_CHAMELEON",
-      "output_name": "Areita Shard",
+      "output_name": "Bramble Shard",
       "output_count": 1
     },
     {
@@ -4160,7 +3696,7 @@
       "right_name": "Chameleon Shard",
       "right_count": 1,
       "right_skyblock_id": "SHARD_CHAMELEON",
-      "output_name": "Bluebird Shard",
+      "output_name": "Tide Shard",
       "output_count": 1
     },
     {
@@ -4168,7 +3704,7 @@
       "right_name": "Nessie Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_NESSIE",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4180,27 +3716,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Nessie Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_NESSIE",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Tiamat Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TIAMAT",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Tiamat Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TIAMAT",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4216,31 +3736,23 @@
       "right_name": "Wyvern Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_WYVERN",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Wyvern Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_WYVERN",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Wyvern Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_WYVERN",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Cinderbat Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Tortoise Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TORTOISE",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4252,27 +3764,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Tortoise Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TORTOISE",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "End Stone Protector Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ENDSTONE_PROTECTOR",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "End Stone Protector Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ENDSTONE_PROTECTOR",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4288,31 +3784,23 @@
       "right_name": "Rabbit Godfather Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_GODFATHER",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Rabbit Godfather Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_GODFATHER",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Rabbit Godfather Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RABBIT_GODFATHER",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Cinderbat Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Naga Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_NAGA",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4324,27 +3812,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Naga Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_NAGA",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Lapis Creeper Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LAPIS_CREEPER",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Lapis Creeper Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LAPIS_CREEPER",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4360,31 +3832,23 @@
       "right_name": "Wartybug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WARTYBUG",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Wartybug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WARTYBUG",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Wartybug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WARTYBUG",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Cinderbat Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Spike Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SPIKE",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4396,27 +3860,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Spike Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SPIKE",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Kraken Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_KRAKEN",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Kraken Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_KRAKEN",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4432,7 +3880,7 @@
       "right_name": "Taurus Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TAURUS",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4444,27 +3892,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Taurus Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TAURUS",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Daemon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DAEMON",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Daemon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DAEMON",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4480,7 +3912,7 @@
       "right_name": "Moltenfish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MOLTENFISH",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4492,27 +3924,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Moltenfish Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOLTENFISH",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Doomspiral Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_DOOMSPIRAL",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Doomspiral Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_DOOMSPIRAL",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4528,7 +3944,7 @@
       "right_name": "Macaw Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MACAW",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4536,23 +3952,23 @@
       "right_name": "Macaw Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MACAW",
-      "output_name": "Bullfrog Shard",
+      "output_name": "Boreal Owl Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Macaw Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MACAW",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Cinderbat Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Shinyfish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SHINYFISH",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4564,35 +3980,35 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Shinyfish Shard",
+      "fusion_type": "Special",
+      "right_name": "Ananke Shard",
       "right_count": 5,
-      "right_skyblock_id": "SHARD_SHINYFISH",
-      "output_name": "Woodlouse Shard",
+      "right_skyblock_id": "SHARD_ANANKE",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Ananke Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ANANKE",
+      "output_name": "Boreal Owl Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "right_name": "Ananke Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ANANKE",
+      "output_name": "Hellwisp Shard",
       "output_count": 1
     },
     {
       "fusion_type": "Special",
-      "right_name": "Ananke Shard",
+      "right_name": "Hideonbox Shard",
       "right_count": 5,
-      "right_skyblock_id": "SHARD_ANANKE",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Ananke Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ANANKE",
-      "output_name": "Kiwi Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Ananke Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ANANKE",
-      "output_name": "Rana Shard",
+      "right_skyblock_id": "SHARD_HIDEONBOX",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4600,31 +4016,23 @@
       "right_name": "Hideonbox Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONBOX",
-      "output_name": "Toad Shard",
+      "output_name": "Hideongift Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Hideonbox Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONBOX",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Hideonbox Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONBOX",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Cinderbat Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Lord Jawbus Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LORD_JAWBUS",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4636,67 +4044,35 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Lord Jawbus Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LORD_JAWBUS",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Hellwisp Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HELLWISP",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
       "fusion_type": "Special",
-      "right_name": "Hellwisp Shard",
+      "right_name": "Cinderbat Shard",
       "right_count": 5,
-      "right_skyblock_id": "SHARD_HELLWISP",
-      "output_name": "Rana Shard",
+      "right_skyblock_id": "SHARD_CINDER_BAT",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
       "fusion_type": "ID",
-      "right_name": "Hellwisp Shard",
+      "right_name": "Cinderbat Shard",
       "right_count": 5,
-      "right_skyblock_id": "SHARD_HELLWISP",
-      "output_name": "Woodlouse Shard",
+      "right_skyblock_id": "SHARD_CINDER_BAT",
+      "output_name": "Grizzly Bear Shard",
       "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Cinderbat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CINDER_BAT",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Cinderbat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CINDER_BAT",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Cinderbat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CINDER_BAT",
-      "output_name": "Bramble Shard",
-      "output_count": 2
     },
     {
       "fusion_type": "Special",
       "right_name": "Megalith Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_MEGALITH",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4705,14 +4081,6 @@
       "right_count": 2,
       "right_skyblock_id": "SHARD_MEGALITH",
       "output_name": "Titanoboa Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Megalith Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_MEGALITH",
-      "output_name": "Woodlouse Shard",
       "output_count": 1
     },
     {
@@ -4728,15 +4096,7 @@
       "right_name": "Power Dragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_POWER_DRAGON",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Power Dragon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_POWER_DRAGON",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4744,7 +4104,7 @@
       "right_name": "Condor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CONDOR",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4752,23 +4112,23 @@
       "right_name": "Condor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CONDOR",
-      "output_name": "Bullfrog Shard",
+      "output_name": "Boreal Owl Shard",
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
+      "fusion_type": "ID",
       "right_name": "Condor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CONDOR",
-      "output_name": "Bramble Shard",
-      "output_count": 2
+      "output_name": "Grizzly Bear Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Sun Fish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SUN_FISH",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4780,67 +4140,43 @@
       "output_count": 1
     },
     {
+      "fusion_type": "Special",
+      "right_name": "Apex Dragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_APEX_DRAGON",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Dodo Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DODO",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "right_name": "Dodo Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DODO",
+      "output_name": "Boreal Owl Shard",
+      "output_count": 2
+    },
+    {
       "fusion_type": "ID",
-      "right_name": "Sun Fish Shard",
+      "right_name": "Dodo Shard",
       "right_count": 5,
-      "right_skyblock_id": "SHARD_SUN_FISH",
-      "output_name": "Woodlouse Shard",
+      "right_skyblock_id": "SHARD_DODO",
+      "output_name": "Grizzly Bear Shard",
       "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Apex Dragon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_APEX_DRAGON",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Apex Dragon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_APEX_DRAGON",
-      "output_name": "Rana Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Apex Dragon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_APEX_DRAGON",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Dodo Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DODO",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Dodo Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DODO",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Dodo Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DODO",
-      "output_name": "Bramble Shard",
-      "output_count": 2
     },
     {
       "fusion_type": "Special",
       "right_name": "Queen Snake Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_QUEEN_SNAKE",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4852,43 +4188,19 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Queen Snake Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_QUEEN_SNAKE",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Jormung Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_JORMUNG",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Jormung Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_JORMUNG",
-      "output_name": "Rana Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Jormung Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_JORMUNG",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Ghost Crab Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GHOST_CRAB",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4900,43 +4212,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Ghost Crab Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GHOST_CRAB",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Etherdrake Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ETHERDRAKE",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Etherdrake Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ETHERDRAKE",
-      "output_name": "Rana Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Etherdrake Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ETHERDRAKE",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Grizzly Bear Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4944,15 +4224,7 @@
       "right_name": "Grizzly Bear Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Grizzly Bear Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4960,7 +4232,7 @@
       "right_name": "Galaxy Fish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GALAXY_FISH",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -4972,43 +4244,19 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Galaxy Fish Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GALAXY_FISH",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Molthorn Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MOLTHORN",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Molthorn Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOLTHORN",
-      "output_name": "Rana Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Molthorn Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOLTHORN",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
       "right_name": "Starborn Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_STARBORN",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -5020,43 +4268,11 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Starborn Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_STARBORN",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Primordial Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PRIMORDIAL",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Primordial Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PRIMORDIAL",
-      "output_name": "Rana Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Primordial Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PRIMORDIAL",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Cocoaleech Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -5064,15 +4280,7 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Cocoaleech Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -5080,23 +4288,7 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Toad Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -5104,15 +4296,7 @@
       "right_name": "Rainbug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -5120,31 +4304,7 @@
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Paragon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PARAGON",
-      "output_name": "Rana Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Paragon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PARAGON",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Timestalk Clone Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TIMESTALK_CLONE",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -5152,23 +4312,7 @@
       "right_name": "Timestalk Clone Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TIMESTALK_CLONE",
-      "output_name": "Rana Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Timestalk Clone Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TIMESTALK_CLONE",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "right_name": "Wumpa Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WUMPA",
-      "output_name": "Bramble Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
     },
     {
@@ -5176,24 +4320,26 @@
       "right_name": "Wumpa Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WUMPA",
-      "output_name": "Rana Shard",
+      "output_name": "Grove Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Wumpa Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WUMPA",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
     }
   ],
   "output_recipes": [
     {
-      "fusion_type": "Chameleon",
-      "left_name": "Earthworm Shard",
+      "fusion_type": "Special",
+      "left_name": "Rabbit Mafioso Shard",
       "left_count": 5,
-      "left_skyblock_id": "SHARD_TERMITE",
+      "left_skyblock_id": "SHARD_RABBIT_MAFIOSO",
+      "right_name": "Bunbun Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BUNBUN",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Chameleon",
+      "left_name": "Honeyhog Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HONEYHOG",
       "right_name": "Chameleon Shard",
       "right_count": 1,
       "right_skyblock_id": "SHARD_CHAMELEON",
@@ -5201,9 +4347,9 @@
     },
     {
       "fusion_type": "Chameleon",
-      "left_name": "Flipflopper Shard",
+      "left_name": "Shyworm Shard",
       "left_count": 5,
-      "left_skyblock_id": "SHARD_FLIP_FLOPPER",
+      "left_skyblock_id": "SHARD_SHYWORM",
       "right_name": "Chameleon Shard",
       "right_count": 1,
       "right_skyblock_id": "SHARD_CHAMELEON",
@@ -5211,13 +4357,53 @@
     },
     {
       "fusion_type": "Chameleon",
-      "left_name": "Polaris Shard",
+      "left_name": "Brineling Shard",
       "left_count": 5,
-      "left_skyblock_id": "SHARD_POLARIS",
+      "left_skyblock_id": "SHARD_BRINELING",
       "right_name": "Chameleon Shard",
       "right_count": 1,
       "right_skyblock_id": "SHARD_CHAMELEON",
       "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Bunbun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BUNBUN",
+      "right_name": "Rabbit Cat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_CAT",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Bunbun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BUNBUN",
+      "right_name": "Rabbit Neighbor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_NEIGHBOR",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Bunbun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BUNBUN",
+      "right_name": "Rabbit Godmother Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_GODMOTHER",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Bunbun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BUNBUN",
+      "right_name": "Rabbit Godfather Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_RABBIT_GODFATHER",
+      "output_count": 2
     }
   ]
 }

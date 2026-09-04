@@ -644,14 +644,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Pollendart Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_POLLENDART",
-      "output_name": "Hideonleaf Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Bramble Shard",
       "right_count": 2,
@@ -1790,7 +1782,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Grove Shard",
       "output_count": 2
@@ -1798,7 +1790,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Tewtil Shard",
       "output_count": 1
@@ -1806,7 +1798,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Hideonleaf Shard",
       "output_count": 1
@@ -2332,28 +2324,12 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Mosquito Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOSQUITO",
-      "output_name": "Hideonleaf Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Rabbit Cat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_CAT",
       "output_name": "Grove Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Rabbit Cat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RABBIT_CAT",
-      "output_name": "Hideonleaf Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -4286,7 +4262,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Grove Shard",
       "output_count": 2
@@ -4294,7 +4270,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Dreadwing Shard",
       "output_count": 2
@@ -4302,7 +4278,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Torrid Shard",
       "output_count": 1
@@ -4370,14 +4346,6 @@
       "right_skyblock_id": "SHARD_DRYBARK",
       "output_name": "Dreadwing Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Drybark Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRYBARK",
-      "output_name": "Hideonleaf Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -7126,16 +7094,6 @@
       "left_name": "Phanpyre Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_PHANPYRE",
-      "right_name": "Pollendart Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_POLLENDART",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Phanpyre Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_PHANPYRE",
       "right_name": "Tide Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TIDE",
@@ -7477,7 +7435,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_PHANPYRE",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_count": 1
     },
@@ -7606,26 +7564,6 @@
       "left_name": "Phanpyre Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_PHANPYRE",
-      "right_name": "Mosquito Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOSQUITO",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Phanpyre Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_PHANPYRE",
-      "right_name": "Rabbit Cat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RABBIT_CAT",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Phanpyre Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_PHANPYRE",
       "right_name": "Zombuddy Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ZOMBUDDY",
@@ -7649,16 +7587,6 @@
       "right_name": "Torrid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TORRID",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Phanpyre Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_PHANPYRE",
-      "right_name": "Drybark Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRYBARK",
       "output_count": 1
     },
     {

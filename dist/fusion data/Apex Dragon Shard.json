@@ -541,6 +541,16 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Power Dragon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_POWER_DRAGON",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
       "left_name": "Foxtrot Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_FOXTROT",
@@ -1132,7 +1142,7 @@
     {
       "fusion_type": "Special",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Power Dragon Shard",
       "right_count": 5,
@@ -2242,7 +2252,7 @@
     {
       "fusion_type": "Special",
       "left_name": "Goldolot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_GOLDOLOT",
       "right_name": "Power Dragon Shard",
       "right_count": 5,

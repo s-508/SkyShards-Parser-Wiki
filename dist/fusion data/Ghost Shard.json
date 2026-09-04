@@ -420,14 +420,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Littlefoot Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LITTLEFOOT",
-      "output_name": "Sphinx Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Tenebris Shard",
       "right_count": 2,
@@ -1020,14 +1012,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Hellwisp Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HELLWISP",
-      "output_name": "Sphinx Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Cinderbat Shard",
       "right_count": 5,
@@ -1164,14 +1148,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Apex Dragon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_APEX_DRAGON",
-      "output_name": "Sphinx Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Dodo Shard",
       "right_count": 5,
@@ -1236,14 +1212,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Jormung Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_JORMUNG",
-      "output_name": "Sphinx Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Ghost Crab Shard",
       "right_count": 5,
@@ -1282,14 +1250,6 @@
       "right_skyblock_id": "SHARD_ETHERDRAKE",
       "output_name": "Troglobyte Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Etherdrake Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ETHERDRAKE",
-      "output_name": "Sphinx Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -1356,14 +1316,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Molthorn Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOLTHORN",
-      "output_name": "Sphinx Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Starborn Shard",
       "right_count": 2,
@@ -1402,14 +1354,6 @@
       "right_skyblock_id": "SHARD_PRIMORDIAL",
       "output_name": "Troglobyte Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Primordial Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PRIMORDIAL",
-      "output_name": "Sphinx Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -1492,14 +1436,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Paragon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PARAGON",
-      "output_name": "Sphinx Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Timestalk Clone Shard",
       "right_count": 5,
@@ -1516,14 +1452,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Timestalk Clone Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TIMESTALK_CLONE",
-      "output_name": "Sphinx Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Wumpa Shard",
       "right_count": 5,
@@ -1538,14 +1466,6 @@
       "right_skyblock_id": "SHARD_WUMPA",
       "output_name": "Troglobyte Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Wumpa Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WUMPA",
-      "output_name": "Sphinx Shard",
-      "output_count": 1
     }
   ],
   "output_recipes": [
@@ -2344,6 +2264,26 @@
       "left_name": "Brineling Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BRINELING",
+      "right_name": "Caiman Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CAIMAN",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Barbarian Duke X Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
       "right_name": "Caiman Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CAIMAN",
@@ -3362,7 +3302,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Barbarian Duke X Shard",
       "right_count": 5,
@@ -3372,7 +3312,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Caiman Shard",
       "right_count": 2,
@@ -5322,7 +5262,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Goldolot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_GOLDOLOT",
       "right_name": "Barbarian Duke X Shard",
       "right_count": 5,
@@ -5332,7 +5272,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Goldolot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_GOLDOLOT",
       "right_name": "Caiman Shard",
       "right_count": 2,
@@ -6054,16 +5994,6 @@
       "left_name": "Barbarian Duke X Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
-      "right_name": "Littlefoot Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LITTLEFOOT",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Barbarian Duke X Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
       "right_name": "Tenebris Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TENEBRIS",
@@ -6194,16 +6124,6 @@
       "left_name": "Barbarian Duke X Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
-      "right_name": "Hellwisp Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HELLWISP",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Barbarian Duke X Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
       "right_name": "Cinderbat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CINDER_BAT",
@@ -6224,29 +6144,9 @@
       "left_name": "Barbarian Duke X Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
-      "right_name": "Power Dragon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_POWER_DRAGON",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Barbarian Duke X Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
       "right_name": "Sun Fish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SUN_FISH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Barbarian Duke X Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
-      "right_name": "Apex Dragon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_APEX_DRAGON",
       "output_count": 1
     },
     {
@@ -6264,29 +6164,9 @@
       "left_name": "Barbarian Duke X Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
-      "right_name": "Jormung Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_JORMUNG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Barbarian Duke X Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
       "right_name": "Ghost Crab Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GHOST_CRAB",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Barbarian Duke X Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
-      "right_name": "Etherdrake Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ETHERDRAKE",
       "output_count": 1
     },
     {
@@ -6314,29 +6194,9 @@
       "left_name": "Barbarian Duke X Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
-      "right_name": "Molthorn Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOLTHORN",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Barbarian Duke X Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
       "right_name": "Starborn Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_STARBORN",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Barbarian Duke X Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
-      "right_name": "Primordial Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PRIMORDIAL",
       "output_count": 1
     },
     {
@@ -6367,36 +6227,6 @@
       "right_name": "Rainbug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Barbarian Duke X Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
-      "right_name": "Paragon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PARAGON",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Barbarian Duke X Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
-      "right_name": "Timestalk Clone Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TIMESTALK_CLONE",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Barbarian Duke X Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
-      "right_name": "Wumpa Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WUMPA",
       "output_count": 1
     },
     {
@@ -6527,16 +6357,6 @@
       "right_name": "Mountain Goat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MOUNTAIN_GOAT",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Caiman Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CAIMAN",
-      "right_name": "Littlefoot Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LITTLEFOOT",
       "output_count": 1
     },
     {
@@ -6684,16 +6504,6 @@
       "left_name": "Caiman Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_CAIMAN",
-      "right_name": "Hellwisp Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HELLWISP",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Caiman Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CAIMAN",
       "right_name": "Cinderbat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CINDER_BAT",
@@ -6724,16 +6534,6 @@
       "left_name": "Caiman Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_CAIMAN",
-      "right_name": "Apex Dragon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_APEX_DRAGON",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Caiman Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CAIMAN",
       "right_name": "Queen Snake Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_QUEEN_SNAKE",
@@ -6744,29 +6544,9 @@
       "left_name": "Caiman Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_CAIMAN",
-      "right_name": "Jormung Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_JORMUNG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Caiman Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CAIMAN",
       "right_name": "Ghost Crab Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GHOST_CRAB",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Caiman Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CAIMAN",
-      "right_name": "Etherdrake Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ETHERDRAKE",
       "output_count": 1
     },
     {
@@ -6794,29 +6574,9 @@
       "left_name": "Caiman Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_CAIMAN",
-      "right_name": "Molthorn Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOLTHORN",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Caiman Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CAIMAN",
       "right_name": "Starborn Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_STARBORN",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Caiman Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CAIMAN",
-      "right_name": "Primordial Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PRIMORDIAL",
       "output_count": 1
     },
     {
@@ -6847,36 +6607,6 @@
       "right_name": "Rainbug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Caiman Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CAIMAN",
-      "right_name": "Paragon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PARAGON",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Caiman Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CAIMAN",
-      "right_name": "Timestalk Clone Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TIMESTALK_CLONE",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Caiman Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CAIMAN",
-      "right_name": "Wumpa Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WUMPA",
       "output_count": 1
     },
     {

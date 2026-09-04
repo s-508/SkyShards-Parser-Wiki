@@ -1174,7 +1174,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Hideongift Shard",
       "output_count": 2
@@ -1182,7 +1182,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Dreadwing Shard",
       "output_count": 1
@@ -1190,7 +1190,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Torrid Shard",
       "output_count": 1
@@ -1234,14 +1234,6 @@
       "right_skyblock_id": "SHARD_DRYBARK",
       "output_name": "Hideongift Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Drybark Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRYBARK",
-      "output_name": "Dreadwing Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -5011,7 +5003,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_HIDEONGEON",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -6771,7 +6763,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_HIDEONDRA",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -9811,7 +9803,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_HIDEONFLOOR",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -10871,7 +10863,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_HIDEONWALL",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -11948,7 +11940,7 @@
     {
       "fusion_type": "Special",
       "left_name": "Goldolot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_GOLDOLOT",
       "right_name": "Hideonsack Shard",
       "right_count": 5,
@@ -11958,7 +11950,7 @@
     {
       "fusion_type": "Special",
       "left_name": "Goldolot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_GOLDOLOT",
       "right_name": "Hideonbox Shard",
       "right_count": 5,

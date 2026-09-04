@@ -614,7 +614,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Fungloom Shard",
       "output_count": 1
@@ -622,7 +622,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Torrid Shard",
       "output_count": 1
@@ -640,14 +640,6 @@
       "right_name": "Torrid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TORRID",
-      "output_name": "Fungloom Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Drybark Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRYBARK",
       "output_name": "Fungloom Shard",
       "output_count": 1
     },
@@ -1836,14 +1828,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Mountain Goat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOUNTAIN_GOAT",
-      "output_name": "Fungloom Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Scatha Shard",
       "right_count": 5,
@@ -2796,14 +2780,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Grizzly Bear Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
-      "output_name": "Fungloom Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Galaxy Fish Shard",
       "right_count": 5,
@@ -2916,14 +2892,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Cocoaleech Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_name": "Fungloom Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Titanoboa Shard",
       "right_count": 2,
@@ -2962,14 +2930,6 @@
       "right_skyblock_id": "SHARD_RAINBUG",
       "output_name": "Sylvan Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Fungloom Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -4041,7 +4001,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_PHANPYRE",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -5901,7 +5861,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_PHANFLARE",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 2
     },
@@ -8757,6 +8717,66 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Thyst Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_THYST",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Hideonring Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HIDEONRING",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Hummingbird Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HUMMINGBIRD",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Badger Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BADGER",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Ladybug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LADYBUG",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Wild Hog Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_WILD_HOG",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
       "left_name": "Foxtrot Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_FOXTROT",
@@ -11128,7 +11148,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Thyst Shard",
       "right_count": 5,
@@ -11138,7 +11158,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Hideonring Shard",
       "right_count": 5,
@@ -11148,7 +11168,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Badger Shard",
       "right_count": 5,
@@ -11158,7 +11178,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Ladybug Shard",
       "right_count": 5,
@@ -11168,7 +11188,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Wild Hog Shard",
       "right_count": 5,
@@ -13891,7 +13911,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_THYST",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 1
     },
@@ -13903,16 +13923,6 @@
       "right_name": "Torrid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TORRID",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Thyst Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_THYST",
-      "right_name": "Drybark Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRYBARK",
       "output_count": 1
     },
     {
@@ -14033,16 +14043,6 @@
       "right_name": "Giant Isopod Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GIANT_ISOPOD",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Thyst Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_THYST",
-      "right_name": "Mountain Goat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOUNTAIN_GOAT",
       "output_count": 1
     },
     {
@@ -14223,16 +14223,6 @@
       "right_name": "Etherdrake Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ETHERDRAKE",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Thyst Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_THYST",
-      "right_name": "Grizzly Bear Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
       "output_count": 1
     },
     {
@@ -14761,7 +14751,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_HIDEONRING",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 1
     },
@@ -14773,16 +14763,6 @@
       "right_name": "Torrid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TORRID",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Hideonring Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONRING",
-      "right_name": "Drybark Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRYBARK",
       "output_count": 1
     },
     {
@@ -15241,7 +15221,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_BADGER",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 1
     },
@@ -15253,16 +15233,6 @@
       "right_name": "Torrid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TORRID",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Badger Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BADGER",
-      "right_name": "Drybark Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRYBARK",
       "output_count": 1
     },
     {
@@ -15590,16 +15560,6 @@
       "left_name": "Badger Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BADGER",
-      "right_name": "Mountain Goat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOUNTAIN_GOAT",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Badger Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BADGER",
       "right_name": "Scatha Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SCATHA",
@@ -15880,16 +15840,6 @@
       "left_name": "Badger Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BADGER",
-      "right_name": "Grizzly Bear Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Badger Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BADGER",
       "right_name": "Galaxy Fish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GALAXY_FISH",
@@ -15930,29 +15880,9 @@
       "left_name": "Badger Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BADGER",
-      "right_name": "Cocoaleech Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Badger Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BADGER",
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Badger Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BADGER",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {
@@ -16321,7 +16251,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_LADYBUG",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 1
     },
@@ -16333,16 +16263,6 @@
       "right_name": "Torrid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TORRID",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Ladybug Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LADYBUG",
-      "right_name": "Drybark Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRYBARK",
       "output_count": 1
     },
     {
@@ -16630,16 +16550,6 @@
       "left_name": "Ladybug Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_LADYBUG",
-      "right_name": "Mountain Goat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOUNTAIN_GOAT",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Ladybug Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LADYBUG",
       "right_name": "Littlefoot Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LITTLEFOOT",
@@ -16900,16 +16810,6 @@
       "left_name": "Ladybug Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_LADYBUG",
-      "right_name": "Grizzly Bear Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Ladybug Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LADYBUG",
       "right_name": "Galaxy Fish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GALAXY_FISH",
@@ -16950,29 +16850,9 @@
       "left_name": "Ladybug Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_LADYBUG",
-      "right_name": "Cocoaleech Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Ladybug Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LADYBUG",
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Ladybug Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LADYBUG",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {
@@ -17311,7 +17191,7 @@
       "left_count": 5,
       "left_skyblock_id": "SHARD_WILD_HOG",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_count": 1
     },
@@ -17323,16 +17203,6 @@
       "right_name": "Torrid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TORRID",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Wild Hog Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WILD_HOG",
-      "right_name": "Drybark Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRYBARK",
       "output_count": 1
     },
     {
@@ -17660,16 +17530,6 @@
       "left_name": "Wild Hog Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WILD_HOG",
-      "right_name": "Mountain Goat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOUNTAIN_GOAT",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Wild Hog Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WILD_HOG",
       "right_name": "Scatha Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SCATHA",
@@ -17960,16 +17820,6 @@
       "left_name": "Wild Hog Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WILD_HOG",
-      "right_name": "Grizzly Bear Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Wild Hog Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WILD_HOG",
       "right_name": "Galaxy Fish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GALAXY_FISH",
@@ -18010,29 +17860,9 @@
       "left_name": "Wild Hog Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WILD_HOG",
-      "right_name": "Cocoaleech Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Wild Hog Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WILD_HOG",
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Wild Hog Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WILD_HOG",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {

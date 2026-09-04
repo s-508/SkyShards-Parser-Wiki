@@ -325,14 +325,6 @@
     },
     {
       "fusion_type": "ID",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
-      "output_name": "Shellwise Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "right_name": "Inferno Demonlord Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BURNINGSOUL",
@@ -1322,14 +1314,6 @@
       "right_skyblock_id": "SHARD_TITANOBOA",
       "output_name": "Cryo Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_name": "Shellwise Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",

@@ -94,7 +94,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Newt Shard",
       "output_count": 2
@@ -102,7 +102,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Torrid Shard",
       "output_count": 1
@@ -121,14 +121,6 @@
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_NEIGHBOR",
       "output_name": "Drybark Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Torrid Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TORRID",
-      "output_name": "Giant Water Bug Shard",
       "output_count": 1
     },
     {
@@ -1090,14 +1082,6 @@
       "right_skyblock_id": "SHARD_GIANT_ISOPOD",
       "output_name": "Cascade Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
-      "output_name": "Giant Water Bug Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -2162,14 +2146,6 @@
       "right_skyblock_id": "SHARD_TITANOBOA",
       "output_name": "Cascade Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_name": "Giant Water Bug Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -3959,6 +3935,46 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Thunder Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_THUNDER",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Mantis Shrimp Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MANTIS_SHRIMP",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Gimmiegold Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GIMMIEGOLD",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Nozzlenose Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_NOZZLENOSE",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
       "left_name": "Foxtrot Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_FOXTROT",
@@ -5960,7 +5976,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Thunder Shard",
       "right_count": 5,
@@ -5970,7 +5986,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Mantis Shrimp Shard",
       "right_count": 5,
@@ -5980,7 +5996,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Gimmiegold Shard",
       "right_count": 5,
@@ -5990,7 +6006,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Nozzlenose Shard",
       "right_count": 5,
@@ -9352,16 +9368,6 @@
       "left_name": "Thunder Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_THUNDER",
-      "right_name": "Torrid Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TORRID",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Thunder Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_THUNDER",
       "right_name": "Drybark Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DRYBARK",
@@ -9635,16 +9641,6 @@
       "right_name": "Rabbit Godmother Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_GODMOTHER",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Thunder Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_THUNDER",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
       "output_count": 1
     },
     {
@@ -9945,16 +9941,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Thunder Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_THUNDER",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
       "output_count": 1
     },
     {
@@ -10262,16 +10248,6 @@
       "left_name": "Mantis Shrimp Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MANTIS_SHRIMP",
-      "right_name": "Torrid Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TORRID",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Mantis Shrimp Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MANTIS_SHRIMP",
       "right_name": "Drybark Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DRYBARK",
@@ -10545,16 +10521,6 @@
       "right_name": "Rabbit Godmother Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_GODMOTHER",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Mantis Shrimp Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MANTIS_SHRIMP",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
       "output_count": 1
     },
     {
@@ -10862,16 +10828,6 @@
       "left_name": "Mantis Shrimp Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MANTIS_SHRIMP",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Mantis Shrimp Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MANTIS_SHRIMP",
       "right_name": "Rainbug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RAINBUG",
@@ -11045,16 +11001,6 @@
       "right_name": "Rabbit Neighbor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_NEIGHBOR",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Gimmiegold Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GIMMIEGOLD",
-      "right_name": "Torrid Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TORRID",
       "output_count": 1
     },
     {
@@ -11335,16 +11281,6 @@
       "right_name": "Rabbit Godmother Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_GODMOTHER",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Gimmiegold Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GIMMIEGOLD",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
       "output_count": 1
     },
     {
@@ -11532,16 +11468,6 @@
       "left_name": "Gimmiegold Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_GIMMIEGOLD",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Gimmiegold Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GIMMIEGOLD",
       "right_name": "Rainbug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RAINBUG",
@@ -11685,16 +11611,6 @@
       "right_name": "Rabbit Neighbor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_NEIGHBOR",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Nozzlenose Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_NOZZLENOSE",
-      "right_name": "Torrid Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TORRID",
       "output_count": 1
     },
     {
@@ -11975,16 +11891,6 @@
       "right_name": "Rabbit Godmother Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_GODMOTHER",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Nozzlenose Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_NOZZLENOSE",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
       "output_count": 1
     },
     {
@@ -12295,16 +12201,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Nozzlenose Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_NOZZLENOSE",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
       "output_count": 1
     },
     {

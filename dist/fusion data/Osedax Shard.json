@@ -110,7 +110,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Newt Shard",
       "output_count": 2
@@ -118,7 +118,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Sepialot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
       "output_name": "Tewtil Shard",
       "output_count": 1
@@ -305,14 +305,6 @@
       "right_count": 5,
       "right_skyblock_id": "SHARD_RED_PANDA",
       "output_name": "Rat Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Sprawl Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SPRAWL",
-      "output_name": "Water Snake Shard",
       "output_count": 1
     },
     {
@@ -2286,7 +2278,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Tide Shard",
       "output_count": 2
@@ -2294,7 +2286,7 @@
     {
       "fusion_type": "Special",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Newt Shard",
       "output_count": 2
@@ -2302,7 +2294,7 @@
     {
       "fusion_type": "ID",
       "right_name": "Goldolot Shard",
-      "right_count": 5,
+      "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
       "output_name": "Torrid Shard",
       "output_count": 1
@@ -2338,14 +2330,6 @@
       "right_skyblock_id": "SHARD_TORRID",
       "output_name": "Tide Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Torrid Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TORRID",
-      "output_name": "Water Snake Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -3290,14 +3274,6 @@
       "right_skyblock_id": "SHARD_GIANT_ISOPOD",
       "output_name": "Tide Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
-      "output_name": "Water Snake Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -4354,14 +4330,6 @@
       "right_skyblock_id": "SHARD_TITANOBOA",
       "output_name": "Tide Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_name": "Water Snake Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "Special",

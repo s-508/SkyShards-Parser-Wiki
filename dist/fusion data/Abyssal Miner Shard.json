@@ -724,14 +724,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
-      "output_name": "Water Hydra Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Inferno Demonlord Shard",
       "right_count": 5,
@@ -1860,14 +1852,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_name": "Water Hydra Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "right_name": "Rainbug Shard",
       "right_count": 5,
@@ -2760,6 +2744,26 @@
       "left_name": "Brineling Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BRINELING",
+      "right_name": "Leviathan Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_LEVIATHAN",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
+      "right_name": "Cryo Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CRYO",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chocobun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHOCOBUN",
       "right_name": "Leviathan Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_LEVIATHAN",
@@ -3768,7 +3772,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_SEPIALOT",
       "right_name": "Cryo Shard",
       "right_count": 2,
@@ -5698,7 +5702,7 @@
     {
       "fusion_type": "ID",
       "left_name": "Goldolot Shard",
-      "left_count": 5,
+      "left_count": 2,
       "left_skyblock_id": "SHARD_GOLDOLOT",
       "right_name": "Cryo Shard",
       "right_count": 2,
@@ -6090,16 +6094,6 @@
       "left_name": "Cryo Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_CRYO",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Cryo Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CRYO",
       "right_name": "Inferno Demonlord Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BURNINGSOUL",
@@ -6393,16 +6387,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Cryo Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CRYO",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
       "output_count": 1
     },
     {
@@ -6730,16 +6714,6 @@
       "left_name": "Leviathan Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_LEVIATHAN",
-      "right_name": "Giant Isopod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIANT_ISOPOD",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Leviathan Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_LEVIATHAN",
       "right_name": "Inferno Demonlord Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BURNINGSOUL",
@@ -7043,16 +7017,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Leviathan Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_LEVIATHAN",
-      "right_name": "Titanoboa Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TITANOBOA",
       "output_count": 1
     },
     {
