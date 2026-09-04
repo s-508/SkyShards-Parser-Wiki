@@ -78,12 +78,15 @@ DERIVED_OVERRIDE_FIELDS = frozenset({"fuse_amount"})
 
 # Apply corrections on top of the scraped wiki data
 overridden_ids = []
+excluded_ids = []
 fuse_amount_overrides: dict[str, int] = {}
 for shard_id, patch in overrides.items():
     if shard_id.startswith("_"):
         continue
     if shard_id not in output:
         raise ValueError(f"override for unknown shard id: {shard_id}")
+    if patch.get("_exclude"):
+        excluded_ids.append(shard_id)
     fields = {key: value for key, value in patch.items() if not key.startswith("_")}
     if "fuse_amount" in fields:
         fuse_amount_overrides[shard_id] = fields.pop("fuse_amount")
@@ -95,6 +98,11 @@ for shard_id, patch in overrides.items():
 if overridden_ids:
     applied = ", ".join(sorted(overridden_ids, key=cmp_to_key(cmp_id)))
     print(f"Applied {len(overridden_ids)} override(s): {applied}")
+if excluded_ids:
+    excluded_names = sorted(output[shard_id]["name"] for shard_id in excluded_ids)
+    print(f"Excluding {len(excluded_ids)} shard(s) not yet live on this branch: {', '.join(excluded_names)}")
+    for shard_id in excluded_ids:
+        del output[shard_id]
 
 missing_property_ids = sorted(set(shard_data) - set(output), key=cmp_to_key(cmp_id))
 extra_property_ids = sorted(set(output) - set(shard_data), key=cmp_to_key(cmp_id))
@@ -234,6 +242,9 @@ for shard_id, properties in output.items():
 if drift:
     message = (f"derived fusion results disagree with the wiki for {len(drift)} field(s):\n"
                + "\n".join(drift))
+    # An _exclude override legitimately shifts nearby ID-Fusion/Chameleon chains
+    # away from what the wiki (which still has the excluded shard) reports, so
+    # any active override -- exclusions included -- downgrades drift to a warning.
     if overridden_ids:
         print(f"Warning: {message}")
     else:

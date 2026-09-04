@@ -1211,7 +1211,7 @@
     "_wiki_chameleon_result": [
       "Shyworm",
       "Brineling",
-      "Bramble"
+      "Chocobun"
     ],
     "_wiki_chameleon_origin": [
       "Haggard",
@@ -1236,7 +1236,7 @@
     "_wiki_id_origin": [],
     "_wiki_chameleon_result": [
       "Brineling",
-      "Bramble",
+      "Chocobun",
       "Foxtrot"
     ],
     "_wiki_chameleon_origin": [
@@ -1261,14 +1261,40 @@
       "Haggard"
     ],
     "_wiki_chameleon_result": [
-      "Bramble",
+      "Chocobun",
       "Foxtrot",
-      "Tide"
+      "Bramble"
     ],
     "_wiki_chameleon_origin": [
       "Shyworm",
       "Honeyhog",
       "Haggard"
+    ]
+  },
+  "C48": {
+    "name": "Chocobun",
+    "rarity": "Common",
+    "category": "Forest",
+    "family": [
+      "Crime"
+    ],
+    "input1": "Bunbun Shard",
+    "input2": "Crime",
+    "synthesized": true,
+    "chameleon": true,
+    "recipe_type": null,
+    "_wiki_internal_id": "CHOCOBUN",
+    "_wiki_id_result": null,
+    "_wiki_id_origin": [],
+    "_wiki_chameleon_result": [
+      "Foxtrot",
+      "Bramble",
+      "Tide"
+    ],
+    "_wiki_chameleon_origin": [
+      "Brineling",
+      "Shyworm",
+      "Honeyhog"
     ]
   },
   "C49": {
@@ -1290,6 +1316,7 @@
       "Firefox"
     ],
     "_wiki_chameleon_origin": [
+      "Chocobun",
       "Brineling",
       "Shyworm"
     ]
@@ -1496,15 +1523,14 @@
     "_wiki_chameleon_origin": [
       "Bunbun",
       "Firefox",
-      "Brineling",
       "Foxtrot",
       "Timil",
       "Blue Jay",
       "Honeybuzz",
       "Pollendart",
       "Groundhog",
-      "Shyworm",
-      "Honeyhog"
+      "Chocobun",
+      "Brineling"
     ]
   },
   "U2": {
@@ -1535,8 +1561,8 @@
       "Blue Jay",
       "Honeybuzz",
       "Pollendart",
-      "Brineling",
-      "Timil"
+      "Timil",
+      "Chocobun"
     ]
   },
   "U3": {
@@ -3228,7 +3254,7 @@
     "_wiki_chameleon_result": [
       "Sprawl",
       "Sneaky Tiki",
-      "Sylvan"
+      "Packrat"
     ],
     "_wiki_chameleon_origin": [
       "Cheeky Tiki",
@@ -3253,8 +3279,8 @@
     ],
     "_wiki_chameleon_result": [
       "Sneaky Tiki",
-      "Sylvan",
-      "Cascade"
+      "Packrat",
+      "Sylvan"
     ],
     "_wiki_chameleon_origin": [
       "Red Panda",
@@ -3280,14 +3306,40 @@
       "Cheeky Tiki"
     ],
     "_wiki_chameleon_result": [
+      "Packrat",
       "Sylvan",
-      "Cascade",
       "Shrieky Tiki"
     ],
     "_wiki_chameleon_origin": [
       "Sprawl",
       "Red Panda",
       "Cheeky Tiki"
+    ]
+  },
+  "U73": {
+    "name": "Packrat",
+    "rarity": "Uncommon",
+    "category": "Mining",
+    "family": [
+      "Cave Dweller"
+    ],
+    "input1": "",
+    "input2": "",
+    "synthesized": true,
+    "chameleon": true,
+    "recipe_type": null,
+    "_wiki_internal_id": "PACKRAT_SKULL",
+    "_wiki_id_result": null,
+    "_wiki_id_origin": [],
+    "_wiki_chameleon_result": [
+      "Sylvan",
+      "Shrieky Tiki",
+      "Woodpecker"
+    ],
+    "_wiki_chameleon_origin": [
+      "Sneaky Tiki",
+      "Sprawl",
+      "Red Panda"
     ]
   },
   "U75": {
@@ -3313,6 +3365,7 @@
       "Honeymite"
     ],
     "_wiki_chameleon_origin": [
+      "Packrat",
       "Sneaky Tiki"
     ]
   },
@@ -3337,7 +3390,8 @@
       "Queen Ant"
     ],
     "_wiki_chameleon_origin": [
-      "Shrieky Tiki"
+      "Shrieky Tiki",
+      "Packrat"
     ]
   },
   "U78": {
@@ -3648,6 +3702,7 @@
     "_wiki_chameleon_origin": [
       "Rain Slime",
       "Zealot Bruiser",
+      "Packrat",
       "Dustybit",
       "Shuddersquid",
       "Rat",
@@ -3655,7 +3710,6 @@
       "Kiwi",
       "Woodpecker",
       "Hawk",
-      "Sneaky Tiki",
       "Rabbit Cat",
       "Queen Ant",
       "Dung Beetle",
@@ -3663,16 +3717,16 @@
       "Mosquito",
       "June Bug",
       "Moth",
-      "Sprawl",
       "Flaming Spider",
       "Mossybit",
       "Bloodbat",
       "Honeybug",
+      "Sneaky Tiki",
       "Shrieky Tiki",
       "Honeymite",
       "Parched",
+      "Sprawl",
       "Magma Slug",
-      "Red Panda",
       "Gazer",
       "Field Mouse"
     ]
@@ -3702,7 +3756,6 @@
       "Rat",
       "Mite",
       "Hawk",
-      "Sneaky Tiki",
       "Rabbit Cat",
       "Queen Ant",
       "Dung Beetle",
@@ -3710,7 +3763,6 @@
       "Mosquito",
       "June Bug",
       "Moth",
-      "Sprawl",
       "Kiwi",
       "Honeymite"
     ]
@@ -4213,7 +4265,7 @@
     "_wiki_chameleon_result": [
       "Lava Leech",
       "Revenant",
-      "Terra"
+      "Folf"
     ],
     "_wiki_chameleon_origin": []
   },
@@ -4234,7 +4286,7 @@
     ],
     "_wiki_chameleon_result": [
       "Revenant",
-      "Terra",
+      "Folf",
       "Silentdepth"
     ],
     "_wiki_chameleon_origin": [
@@ -4259,7 +4311,7 @@
       "Arachne"
     ],
     "_wiki_chameleon_result": [
-      "Terra",
+      "Folf",
       "Silentdepth",
       "Skeletor"
     ],
@@ -4267,6 +4319,30 @@
       "Lava Leech",
       "Bitbug",
       "Arachne"
+    ]
+  },
+  "R28": {
+    "name": "Folf",
+    "rarity": "Rare",
+    "category": "Combat",
+    "family": [],
+    "input1": "Soul of the Alpha Shard",
+    "input2": "Epic+",
+    "synthesized": true,
+    "chameleon": true,
+    "recipe_type": "GENERIC_PLUS",
+    "_wiki_internal_id": "FOLF",
+    "_wiki_id_result": null,
+    "_wiki_id_origin": [],
+    "_wiki_chameleon_result": [
+      "Silentdepth",
+      "Skeletor",
+      "Thyst"
+    ],
+    "_wiki_chameleon_origin": [
+      "Revenant",
+      "Lava Leech",
+      "Bitbug"
     ]
   },
   "R29": {
@@ -4292,6 +4368,7 @@
       "Seashine"
     ],
     "_wiki_chameleon_origin": [
+      "Folf",
       "Revenant",
       "Lava Leech"
     ]
@@ -4318,6 +4395,7 @@
     ],
     "_wiki_chameleon_origin": [
       "Silentdepth",
+      "Folf",
       "Revenant"
     ]
   },
@@ -4348,7 +4426,8 @@
     ],
     "_wiki_chameleon_origin": [
       "Skeletor",
-      "Silentdepth"
+      "Silentdepth",
+      "Folf"
     ]
   },
   "R32": {
@@ -5979,7 +6058,6 @@
       "Drybark",
       "Badger",
       "Anteater",
-      "Revenant",
       "Hideongeon",
       "Bullfrog",
       "Torrid",
@@ -5989,7 +6067,6 @@
       "Giant Water Bug",
       "Beetle",
       "Wild Hog",
-      "Lava Leech",
       "Drowned",
       "Murkbat",
       "Pangolin",
@@ -6002,8 +6079,7 @@
       "Thunder",
       "Carrot King",
       "Black Widow",
-      "Crocodile",
-      "Bitbug"
+      "Crocodile"
     ]
   },
   "E2": {

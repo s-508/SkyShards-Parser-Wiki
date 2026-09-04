@@ -53,11 +53,11 @@ def id_rank_key(id_):
 
 
 def find_id_fusion_results(input1, input2):
-    results = [result for result in (get_id_result(input1), get_id_result(input2)) if result]
-    if not results:
-        return []
     if get_category(input1) == get_category(input2):
-        return [max(results, key=id_rank_key)]
+        chosen = max((input1, input2), key=id_rank_key)
+        result = get_id_result(chosen)
+        return [result] if result else []
+    results = [result for result in (get_id_result(input1), get_id_result(input2)) if result]
     results.sort(key=fusion_sort_key)
     return results
 

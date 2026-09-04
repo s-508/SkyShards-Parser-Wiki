@@ -376,6 +376,14 @@
       "fuse_amount": 5,
       "internal_id": "SHARD_BRINELING"
     },
+    "C48": {
+      "name": "Chocobun",
+      "family": "Crime Family",
+      "type": "Global",
+      "rarity": "common",
+      "fuse_amount": 5,
+      "internal_id": "SHARD_CHOCOBUN"
+    },
     "C49": {
       "name": "Foxtrot",
       "family": "Unknown Family",
@@ -853,7 +861,7 @@
       "family": "Axolotl Family",
       "type": "Fishing",
       "rarity": "uncommon",
-      "fuse_amount": 5,
+      "fuse_amount": 2,
       "internal_id": "SHARD_SEPIALOT"
     },
     "U57": {
@@ -1741,7 +1749,7 @@
       "family": "Axolotl Family",
       "type": "Fishing",
       "rarity": "rare",
-      "fuse_amount": 5,
+      "fuse_amount": 2,
       "internal_id": "SHARD_GOLDOLOT"
     },
     "R94": {

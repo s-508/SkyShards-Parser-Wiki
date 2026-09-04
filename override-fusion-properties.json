@@ -6,7 +6,14 @@
     "so '_name' is free to use as a human-readable label.",
     "Example: { \"R43\": { \"_name\": \"Ladybug\", \"input1\": \"Earthworm Shard\" } }",
     "'fuse_amount' may also be overridden directly even though it isn't a scraped field.",
-    "While any override is present, the wiki drift assertions in build-properties.py",
-    "report as warnings instead of failing the build."
-  ]
+    "Set '_exclude': true to drop a shard entirely (e.g. it's on the wiki/alpha but hasn't",
+    "shipped on this branch yet). An _exclude patch shouldn't also carry field edits --",
+    "the shard is removed after overrides are applied, so edits would be discarded anyway.",
+    "While any override is present, including an _exclude, the wiki drift assertions in",
+    "build-properties.py report as warnings instead of failing the build.",
+    "This file is expected to differ between branches: keep a shard excluded here until",
+    "it ships on that branch's release, then delete its entry so the next scrape picks it up."
+  ],
+  "U73": { "_name": "Packrat", "_exclude": true },
+  "R28": { "_name": "Folf", "_exclude": true }
 }
