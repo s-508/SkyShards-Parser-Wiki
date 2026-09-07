@@ -5656,17 +5656,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Chuckwalla Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CHUCKWALLA",
-      "right_name": "Chuckwalla Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_CHUCKWALLA",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Chuckwalla Shard",
       "left_count": 2,

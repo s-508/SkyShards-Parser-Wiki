@@ -948,17 +948,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Cavernfish Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CAVERNFISH",
-      "right_name": "Cavernfish Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CAVERNFISH",
-      "output_name": "Haggard Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Cavernfish Shard",
       "left_count": 5,

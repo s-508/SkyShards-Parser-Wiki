@@ -4182,17 +4182,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Piranha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_PIRANHA",
-      "right_name": "Piranha Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PIRANHA",
-      "output_name": "Abyssal Lanternfish Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Piranha Shard",
       "left_count": 5,

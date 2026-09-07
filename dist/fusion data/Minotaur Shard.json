@@ -5209,17 +5209,6 @@
       "left_name": "Minotaur Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MINOTAUR",
-      "right_name": "Minotaur Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MINOTAUR",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Minotaur Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MINOTAUR",
       "right_name": "Hivethief Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIVETHIEF",

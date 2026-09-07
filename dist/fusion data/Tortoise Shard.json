@@ -8406,28 +8406,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Tortoise Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TORTOISE",
-      "right_name": "Tortoise Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TORTOISE",
-      "output_name": "Megalith Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Tortoise Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TORTOISE",
-      "right_name": "Tortoise Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TORTOISE",
-      "output_name": "Spike Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Tortoise Shard",
       "left_count": 2,

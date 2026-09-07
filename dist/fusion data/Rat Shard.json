@@ -3240,17 +3240,6 @@
       "left_name": "Rat Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_RAT",
-      "right_name": "Rat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAT",
-      "output_name": "Keeled Slug Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Rat Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_RAT",
       "right_name": "Keeled Slug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_KEELED_SLUG",

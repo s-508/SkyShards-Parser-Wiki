@@ -94,17 +94,6 @@
       "left_name": "Cod Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_COD",
-      "right_name": "Cod Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_COD",
-      "output_name": "Dumpster Diver Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Cod Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_COD",
       "right_name": "Howling Spirit Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HOWLING_SPIRIT",

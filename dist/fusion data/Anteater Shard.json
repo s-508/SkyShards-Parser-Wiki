@@ -5297,17 +5297,6 @@
       "left_name": "Anteater Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_ANTEATER",
-      "right_name": "Anteater Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ANTEATER",
-      "output_name": "Puck Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Anteater Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ANTEATER",
       "right_name": "Scrappy Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SCRAPPY",

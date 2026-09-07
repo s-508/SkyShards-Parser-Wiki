@@ -5649,17 +5649,6 @@
       "left_name": "Pangolin Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_PANGOLIN",
-      "right_name": "Pangolin Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PANGOLIN",
-      "output_name": "Murkbat Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Pangolin Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_PANGOLIN",
       "right_name": "Giant Water Bug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GIANT_WATER_BUG",

@@ -2481,17 +2481,6 @@
       "left_name": "Bayou Sludge Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BAYOU_SLUDGE",
-      "right_name": "Bayou Sludge Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BAYOU_SLUDGE",
-      "output_name": "Water Snake Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Bayou Sludge Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BAYOU_SLUDGE",
       "right_name": "Areita Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_AREITA",

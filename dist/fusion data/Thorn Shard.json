@@ -7563,17 +7563,6 @@
       "left_name": "Thorn Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_THORN",
-      "right_name": "Thorn Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_THORN",
-      "output_name": "Scatha Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Thorn Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_THORN",
       "right_name": "Mountain Goat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MOUNTAIN_GOAT",

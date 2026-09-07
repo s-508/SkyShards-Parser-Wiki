@@ -622,17 +622,6 @@
       "left_name": "Stag Beetle Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_STAG_BEETLE",
-      "right_name": "Stag Beetle Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_STAG_BEETLE",
-      "output_name": "Ant Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Stag Beetle Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_STAG_BEETLE",
       "right_name": "Inkling Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_NIGHT_SQUID",

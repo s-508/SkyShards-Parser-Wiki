@@ -7035,17 +7035,6 @@
       "left_name": "Prince Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_PRINCE",
-      "right_name": "Prince Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PRINCE",
-      "output_name": "Mimic Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Prince Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_PRINCE",
       "right_name": "Komodo Dragon Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_KOMODO_DRAGON",

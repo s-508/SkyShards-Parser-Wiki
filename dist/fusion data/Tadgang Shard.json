@@ -508,17 +508,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Tadgang Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TADGANG",
-      "right_name": "Tadgang Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TADGANG",
-      "output_name": "Coralot Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Tadgang Shard",
       "left_count": 2,

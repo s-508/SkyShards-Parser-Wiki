@@ -662,17 +662,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Yog Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_YOG",
-      "right_name": "Yog Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_YOG",
-      "output_name": "Miner Zombie Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Yog Shard",
       "left_count": 5,

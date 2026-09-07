@@ -4615,17 +4615,6 @@
       "left_name": "Bitbug Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BITBUG",
-      "right_name": "Bitbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BITBUG",
-      "output_name": "Thyst Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Bitbug Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BITBUG",
       "right_name": "Lava Leech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LAVA_LEECH",

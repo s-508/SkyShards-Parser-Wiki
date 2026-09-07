@@ -7134,17 +7134,6 @@
       "left_name": "Wolverine Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WOLVERINE",
-      "right_name": "Wolverine Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WOLVERINE",
-      "output_name": "XYZ Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Wolverine Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WOLVERINE",
       "right_name": "Shellwise Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_SHELLWISE",

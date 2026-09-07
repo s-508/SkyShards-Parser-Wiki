@@ -2404,17 +2404,6 @@
       "left_name": "Flipflopper Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_FLIP_FLOPPER",
-      "right_name": "Flipflopper Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_FLIP_FLOPPER",
-      "output_name": "Bayou Sludge Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Flipflopper Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_FLIP_FLOPPER",
       "right_name": "Polaris Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_POLARIS",

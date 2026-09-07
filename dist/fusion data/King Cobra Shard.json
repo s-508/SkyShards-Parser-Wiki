@@ -5172,28 +5172,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "King Cobra Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_KING_COBRA",
-      "right_name": "King Cobra Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_KING_COBRA",
-      "output_name": "Basilisk Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "King Cobra Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_KING_COBRA",
-      "right_name": "King Cobra Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_KING_COBRA",
-      "output_name": "Draconic Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "King Cobra Shard",
       "left_count": 2,

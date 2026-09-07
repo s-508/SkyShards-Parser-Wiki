@@ -1300,28 +1300,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Hideonsun Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONSUN",
-      "right_name": "Hideonsun Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONSUN",
-      "output_name": "Hideongift Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Hideonsun Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONSUN",
-      "right_name": "Hideonsun Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONSUN",
-      "output_name": "Firefox Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Hideonsun Shard",
       "left_count": 5,

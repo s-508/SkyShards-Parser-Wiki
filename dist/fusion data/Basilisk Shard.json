@@ -6782,17 +6782,6 @@
       "left_name": "Basilisk Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_BASILISK",
-      "right_name": "Basilisk Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_BASILISK",
-      "output_name": "Special Zealot Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Basilisk Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_BASILISK",
       "right_name": "Iguana Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_IGUANA",

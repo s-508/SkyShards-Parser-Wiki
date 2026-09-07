@@ -1953,17 +1953,6 @@
       "left_name": "Sea Witch Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SEA_WITCH",
-      "right_name": "Sea Witch Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SEA_WITCH",
-      "output_name": "Salmon Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Sea Witch Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SEA_WITCH",
       "right_name": "Obsidian Defender Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_OBSIDIAN_DEFENDER",

@@ -5330,17 +5330,6 @@
       "left_name": "Hideyho Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HIDEYHO",
-      "right_name": "Hideyho Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEYHO",
-      "output_name": "Puck Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Hideyho Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEYHO",
       "right_name": "Mantis Shrimp Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MANTIS_SHRIMP",

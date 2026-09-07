@@ -72,17 +72,6 @@
       "left_name": "Phanpyre Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_PHANPYRE",
-      "right_name": "Phanpyre Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PHANPYRE",
-      "output_name": "Phanflare Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Phanpyre Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_PHANPYRE",
       "right_name": "Cod Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COD",

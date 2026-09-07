@@ -8410,17 +8410,6 @@
       "left_name": "Lapis Creeper Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_LAPIS_CREEPER",
-      "right_name": "Lapis Creeper Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LAPIS_CREEPER",
-      "output_name": "Kraken Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Lapis Creeper Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LAPIS_CREEPER",
       "right_name": "Wartybug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WARTYBUG",

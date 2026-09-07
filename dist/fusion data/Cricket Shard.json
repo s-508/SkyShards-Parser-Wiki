@@ -2048,28 +2048,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Cricket Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CRICKET",
-      "right_name": "Cricket Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CRICKET",
-      "output_name": "Maggot Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Cricket Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CRICKET",
-      "right_name": "Cricket Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CRICKET",
-      "output_name": "Praying Mantis Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Cricket Shard",
       "left_count": 5,

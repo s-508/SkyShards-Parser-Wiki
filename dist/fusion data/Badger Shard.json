@@ -4703,17 +4703,6 @@
       "left_name": "Badger Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BADGER",
-      "right_name": "Badger Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BADGER",
-      "output_name": "Dreadwing Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Badger Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BADGER",
       "right_name": "Matcho Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MATCHO",

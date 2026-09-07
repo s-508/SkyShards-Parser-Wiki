@@ -4670,17 +4670,6 @@
       "left_name": "Carrot King Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_CARROT_KING",
-      "right_name": "Carrot King Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CARROT_KING",
-      "output_name": "Lumisquid Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Carrot King Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CARROT_KING",
       "right_name": "Wither Spectre Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WITHER_SPECTER",

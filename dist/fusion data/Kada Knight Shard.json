@@ -4666,17 +4666,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Kada Knight Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_KADA_KNIGHT",
-      "right_name": "Kada Knight Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_KADA_KNIGHT",
-      "output_name": "Wither Spectre Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Kada Knight Shard",
       "left_count": 5,

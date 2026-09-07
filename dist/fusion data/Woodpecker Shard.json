@@ -4090,41 +4090,8 @@
       "right_name": "Woodpecker Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOODPECKER",
-      "output_name": "Kiwi Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Woodpecker Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WOODPECKER",
-      "right_name": "Woodpecker Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WOODPECKER",
       "output_name": "Boreal Owl Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Woodpecker Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WOODPECKER",
-      "right_name": "Woodpecker Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WOODPECKER",
-      "output_name": "Boreal Owl Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Woodpecker Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WOODPECKER",
-      "right_name": "Woodpecker Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WOODPECKER",
-      "output_name": "Rat Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "ID",

@@ -4604,17 +4604,6 @@
       "left_name": "Snowfin Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SNOWFIN",
-      "right_name": "Snowfin Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SNOWFIN",
-      "output_name": "Carrot King Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Snowfin Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SNOWFIN",
       "right_name": "Kada Knight Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_KADA_KNIGHT",

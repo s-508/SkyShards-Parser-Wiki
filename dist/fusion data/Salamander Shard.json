@@ -1806,28 +1806,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Salamander Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_SALAMANDER",
-      "right_name": "Salamander Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_SALAMANDER",
-      "output_name": "Lizard King Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Salamander Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_SALAMANDER",
-      "right_name": "Salamander Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_SALAMANDER",
-      "output_name": "Mossybit Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Salamander Shard",
       "left_count": 2,

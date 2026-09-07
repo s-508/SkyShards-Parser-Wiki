@@ -886,17 +886,6 @@
       "left_name": "Haggard Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HAGGARD",
-      "right_name": "Haggard Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HAGGARD",
-      "output_name": "Brineling Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Haggard Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HAGGARD",
       "right_name": "Honeyhog Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HONEYHOG",

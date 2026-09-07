@@ -8894,17 +8894,6 @@
       "left_name": "Ghost Crab Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_GHOST_CRAB",
-      "right_name": "Ghost Crab Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GHOST_CRAB",
-      "output_name": "Titanoboa Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Ghost Crab Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GHOST_CRAB",
       "right_name": "Etherdrake Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ETHERDRAKE",

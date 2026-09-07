@@ -4325,17 +4325,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Drowned Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_DROWNED",
-      "right_name": "Drowned Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DROWNED",
-      "output_name": "Star Sentry Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Drowned Shard",
       "left_count": 5,

@@ -7508,17 +7508,6 @@
       "left_name": "Rabbit Godmother Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_RABBIT_GODMOTHER",
-      "right_name": "Rabbit Godmother Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RABBIT_GODMOTHER",
-      "output_name": "Mountain Goat Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Rabbit Godmother Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_RABBIT_GODMOTHER",
       "right_name": "Giant Isopod Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GIANT_ISOPOD",

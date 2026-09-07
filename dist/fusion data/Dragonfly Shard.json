@@ -7574,17 +7574,6 @@
       "left_name": "Dragonfly Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_DRAGONFLY",
-      "right_name": "Dragonfly Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRAGONFLY",
-      "output_name": "Dive Ghast Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Dragonfly Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_DRAGONFLY",
       "right_name": "Sphinx Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SPHINX",

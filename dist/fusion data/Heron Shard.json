@@ -2319,41 +2319,8 @@
       "right_name": "Heron Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HERON",
-      "output_name": "Kiwi Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Heron Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HERON",
-      "right_name": "Heron Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HERON",
       "output_name": "Boreal Owl Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Heron Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HERON",
-      "right_name": "Heron Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HERON",
-      "output_name": "Boreal Owl Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Heron Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HERON",
-      "right_name": "Heron Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HERON",
-      "output_name": "Cricket Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "ID",

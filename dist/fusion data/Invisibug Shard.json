@@ -4329,17 +4329,6 @@
       "left_name": "Invisibug Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_INVISIBUG",
-      "right_name": "Invisibug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_INVISIBUG",
-      "output_name": "Beetle Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Invisibug Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_INVISIBUG",
       "right_name": "Piranha Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PIRANHA",

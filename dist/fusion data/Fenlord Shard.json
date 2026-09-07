@@ -7269,41 +7269,8 @@
       "right_name": "Fenlord Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_FENLORD",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Fenlord Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_FENLORD",
-      "right_name": "Fenlord Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_FENLORD",
       "output_name": "Bullfrog Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Fenlord Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_FENLORD",
-      "right_name": "Fenlord Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_FENLORD",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Fenlord Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_FENLORD",
-      "right_name": "Fenlord Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_FENLORD",
-      "output_name": "XYZ Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "ID",

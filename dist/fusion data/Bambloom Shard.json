@@ -4061,28 +4061,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Bambloom Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BAMBLOOM",
-      "right_name": "Bambloom Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BAMBLOOM",
-      "output_name": "Pandarai Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Bambloom Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BAMBLOOM",
-      "right_name": "Bambloom Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BAMBLOOM",
-      "output_name": "Beaconmite Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Bambloom Shard",
       "left_count": 5,

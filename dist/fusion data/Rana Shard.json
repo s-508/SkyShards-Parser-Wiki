@@ -2455,17 +2455,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Rana Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_RANA",
-      "right_name": "Rana Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_RANA",
-      "output_name": "Minos Hunter Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Rana Shard",
       "left_count": 2,

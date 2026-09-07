@@ -2114,17 +2114,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Praying Mantis Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_PRAYING_MANTIS",
-      "right_name": "Praying Mantis Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PRAYING_MANTIS",
-      "output_name": "Bambuleaf Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Praying Mantis Shard",
       "left_count": 5,

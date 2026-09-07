@@ -4483,17 +4483,6 @@
       "left_name": "Revenant Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_REVENANT",
-      "right_name": "Revenant Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_REVENANT",
-      "output_name": "Skeletor Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Revenant Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_REVENANT",
       "right_name": "Silentdepth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILENTDEPTH",

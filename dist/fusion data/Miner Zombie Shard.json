@@ -882,28 +882,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Miner Zombie Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MINER_ZOMBIE",
-      "right_name": "Miner Zombie Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MINER_ZOMBIE",
-      "output_name": "Troglobyte Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Miner Zombie Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MINER_ZOMBIE",
-      "right_name": "Miner Zombie Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MINER_ZOMBIE",
-      "output_name": "Cretan Bull Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Miner Zombie Shard",
       "left_count": 5,

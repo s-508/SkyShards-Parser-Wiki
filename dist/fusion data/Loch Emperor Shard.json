@@ -6881,17 +6881,6 @@
       "left_name": "Loch Emperor Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SEA_EMPEROR",
-      "right_name": "Loch Emperor Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SEA_EMPEROR",
-      "output_name": "Shellwise Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Loch Emperor Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SEA_EMPEROR",
       "right_name": "Prince Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PRINCE",

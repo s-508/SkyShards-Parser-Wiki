@@ -1073,17 +1073,6 @@
       "left_name": "Shyworm Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SHYWORM",
-      "right_name": "Shyworm Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SHYWORM",
-      "output_name": "Firefox Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Shyworm Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SHYWORM",
       "right_name": "Brineling Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BRINELING",

@@ -4978,17 +4978,6 @@
       "left_name": "Lava Flame Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_LAVA_FLAME",
-      "right_name": "Lava Flame Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LAVA_FLAME",
-      "output_name": "Inferno Koi Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Lava Flame Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LAVA_FLAME",
       "right_name": "Draconic Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DRACONIC",

@@ -589,17 +589,6 @@
       "left_name": "Azure Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_AZURE",
-      "right_name": "Azure Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_AZURE",
-      "output_name": "Inkling Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Azure Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_AZURE",
       "right_name": "Bezal Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BEZAL",

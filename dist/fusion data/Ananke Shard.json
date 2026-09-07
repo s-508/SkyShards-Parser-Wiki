@@ -9788,40 +9788,7 @@
       "right_name": "Ananke Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ANANKE",
-      "output_name": "Condor Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Ananke Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ANANKE",
-      "right_name": "Ananke Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ANANKE",
       "output_name": "Toucan Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Ananke Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ANANKE",
-      "right_name": "Ananke Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ANANKE",
-      "output_name": "Toucan Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Ananke Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ANANKE",
-      "right_name": "Ananke Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ANANKE",
-      "output_name": "Falcon Shard",
       "output_count": 2
     },
     {

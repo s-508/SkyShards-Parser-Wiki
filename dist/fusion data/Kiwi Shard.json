@@ -2818,28 +2818,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Kiwi Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_KIWI",
-      "right_name": "Kiwi Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_KIWI",
-      "output_name": "Boreal Owl Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Kiwi Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_KIWI",
-      "right_name": "Kiwi Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_KIWI",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Kiwi Shard",
       "left_count": 5,

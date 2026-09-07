@@ -2679,17 +2679,6 @@
       "left_name": "Gazer Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_GAZER",
-      "right_name": "Gazer Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GAZER",
-      "output_name": "Minos Hunter Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Gazer Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GAZER",
       "right_name": "Honeybug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HONEYBUG",

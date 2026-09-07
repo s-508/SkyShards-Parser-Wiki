@@ -2635,17 +2635,6 @@
       "left_name": "Shuddersquid Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SHUDDERSQUID",
-      "right_name": "Shuddersquid Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SHUDDERSQUID",
-      "output_name": "Sepialot Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Shuddersquid Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SHUDDERSQUID",
       "right_name": "Solsnatcher Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SOLSNATCHER",

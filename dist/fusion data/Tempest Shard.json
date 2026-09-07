@@ -8175,17 +8175,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Tempest Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TEMPEST",
-      "right_name": "Tempest Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TEMPEST",
-      "output_name": "End Stone Protector Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Chameleon",
       "left_name": "Tempest Shard",
       "left_count": 2,

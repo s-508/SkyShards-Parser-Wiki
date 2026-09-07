@@ -6316,28 +6316,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Goldolot Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_GOLDOLOT",
-      "right_name": "Goldolot Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_GOLDOLOT",
-      "output_name": "Newt Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Goldolot Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_GOLDOLOT",
-      "right_name": "Goldolot Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_GOLDOLOT",
-      "output_name": "Torrid Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Goldolot Shard",
       "left_count": 2,

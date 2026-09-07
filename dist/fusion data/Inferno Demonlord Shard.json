@@ -7486,17 +7486,6 @@
       "left_name": "Inferno Demonlord Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BURNINGSOUL",
-      "right_name": "Inferno Demonlord Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BURNINGSOUL",
-      "output_name": "Scatha Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Inferno Demonlord Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BURNINGSOUL",
       "right_name": "Queen Bee Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_QUEEN_BEE",

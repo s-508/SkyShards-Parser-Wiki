@@ -3016,28 +3016,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Sepialot Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_SEPIALOT",
-      "right_name": "Sepialot Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_SEPIALOT",
-      "output_name": "Newt Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Sepialot Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_SEPIALOT",
-      "right_name": "Sepialot Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_SEPIALOT",
-      "output_name": "Tewtil Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Sepialot Shard",
       "left_count": 2,

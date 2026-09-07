@@ -127,17 +127,6 @@
       "left_name": "Phanflare Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_PHANFLARE",
-      "right_name": "Phanflare Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PHANFLARE",
-      "output_name": "Hideonleaf Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Phanflare Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_PHANFLARE",
       "right_name": "Dumpster Diver Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DUMPSTER_DIVER",

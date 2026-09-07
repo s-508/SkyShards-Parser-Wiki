@@ -2268,17 +2268,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Treasure Hoarder Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_TREASURE_HOARDER",
-      "right_name": "Treasure Hoarder Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TREASURE_HOARDER",
-      "output_name": "Ent Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Treasure Hoarder Shard",
       "left_count": 5,

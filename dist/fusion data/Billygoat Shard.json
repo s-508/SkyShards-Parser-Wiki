@@ -5502,17 +5502,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Billygoat Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BILLYGOAT",
-      "right_name": "Billygoat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BILLYGOAT",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Billygoat Shard",
       "left_count": 5,

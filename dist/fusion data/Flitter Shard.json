@@ -897,17 +897,6 @@
       "left_name": "Flitter Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_FLITTER",
-      "right_name": "Flitter Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_FLITTER",
-      "output_name": "Ant Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Flitter Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_FLITTER",
       "right_name": "Tepid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TEPID",

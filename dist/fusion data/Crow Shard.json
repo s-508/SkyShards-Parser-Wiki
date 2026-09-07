@@ -552,28 +552,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Crow Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CROW",
-      "right_name": "Crow Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CROW",
-      "output_name": "Boreal Owl Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Crow Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CROW",
-      "right_name": "Crow Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CROW",
-      "output_name": "Mudworm Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Crow Shard",
       "left_count": 5,

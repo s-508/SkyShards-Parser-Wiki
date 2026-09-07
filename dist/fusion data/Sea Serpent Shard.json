@@ -7196,28 +7196,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Sea Serpent Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_SEA_SERPENT",
-      "right_name": "Sea Serpent Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_SEA_SERPENT",
-      "output_name": "Naga Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Sea Serpent Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_SEA_SERPENT",
-      "right_name": "Sea Serpent Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_SEA_SERPENT",
-      "output_name": "Silkbreeze Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Sea Serpent Shard",
       "left_count": 2,

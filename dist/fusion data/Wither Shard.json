@@ -5154,17 +5154,6 @@
       "left_name": "Wither Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WITHER",
-      "right_name": "Wither Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WITHER",
-      "output_name": "Minotaur Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Wither Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WITHER",
       "right_name": "Gecko Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_GECKO",

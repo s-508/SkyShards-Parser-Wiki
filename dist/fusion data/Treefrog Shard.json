@@ -2730,28 +2730,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Treefrog Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TREEFROG",
-      "right_name": "Treefrog Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TREEFROG",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Treefrog Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TREEFROG",
-      "right_name": "Treefrog Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TREEFROG",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Treefrog Shard",
       "left_count": 2,

@@ -7566,41 +7566,8 @@
       "right_name": "Bal Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BAL",
-      "output_name": "Cavernshade Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Bal Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BAL",
-      "right_name": "Bal Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BAL",
       "output_name": "Troglobyte Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Bal Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BAL",
-      "right_name": "Bal Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BAL",
-      "output_name": "Troglobyte Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Bal Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BAL",
-      "right_name": "Bal Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BAL",
-      "output_name": "Flare Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "ID",

@@ -123,28 +123,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Howling Spirit Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HOWLING_SPIRIT",
-      "right_name": "Howling Spirit Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HOWLING_SPIRIT",
-      "output_name": "Troglobyte Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Howling Spirit Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HOWLING_SPIRIT",
-      "right_name": "Howling Spirit Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HOWLING_SPIRIT",
-      "output_name": "Lapis Zombie Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Howling Spirit Shard",
       "left_count": 5,

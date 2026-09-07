@@ -9128,40 +9128,7 @@
       "right_name": "Chameleon Shard",
       "right_count": 1,
       "right_skyblock_id": "SHARD_CHAMELEON",
-      "output_name": "Nessie Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Chameleon",
-      "left_name": "Chameleon Shard",
-      "left_count": 1,
-      "left_skyblock_id": "SHARD_CHAMELEON",
-      "right_name": "Chameleon Shard",
-      "right_count": 1,
-      "right_skyblock_id": "SHARD_CHAMELEON",
       "output_name": "Tiamat Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Chameleon",
-      "left_name": "Chameleon Shard",
-      "left_count": 1,
-      "left_skyblock_id": "SHARD_CHAMELEON",
-      "right_name": "Chameleon Shard",
-      "right_count": 1,
-      "right_skyblock_id": "SHARD_CHAMELEON",
-      "output_name": "Tiamat Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Chameleon",
-      "left_name": "Chameleon Shard",
-      "left_count": 1,
-      "left_skyblock_id": "SHARD_CHAMELEON",
-      "right_name": "Chameleon Shard",
-      "right_count": 1,
-      "right_skyblock_id": "SHARD_CHAMELEON",
-      "output_name": "Wyvern Shard",
       "output_count": 1
     },
     {

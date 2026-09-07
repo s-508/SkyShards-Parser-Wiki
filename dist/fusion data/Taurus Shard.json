@@ -8454,17 +8454,6 @@
       "left_name": "Taurus Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_TAURUS",
-      "right_name": "Taurus Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TAURUS",
-      "output_name": "Lord Jawbus Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Taurus Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_TAURUS",
       "right_name": "Daemon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DAEMON",

@@ -67,7 +67,8 @@ for input_combo, results in data['recipes'].items():
         }
 
         input_recipes[inputs[0]].append(recipe)
-        input_recipes[inputs[1]].append(recipe)
+        if inputs[0] != inputs[1]: # make sure they're not the same shard
+            input_recipes[inputs[1]].append(recipe)
         output_recipes[result_id].append(recipe)
 
 # TODO: sort dictionaries

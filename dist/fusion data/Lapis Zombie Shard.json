@@ -178,17 +178,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Lapis Zombie Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LAPIS_ZOMBIE",
-      "right_name": "Lapis Zombie Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LAPIS_ZOMBIE",
-      "output_name": "Chill Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Lapis Zombie Shard",
       "left_count": 5,

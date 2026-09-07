@@ -8245,17 +8245,6 @@
       "left_name": "Nessie Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_NESSIE",
-      "right_name": "Nessie Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_NESSIE",
-      "output_name": "Spike Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Nessie Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_NESSIE",
       "right_name": "Tiamat Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TIAMAT",

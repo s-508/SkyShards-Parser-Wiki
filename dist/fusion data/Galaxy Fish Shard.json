@@ -8850,17 +8850,6 @@
       "left_name": "Galaxy Fish Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_GALAXY_FISH",
-      "right_name": "Galaxy Fish Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GALAXY_FISH",
-      "output_name": "Titanoboa Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Galaxy Fish Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GALAXY_FISH",
       "right_name": "Molthorn Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MOLTHORN",

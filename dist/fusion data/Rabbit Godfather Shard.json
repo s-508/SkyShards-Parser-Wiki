@@ -8410,17 +8410,6 @@
       "left_name": "Rabbit Godfather Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_RABBIT_GODFATHER",
-      "right_name": "Rabbit Godfather Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RABBIT_GODFATHER",
-      "output_name": "Cinderbat Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Rabbit Godfather Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_RABBIT_GODFATHER",
       "right_name": "Naga Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_NAGA",

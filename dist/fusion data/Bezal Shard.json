@@ -611,17 +611,6 @@
       "left_name": "Bezal Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BEZAL",
-      "right_name": "Bezal Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BEZAL",
-      "output_name": "Yog Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Bezal Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BEZAL",
       "right_name": "Stag Beetle Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STAG_BEETLE",

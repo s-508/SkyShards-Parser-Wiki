@@ -2811,17 +2811,6 @@
       "left_name": "Woodchucker Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WOODCHUCKER",
-      "right_name": "Woodchucker Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WOODCHUCKER",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Woodchucker Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WOODCHUCKER",
       "right_name": "Solar Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SOLAR",

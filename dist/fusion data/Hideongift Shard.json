@@ -303,17 +303,6 @@
       "left_name": "Hideongift Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HIDEONGIFT",
-      "right_name": "Hideongift Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONGIFT",
-      "output_name": "Mudworm Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Hideongift Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONGIFT",
       "right_name": "Birries Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BIRRIES",

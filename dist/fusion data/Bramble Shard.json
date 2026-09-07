@@ -1601,17 +1601,6 @@
       "left_name": "Bramble Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_BRAMBLE",
-      "right_name": "Bramble Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_BRAMBLE",
-      "output_name": "Field Mouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Bramble Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_BRAMBLE",
       "right_name": "Tide Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TIDE",

@@ -8124,17 +8124,6 @@
       "left_name": "Blizzard Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_BLIZZARD",
-      "right_name": "Blizzard Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_BLIZZARD",
-      "output_name": "Nessie Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Blizzard Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_BLIZZARD",
       "right_name": "Tempest Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TEMPEST",

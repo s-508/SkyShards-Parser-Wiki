@@ -1795,17 +1795,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Field Mouse Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_PEST",
-      "right_name": "Field Mouse Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PEST",
-      "output_name": "Cricket Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Field Mouse Shard",
       "left_count": 5,

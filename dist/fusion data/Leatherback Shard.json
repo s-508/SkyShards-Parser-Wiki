@@ -7273,28 +7273,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Leatherback Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_LEATHERBACK",
-      "right_name": "Leatherback Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_LEATHERBACK",
-      "output_name": "Tortoise Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Leatherback Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_LEATHERBACK",
-      "right_name": "Leatherback Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_LEATHERBACK",
-      "output_name": "Silkbreeze Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Leatherback Shard",
       "left_count": 2,

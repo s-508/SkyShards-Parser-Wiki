@@ -4835,17 +4835,6 @@
       "left_name": "Dreadwing Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_DREADWING",
-      "right_name": "Dreadwing Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DREADWING",
-      "output_name": "Fungloom Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Dreadwing Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_DREADWING",
       "right_name": "Joydive Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_JOYDIVE",

@@ -6826,17 +6826,6 @@
       "left_name": "Water Hydra Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WATER_HYDRA",
-      "right_name": "Water Hydra Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WATER_HYDRA",
-      "output_name": "Loch Emperor Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Water Hydra Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WATER_HYDRA",
       "right_name": "Flare Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FLARE",

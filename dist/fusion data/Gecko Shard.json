@@ -5260,28 +5260,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Gecko Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_GECKO",
-      "right_name": "Gecko Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_GECKO",
-      "output_name": "Iguana Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Gecko Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_GECKO",
-      "right_name": "Gecko Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_GECKO",
-      "output_name": "Hivethief Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Gecko Shard",
       "left_count": 2,

@@ -2437,17 +2437,6 @@
       "left_name": "Earthworm Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_TERMITE",
-      "right_name": "Earthworm Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TERMITE",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Earthworm Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_TERMITE",
       "right_name": "Flipflopper Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FLIP_FLOPPER",

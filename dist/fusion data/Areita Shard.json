@@ -2554,17 +2554,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Areita Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_AREITA",
-      "right_name": "Areita Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_AREITA",
-      "output_name": "Minos Hunter Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Areita Shard",
       "left_count": 5,

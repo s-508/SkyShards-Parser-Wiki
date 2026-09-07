@@ -435,17 +435,6 @@
       "left_name": "Rabbit Mafioso Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_RABBIT_MAFIOSO",
-      "right_name": "Rabbit Mafioso Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RABBIT_MAFIOSO",
-      "output_name": "Mudworm Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Rabbit Mafioso Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_RABBIT_MAFIOSO",
       "right_name": "Coralot Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CORALOT",

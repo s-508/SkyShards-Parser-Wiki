@@ -963,17 +963,6 @@
       "left_name": "Groundhog Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_GROUNDHOG",
-      "right_name": "Groundhog Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GROUNDHOG",
-      "output_name": "Blue Jay Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Groundhog Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GROUNDHOG",
       "right_name": "Timil Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TIMIL",

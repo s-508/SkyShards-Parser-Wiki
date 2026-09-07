@@ -4395,17 +4395,6 @@
       "left_name": "Abyssal Lanternfish Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_ABYSSAL_LANTERN",
-      "right_name": "Abyssal Lanternfish Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ABYSSAL_LANTERN",
-      "output_name": "Lava Leech Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Abyssal Lanternfish Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ABYSSAL_LANTERN",
       "right_name": "Arachne Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ARACHNE",

@@ -2349,17 +2349,6 @@
       "left_name": "Stridersurfer Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_STRIDER_SURFER",
-      "right_name": "Stridersurfer Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_STRIDER_SURFER",
-      "output_name": "Flipflopper Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Stridersurfer Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_STRIDER_SURFER",
       "right_name": "Rana Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_RANA",

@@ -5099,17 +5099,6 @@
       "left_name": "Wiki Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WIKI_TIKI",
-      "right_name": "Wiki Tiki Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WIKI_TIKI",
-      "output_name": "Thunder Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Wiki Tiki Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WIKI_TIKI",
       "right_name": "Minotaur Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MINOTAUR",

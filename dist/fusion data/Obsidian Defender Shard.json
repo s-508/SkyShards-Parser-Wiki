@@ -2019,17 +2019,6 @@
       "left_name": "Obsidian Defender Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_OBSIDIAN_DEFENDER",
-      "right_name": "Obsidian Defender Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_OBSIDIAN_DEFENDER",
-      "output_name": "Zombie Soldier Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Obsidian Defender Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_OBSIDIAN_DEFENDER",
       "right_name": "Cricket Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CRICKET",

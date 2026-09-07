@@ -2624,17 +2624,6 @@
       "left_name": "Duplico Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_DUPLICO",
-      "right_name": "Duplico Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DUPLICO",
-      "output_name": "Minos Hunter Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Duplico Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_DUPLICO",
       "right_name": "Litterbug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LITTERBUG",

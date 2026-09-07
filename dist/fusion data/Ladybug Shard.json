@@ -4996,28 +4996,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Ladybug Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LADYBUG",
-      "right_name": "Ladybug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LADYBUG",
-      "output_name": "Lunar Moth Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Ladybug Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LADYBUG",
-      "right_name": "Ladybug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LADYBUG",
-      "output_name": "Dreadwing Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Ladybug Shard",
       "left_count": 5,

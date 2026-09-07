@@ -8784,17 +8784,6 @@
       "left_name": "Cinderbat Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_CINDER_BAT",
-      "right_name": "Cinderbat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CINDER_BAT",
-      "output_name": "Grizzly Bear Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Cinderbat Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CINDER_BAT",
       "right_name": "Megalith Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_MEGALITH",

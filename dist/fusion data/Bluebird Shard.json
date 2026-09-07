@@ -3232,41 +3232,8 @@
       "right_name": "Bluebird Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BLUEBIRD",
-      "output_name": "Kiwi Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Bluebird Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BLUEBIRD",
-      "right_name": "Bluebird Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BLUEBIRD",
       "output_name": "Boreal Owl Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Bluebird Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BLUEBIRD",
-      "right_name": "Bluebird Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BLUEBIRD",
-      "output_name": "Boreal Owl Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Bluebird Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BLUEBIRD",
-      "right_name": "Bluebird Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BLUEBIRD",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "ID",

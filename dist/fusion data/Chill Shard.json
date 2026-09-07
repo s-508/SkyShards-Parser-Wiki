@@ -248,17 +248,6 @@
       "left_name": "Chill Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_CHILL",
-      "right_name": "Chill Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CHILL",
-      "output_name": "Voracious Spider Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Chill Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CHILL",
       "right_name": "Fly Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FLY",

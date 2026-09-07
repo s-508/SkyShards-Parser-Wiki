@@ -6041,28 +6041,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Scrappy Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SCRAPPY",
-      "right_name": "Scrappy Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SCRAPPY",
-      "output_name": "Troglobyte Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Scrappy Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SCRAPPY",
-      "right_name": "Scrappy Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SCRAPPY",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Scrappy Shard",
       "left_count": 5,

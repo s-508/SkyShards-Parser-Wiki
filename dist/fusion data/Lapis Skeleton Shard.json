@@ -4369,28 +4369,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Lapis Skeleton Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LAPIS_SKELETON",
-      "right_name": "Lapis Skeleton Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LAPIS_SKELETON",
-      "output_name": "Skeletor Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Lapis Skeleton Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LAPIS_SKELETON",
-      "right_name": "Lapis Skeleton Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LAPIS_SKELETON",
-      "output_name": "Drowned Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Lapis Skeleton Shard",
       "left_count": 5,

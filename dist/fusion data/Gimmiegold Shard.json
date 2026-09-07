@@ -5407,17 +5407,6 @@
       "left_name": "Gimmiegold Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_GIMMIEGOLD",
-      "right_name": "Gimmiegold Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GIMMIEGOLD",
-      "output_name": "Stingray Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Gimmiegold Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GIMMIEGOLD",
       "right_name": "Billygoat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BILLYGOAT",

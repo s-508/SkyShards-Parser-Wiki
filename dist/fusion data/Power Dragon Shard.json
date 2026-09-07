@@ -8762,17 +8762,6 @@
       "left_name": "Power Dragon Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_POWER_DRAGON",
-      "right_name": "Power Dragon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_POWER_DRAGON",
-      "output_name": "Apex Dragon Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Power Dragon Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_POWER_DRAGON",
       "right_name": "Condor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CONDOR",

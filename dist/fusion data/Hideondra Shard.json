@@ -5036,41 +5036,8 @@
       "right_name": "Hideondra Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONDRA",
-      "output_name": "Hideonring Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hideondra Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONDRA",
-      "right_name": "Hideondra Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONDRA",
       "output_name": "Hideongift Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hideondra Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONDRA",
-      "right_name": "Hideondra Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONDRA",
-      "output_name": "Hideongift Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Hideondra Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONDRA",
-      "right_name": "Hideondra Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONDRA",
-      "output_name": "Thyst Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "ID",

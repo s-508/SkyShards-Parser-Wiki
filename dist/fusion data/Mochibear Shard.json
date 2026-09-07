@@ -2499,28 +2499,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Mochibear Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MOCHIBEAR",
-      "right_name": "Mochibear Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOCHIBEAR",
-      "output_name": "Bambloom Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Mochibear Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MOCHIBEAR",
-      "right_name": "Mochibear Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOCHIBEAR",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Mochibear Shard",
       "left_count": 5,

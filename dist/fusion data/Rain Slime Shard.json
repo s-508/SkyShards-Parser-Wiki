@@ -1920,17 +1920,6 @@
       "left_name": "Rain Slime Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_RAIN_SLIME",
-      "right_name": "Rain Slime Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAIN_SLIME",
-      "output_name": "Seer Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Rain Slime Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_RAIN_SLIME",
       "right_name": "Wetwing Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WETWING",

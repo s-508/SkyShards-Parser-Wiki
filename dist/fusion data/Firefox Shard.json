@@ -941,17 +941,6 @@
       "left_name": "Firefox Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_FIREFOX",
-      "right_name": "Firefox Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_FIREFOX",
-      "output_name": "Groundhog Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Firefox Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_FIREFOX",
       "right_name": "Groundhog Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GROUNDHOG",

@@ -8450,17 +8450,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Moltenfish Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MOLTENFISH",
-      "right_name": "Moltenfish Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOLTENFISH",
-      "output_name": "Lord Jawbus Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Moltenfish Shard",
       "left_count": 5,

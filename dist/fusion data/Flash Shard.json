@@ -61,17 +61,6 @@
       "left_name": "Flash Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_FLASH",
-      "right_name": "Flash Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_FLASH",
-      "output_name": "Howling Spirit Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Flash Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_FLASH",
       "right_name": "Phanpyre Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PHANPYRE",

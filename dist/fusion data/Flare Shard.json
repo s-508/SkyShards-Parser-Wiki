@@ -6980,17 +6980,6 @@
       "left_name": "Flare Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_FLARE",
-      "right_name": "Flare Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_FLARE",
-      "output_name": "Prince Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Flare Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_FLARE",
       "right_name": "Murderwing Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MURDERWING",

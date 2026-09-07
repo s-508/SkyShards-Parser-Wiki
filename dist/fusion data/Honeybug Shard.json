@@ -2789,17 +2789,6 @@
       "left_name": "Honeybug Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HONEYBUG",
-      "right_name": "Honeybug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HONEYBUG",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Honeybug Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HONEYBUG",
       "right_name": "Shuddersquid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SHUDDERSQUID",

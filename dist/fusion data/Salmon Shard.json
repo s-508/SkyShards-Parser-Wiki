@@ -2008,17 +2008,6 @@
       "left_name": "Salmon Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SALMON",
-      "right_name": "Salmon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SALMON",
-      "output_name": "Lotum Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Salmon Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SALMON",
       "right_name": "Viper Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_VIPER",

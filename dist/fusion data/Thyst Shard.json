@@ -4868,17 +4868,6 @@
       "left_name": "Thyst Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_THYST",
-      "right_name": "Thyst Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_THYST",
-      "output_name": "Dreadwing Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Thyst Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_THYST",
       "right_name": "Seashine Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEA_SHINE",

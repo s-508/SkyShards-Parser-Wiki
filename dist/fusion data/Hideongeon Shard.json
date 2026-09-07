@@ -4838,41 +4838,8 @@
       "right_name": "Hideongeon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONGEON",
-      "output_name": "Hideonring Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hideongeon Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONGEON",
-      "right_name": "Hideongeon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONGEON",
       "output_name": "Hideongift Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hideongeon Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONGEON",
-      "right_name": "Hideongeon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONGEON",
-      "output_name": "Hideongift Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Hideongeon Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONGEON",
-      "right_name": "Hideongeon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONGEON",
-      "output_name": "Beetle Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "ID",

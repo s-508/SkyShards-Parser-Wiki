@@ -3977,17 +3977,6 @@
       "left_name": "Sylvan Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_SYLVAN",
-      "right_name": "Sylvan Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_SYLVAN",
-      "output_name": "Beaconmite Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Sylvan Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_SYLVAN",
       "right_name": "Cascade Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CASCADE",

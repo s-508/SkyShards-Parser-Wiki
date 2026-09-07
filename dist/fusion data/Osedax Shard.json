@@ -2525,17 +2525,6 @@
       "left_name": "Osedax Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_OSEDAX",
-      "right_name": "Osedax Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_OSEDAX",
-      "output_name": "Water Snake Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Osedax Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_OSEDAX",
       "right_name": "Duplico Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DUPLICO",

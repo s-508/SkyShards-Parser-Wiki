@@ -7365,17 +7365,6 @@
       "left_name": "Sphinx Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SPHINX",
-      "right_name": "Sphinx Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SPHINX",
-      "output_name": "King Minos Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Sphinx Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SPHINX",
       "right_name": "King Minos Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_KING_MINOS",

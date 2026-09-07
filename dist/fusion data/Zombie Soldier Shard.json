@@ -2147,17 +2147,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Zombie Soldier Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ZOMBIE_SOLDIER",
-      "right_name": "Zombie Soldier Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ZOMBIE_SOLDIER",
-      "output_name": "Sycophant Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Zombie Soldier Shard",
       "left_count": 5,

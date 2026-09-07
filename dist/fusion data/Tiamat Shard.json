@@ -8289,17 +8289,6 @@
       "left_name": "Tiamat Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_TIAMAT",
-      "right_name": "Tiamat Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TIAMAT",
-      "output_name": "End Stone Protector Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Tiamat Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TIAMAT",
       "right_name": "Wyvern Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_WYVERN",

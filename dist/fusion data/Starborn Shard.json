@@ -9187,28 +9187,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Starborn Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_STARBORN",
-      "right_name": "Starborn Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_STARBORN",
-      "output_name": "Blizzard Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Starborn Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_STARBORN",
-      "right_name": "Starborn Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_STARBORN",
-      "output_name": "Titanoboa Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Starborn Shard",
       "left_count": 2,

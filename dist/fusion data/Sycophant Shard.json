@@ -2224,17 +2224,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Sycophant Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SYCOPHANT",
-      "right_name": "Sycophant Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SYCOPHANT",
-      "output_name": "Soul of the Alpha Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Sycophant Shard",
       "left_count": 5,

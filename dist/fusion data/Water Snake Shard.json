@@ -2580,17 +2580,6 @@
       "left_name": "Water Snake Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_WATER_SNAKE",
-      "right_name": "Water Snake Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_WATER_SNAKE",
-      "output_name": "Sepialot Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Water Snake Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_WATER_SNAKE",
       "right_name": "Gazer Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GAZER",

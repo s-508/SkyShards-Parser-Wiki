@@ -816,28 +816,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Newt Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_NEWT",
-      "right_name": "Newt Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_NEWT",
-      "output_name": "Salamander Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Newt Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_NEWT",
-      "right_name": "Newt Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_NEWT",
-      "output_name": "Haggard Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Newt Shard",
       "left_count": 2,

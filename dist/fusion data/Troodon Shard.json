@@ -5572,17 +5572,6 @@
       "left_name": "Troodon Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_TROODON",
-      "right_name": "Troodon Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TROODON",
-      "output_name": "Giant Water Bug Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Troodon Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_TROODON",
       "right_name": "Black Widow Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BLACK_WIDOW",

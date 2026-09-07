@@ -6774,41 +6774,8 @@
       "right_name": "Hideonwall Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONWALL",
-      "output_name": "Hideonring Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hideonwall Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONWALL",
-      "right_name": "Hideonwall Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONWALL",
       "output_name": "Hideongift Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hideonwall Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONWALL",
-      "right_name": "Hideonwall Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONWALL",
-      "output_name": "Hideongift Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Hideonwall Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONWALL",
-      "right_name": "Hideonwall Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONWALL",
-      "output_name": "Puck Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "ID",

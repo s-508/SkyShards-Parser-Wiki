@@ -4736,17 +4736,6 @@
       "left_name": "Wither Spectre Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WITHER_SPECTER",
-      "right_name": "Wither Spectre Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WITHER_SPECTER",
-      "output_name": "Matcho Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Wither Spectre Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WITHER_SPECTER",
       "right_name": "Badger Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BADGER",

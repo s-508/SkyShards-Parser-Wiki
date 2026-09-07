@@ -8087,28 +8087,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Cavernshade Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CAVERNSHADE",
-      "right_name": "Cavernshade Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CAVERNSHADE",
-      "output_name": "Troglobyte Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Cavernshade Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CAVERNSHADE",
-      "right_name": "Cavernshade Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CAVERNSHADE",
-      "output_name": "Sphinx Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Cavernshade Shard",
       "left_count": 5,

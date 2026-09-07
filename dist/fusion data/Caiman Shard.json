@@ -7273,28 +7273,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Caiman Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CAIMAN",
-      "right_name": "Caiman Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_CAIMAN",
-      "output_name": "Tiamat Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Caiman Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CAIMAN",
-      "right_name": "Caiman Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_CAIMAN",
-      "output_name": "Ghost Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Caiman Shard",
       "left_count": 2,

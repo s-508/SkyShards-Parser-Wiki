@@ -4769,17 +4769,6 @@
       "left_name": "Lumisquid Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_LUMISQUID",
-      "right_name": "Lumisquid Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LUMISQUID",
-      "output_name": "Joydive Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Lumisquid Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LUMISQUID",
       "right_name": "Crocodile Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CROCODILE",

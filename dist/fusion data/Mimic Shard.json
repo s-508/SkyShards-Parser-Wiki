@@ -7101,17 +7101,6 @@
       "left_name": "Mimic Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MIMIC",
-      "right_name": "Mimic Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MIMIC",
-      "output_name": "Barbarian Duke X Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Mimic Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MIMIC",
       "right_name": "Wolverine Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOLVERINE",

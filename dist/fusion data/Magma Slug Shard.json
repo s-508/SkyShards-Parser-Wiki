@@ -2261,17 +2261,6 @@
       "left_name": "Magma Slug Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MAGMA_SLUG",
-      "right_name": "Magma Slug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MAGMA_SLUG",
-      "output_name": "Stridersurfer Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Magma Slug Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MAGMA_SLUG",
       "right_name": "Flaming Spider Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FLAMING_SPIDER",

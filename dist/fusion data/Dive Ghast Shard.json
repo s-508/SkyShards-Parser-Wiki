@@ -7431,17 +7431,6 @@
       "left_name": "Dive Ghast Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_DIVE_GHAST",
-      "right_name": "Dive Ghast Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DIVE_GHAST",
-      "output_name": "Mountain Goat Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Dive Ghast Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_DIVE_GHAST",
       "right_name": "Silkbreeze Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILKBREEZE",

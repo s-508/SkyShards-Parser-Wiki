@@ -1656,17 +1656,6 @@
       "left_name": "Tide Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_TIDE",
-      "right_name": "Tide Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TIDE",
-      "output_name": "Mossybit Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Tide Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TIDE",
       "right_name": "Quake Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_QUAKE",

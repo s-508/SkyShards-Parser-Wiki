@@ -4992,40 +4992,7 @@
       "right_name": "Vulture Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_VULTURE",
-      "output_name": "Falcon Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Vulture Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_VULTURE",
-      "right_name": "Vulture Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_VULTURE",
       "output_name": "Kiwi Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Vulture Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_VULTURE",
-      "right_name": "Vulture Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_VULTURE",
-      "output_name": "Kiwi Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Vulture Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_VULTURE",
-      "right_name": "Vulture Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_VULTURE",
-      "output_name": "Boreal Owl Shard",
       "output_count": 2
     },
     {

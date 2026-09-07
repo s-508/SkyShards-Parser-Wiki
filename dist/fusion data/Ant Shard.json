@@ -809,17 +809,6 @@
       "left_name": "Ant Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_ANT",
-      "right_name": "Ant Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ANT",
-      "output_name": "Hideonsun Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Ant Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ANT",
       "right_name": "Cavernfish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CAVERNFISH",

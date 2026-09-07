@@ -4857,17 +4857,6 @@
       "left_name": "Joydive Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_JOYDIVE",
-      "right_name": "Joydive Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_JOYDIVE",
-      "output_name": "Eel Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Joydive Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_JOYDIVE",
       "right_name": "Stalagmight Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STALAGMIGHT",

@@ -4138,28 +4138,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Lizard King Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_LIZARD_KING",
-      "right_name": "Lizard King Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_LIZARD_KING",
-      "output_name": "Leviathan Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Lizard King Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_LIZARD_KING",
-      "right_name": "Lizard King Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_LIZARD_KING",
-      "output_name": "Piranha Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Lizard King Shard",
       "left_count": 2,

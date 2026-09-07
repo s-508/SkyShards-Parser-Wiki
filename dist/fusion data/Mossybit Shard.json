@@ -1927,17 +1927,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Mossybit Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_MOSSYBIT",
-      "right_name": "Mossybit Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_MOSSYBIT",
-      "output_name": "Wetwing Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Mossybit Shard",
       "left_count": 2,

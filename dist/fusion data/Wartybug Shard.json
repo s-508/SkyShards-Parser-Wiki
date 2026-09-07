@@ -8630,17 +8630,6 @@
       "left_name": "Wartybug Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WARTYBUG",
-      "right_name": "Wartybug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WARTYBUG",
-      "output_name": "Cinderbat Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Wartybug Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WARTYBUG",
       "right_name": "Spike Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SPIKE",

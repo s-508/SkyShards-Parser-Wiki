@@ -4274,17 +4274,6 @@
       "left_name": "Beaconmite Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BEACONMITE",
-      "right_name": "Beaconmite Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BEACONMITE",
-      "output_name": "Invisibug Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Beaconmite Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BEACONMITE",
       "right_name": "Lizard King Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_LIZARD_KING",

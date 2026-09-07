@@ -1722,17 +1722,6 @@
       "left_name": "Goldfin Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_GOLDFIN",
-      "right_name": "Goldfin Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GOLDFIN",
-      "output_name": "Mossybit Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Goldfin Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GOLDFIN",
       "right_name": "Troglobyte Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TROGLOBYTE",

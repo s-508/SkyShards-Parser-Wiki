@@ -644,17 +644,6 @@
       "left_name": "Inkling Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_NIGHT_SQUID",
-      "right_name": "Inkling Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_NIGHT_SQUID",
-      "output_name": "Haggard Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Inkling Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_NIGHT_SQUID",
       "right_name": "Yog Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_YOG",

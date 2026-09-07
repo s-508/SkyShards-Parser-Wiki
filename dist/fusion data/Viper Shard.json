@@ -2125,28 +2125,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Viper Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_VIPER",
-      "right_name": "Viper Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_VIPER",
-      "output_name": "Python Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Viper Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_VIPER",
-      "right_name": "Viper Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_VIPER",
-      "output_name": "Zombie Soldier Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Viper Shard",
       "left_count": 2,

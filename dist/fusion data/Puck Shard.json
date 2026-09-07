@@ -5605,17 +5605,6 @@
       "left_name": "Puck Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_PUCK",
-      "right_name": "Puck Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_PUCK",
-      "output_name": "Pangolin Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Puck Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_PUCK",
       "right_name": "Troodon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TROODON",

@@ -3064,17 +3064,6 @@
       "left_name": "Sneaky Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SNEAKY_TIKI",
-      "right_name": "Sneaky Tiki Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SNEAKY_TIKI",
-      "output_name": "Shrieky Tiki Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Sneaky Tiki Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SNEAKY_TIKI",
       "right_name": "Shrieky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SHRIEKY_TIKI",

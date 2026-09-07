@@ -4439,17 +4439,6 @@
       "left_name": "Arachne Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_ARACHNE",
-      "right_name": "Arachne Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ARACHNE",
-      "output_name": "Revenant Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Arachne Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ARACHNE",
       "right_name": "Bitbug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BITBUG",

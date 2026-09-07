@@ -5051,28 +5051,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Eel Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_EEL",
-      "right_name": "Eel Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_EEL",
-      "output_name": "Moray Eel Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Eel Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_EEL",
-      "right_name": "Eel Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_EEL",
-      "output_name": "Lava Flame Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Eel Shard",
       "left_count": 2,

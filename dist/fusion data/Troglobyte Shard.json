@@ -1784,28 +1784,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Troglobyte Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_TROGLOBYTE",
-      "right_name": "Troglobyte Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TROGLOBYTE",
-      "output_name": "Quartzfang Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Troglobyte Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_TROGLOBYTE",
-      "right_name": "Troglobyte Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TROGLOBYTE",
-      "output_name": "Rain Slime Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Troglobyte Shard",
       "left_count": 5,

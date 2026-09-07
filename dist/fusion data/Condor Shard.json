@@ -10008,40 +10008,7 @@
       "right_name": "Condor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CONDOR",
-      "output_name": "Dodo Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Condor Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CONDOR",
-      "right_name": "Condor Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CONDOR",
       "output_name": "Toucan Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Condor Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CONDOR",
-      "right_name": "Condor Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CONDOR",
-      "output_name": "Toucan Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Condor Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CONDOR",
-      "right_name": "Condor Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CONDOR",
-      "output_name": "Falcon Shard",
       "output_count": 2
     },
     {

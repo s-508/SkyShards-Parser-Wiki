@@ -1887,17 +1887,6 @@
       "left_name": "Wetwing Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WETWING",
-      "right_name": "Wetwing Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WETWING",
-      "output_name": "Sea Witch Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Wetwing Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WETWING",
       "right_name": "Seer Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEER",

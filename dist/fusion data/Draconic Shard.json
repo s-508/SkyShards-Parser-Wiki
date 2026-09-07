@@ -5084,17 +5084,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Draconic Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_DRACONIC",
-      "right_name": "Draconic Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRACONIC",
-      "output_name": "Wither Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Draconic Shard",
       "left_count": 5,

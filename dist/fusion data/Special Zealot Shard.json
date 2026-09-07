@@ -6848,17 +6848,6 @@
       "left_name": "Special Zealot Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SPECIAL_ZEALOT",
-      "right_name": "Special Zealot Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SPECIAL_ZEALOT",
-      "output_name": "Bal Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Special Zealot Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SPECIAL_ZEALOT",
       "right_name": "Lunar Moth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LUNAR_MOTH",

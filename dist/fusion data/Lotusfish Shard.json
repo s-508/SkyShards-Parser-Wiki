@@ -519,17 +519,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Lotusfish Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LOTUS_FISH",
-      "right_name": "Lotusfish Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LOTUS_FISH",
-      "output_name": "Azure Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Lotusfish Shard",
       "left_count": 5,

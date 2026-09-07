@@ -2877,17 +2877,6 @@
       "left_name": "Ember Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_EMBER",
-      "right_name": "Ember Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_EMBER",
-      "output_name": "Sprawl Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Ember Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_EMBER",
       "right_name": "Cheeky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CHEEKY_TIKI",

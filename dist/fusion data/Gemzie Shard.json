@@ -8270,41 +8270,8 @@
       "right_name": "Gemzie Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GEMZIE",
-      "output_name": "Cavernshade Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Gemzie Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GEMZIE",
-      "right_name": "Gemzie Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GEMZIE",
       "output_name": "Troglobyte Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Gemzie Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GEMZIE",
-      "right_name": "Gemzie Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GEMZIE",
-      "output_name": "Troglobyte Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Gemzie Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GEMZIE",
-      "right_name": "Gemzie Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GEMZIE",
-      "output_name": "Inferno Demonlord Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "ID",

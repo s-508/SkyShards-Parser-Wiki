@@ -325,17 +325,6 @@
       "left_name": "Birries Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BIRRIES",
-      "right_name": "Birries Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BIRRIES",
-      "output_name": "Tadgang Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Birries Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BIRRIES",
       "right_name": "Tank Zombie Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TANK_ZOMBIE",

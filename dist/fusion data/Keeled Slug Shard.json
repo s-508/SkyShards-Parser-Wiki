@@ -3251,17 +3251,6 @@
       "left_name": "Keeled Slug Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_KEELED_SLUG",
-      "right_name": "Keeled Slug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_KEELED_SLUG",
-      "output_name": "Mite Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Keeled Slug Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_KEELED_SLUG",
       "right_name": "Mite Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MITE",

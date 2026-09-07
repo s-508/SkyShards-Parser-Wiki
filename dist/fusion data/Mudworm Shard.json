@@ -501,17 +501,6 @@
       "left_name": "Mudworm Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MUDWORM",
-      "right_name": "Mudworm Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MUDWORM",
-      "output_name": "Locust Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Mudworm Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MUDWORM",
       "right_name": "Lotusfish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LOTUS_FISH",

@@ -8157,17 +8157,6 @@
       "left_name": "Tenebris Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_TENEBRIS",
-      "right_name": "Tenebris Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TENEBRIS",
-      "output_name": "Cinderbat Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Tenebris Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TENEBRIS",
       "right_name": "Blizzard Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_BLIZZARD",

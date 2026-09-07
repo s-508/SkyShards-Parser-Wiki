@@ -5220,17 +5220,6 @@
       "left_name": "Thunder Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_THUNDER",
-      "right_name": "Thunder Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_THUNDER",
-      "output_name": "Stingray Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Thunder Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_THUNDER",
       "right_name": "Rockmite Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ROCKMITE",

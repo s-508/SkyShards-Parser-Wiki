@@ -5044,17 +5044,6 @@
       "left_name": "Inferno Koi Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_INFERNO_KOI",
-      "right_name": "Inferno Koi Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_INFERNO_KOI",
-      "output_name": "Thunder Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Inferno Koi Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_INFERNO_KOI",
       "right_name": "Wither Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WITHER",

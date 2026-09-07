@@ -259,17 +259,6 @@
       "left_name": "Fly Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_FLY",
-      "right_name": "Fly Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_FLY",
-      "output_name": "Mudworm Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Fly Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_FLY",
       "right_name": "Bogged Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEA_ARCHER",

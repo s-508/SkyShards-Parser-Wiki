@@ -7339,28 +7339,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Shellwise Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_SHELLWISE",
-      "right_name": "Shellwise Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_SHELLWISE",
-      "output_name": "Leatherback Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Shellwise Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_SHELLWISE",
-      "right_name": "Shellwise Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_SHELLWISE",
-      "output_name": "Silkbreeze Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Shellwise Shard",
       "left_count": 2,

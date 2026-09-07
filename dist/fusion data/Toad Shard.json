@@ -4127,17 +4127,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Toad Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TOAD",
-      "right_name": "Toad Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TOAD",
-      "output_name": "Piranha Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Toad Shard",
       "left_count": 2,

@@ -2195,17 +2195,6 @@
       "left_name": "Ent Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_ENT",
-      "right_name": "Ent Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ENT",
-      "output_name": "Magma Slug Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Ent Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ENT",
       "right_name": "Soul of the Alpha Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",

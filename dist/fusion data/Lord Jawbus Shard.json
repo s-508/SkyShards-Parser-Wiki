@@ -8652,17 +8652,6 @@
       "left_name": "Lord Jawbus Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_LORD_JAWBUS",
-      "right_name": "Lord Jawbus Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LORD_JAWBUS",
-      "output_name": "Titanoboa Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Lord Jawbus Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LORD_JAWBUS",
       "right_name": "Hellwisp Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HELLWISP",

@@ -4131,17 +4131,6 @@
       "left_name": "Glacite Walker Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_GLACITE_WALKER",
-      "right_name": "Glacite Walker Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GLACITE_WALKER",
-      "output_name": "Drowned Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Glacite Walker Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GLACITE_WALKER",
       "right_name": "Beaconmite Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BEACONMITE",

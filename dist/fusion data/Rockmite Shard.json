@@ -5975,28 +5975,6 @@
       "output_count": 2
     },
     {
-      "fusion_type": "Special",
-      "left_name": "Rockmite Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ROCKMITE",
-      "right_name": "Rockmite Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ROCKMITE",
-      "output_name": "Troglobyte Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Rockmite Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ROCKMITE",
-      "right_name": "Rockmite Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ROCKMITE",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "ID",
       "left_name": "Rockmite Shard",
       "left_count": 5,

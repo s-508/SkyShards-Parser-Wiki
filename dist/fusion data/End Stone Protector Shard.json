@@ -8355,17 +8355,6 @@
       "left_name": "End Stone Protector Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_ENDSTONE_PROTECTOR",
-      "right_name": "End Stone Protector Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ENDSTONE_PROTECTOR",
-      "output_name": "Kraken Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "End Stone Protector Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ENDSTONE_PROTECTOR",
       "right_name": "Rabbit Godfather Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_GODFATHER",

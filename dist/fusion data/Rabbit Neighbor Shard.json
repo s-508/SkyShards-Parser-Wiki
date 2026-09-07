@@ -5726,17 +5726,6 @@
       "left_name": "Rabbit Neighbor Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_RABBIT_NEIGHBOR",
-      "right_name": "Rabbit Neighbor Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RABBIT_NEIGHBOR",
-      "output_name": "Drybark Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Rabbit Neighbor Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_RABBIT_NEIGHBOR",
       "right_name": "Torrid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TORRID",

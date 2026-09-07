@@ -1949,17 +1949,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Seer Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SEER",
-      "right_name": "Seer Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SEER",
-      "output_name": "Obsidian Defender Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Seer Shard",
       "left_count": 5,

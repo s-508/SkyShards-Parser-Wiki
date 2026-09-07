@@ -2844,17 +2844,6 @@
       "left_name": "Minos Hunter Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MINOS_HUNTER",
-      "right_name": "Minos Hunter Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MINOS_HUNTER",
-      "output_name": "Parched Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Minos Hunter Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MINOS_HUNTER",
       "right_name": "Woodchucker Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOODCHUCKER",

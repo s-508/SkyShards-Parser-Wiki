@@ -7808,41 +7808,8 @@
       "right_name": "Hideonsack Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONSACK",
-      "output_name": "Hideonring Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hideonsack Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONSACK",
-      "right_name": "Hideonsack Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONSACK",
       "output_name": "Hideongift Shard",
       "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hideonsack Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONSACK",
-      "right_name": "Hideonsack Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONSACK",
-      "output_name": "Hideongift Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Hideonsack Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONSACK",
-      "right_name": "Hideonsack Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_HIDEONSACK",
-      "output_name": "XYZ Shard",
-      "output_count": 1
     },
     {
       "fusion_type": "ID",

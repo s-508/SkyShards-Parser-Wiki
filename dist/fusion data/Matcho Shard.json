@@ -4769,17 +4769,6 @@
       "left_name": "Matcho Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MATCHO",
-      "right_name": "Matcho Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MATCHO",
-      "output_name": "Crocodile Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Matcho Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MATCHO",
       "right_name": "Ladybug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LADYBUG",

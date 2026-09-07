@@ -2976,17 +2976,6 @@
       "left_name": "Driftling Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_DRIFTLING",
-      "right_name": "Driftling Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRIFTLING",
-      "output_name": "Woodlouse Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Driftling Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_DRIFTLING",
       "right_name": "Tewtil Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TEWTIL",

@@ -215,17 +215,6 @@
       "left_name": "Verdant Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_VERDANT",
-      "right_name": "Verdant Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_VERDANT",
-      "output_name": "Bogged Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Verdant Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_VERDANT",
       "right_name": "Chill Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CHILL",

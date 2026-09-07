@@ -354,17 +354,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Tank Zombie Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_TANK_ZOMBIE",
-      "right_name": "Tank Zombie Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TANK_ZOMBIE",
-      "output_name": "Zealot Shard",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Special",
       "left_name": "Tank Zombie Shard",
       "left_count": 5,

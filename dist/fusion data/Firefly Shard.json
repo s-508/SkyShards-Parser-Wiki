@@ -7442,17 +7442,6 @@
       "left_name": "Firefly Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_FIREFLY",
-      "right_name": "Firefly Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_FIREFLY",
-      "output_name": "XYZ Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Firefly Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_FIREFLY",
       "right_name": "Sea Serpent Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_SEA_SERPENT",

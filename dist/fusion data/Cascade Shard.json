@@ -3999,17 +3999,6 @@
       "left_name": "Cascade Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_CASCADE",
-      "right_name": "Cascade Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_CASCADE",
-      "output_name": "Piranha Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Cascade Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CASCADE",
       "right_name": "Bolt Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_BOLT",

@@ -435,17 +435,6 @@
       "left_name": "Zealot Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_ZEALOT",
-      "right_name": "Zealot Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_ZEALOT",
-      "output_name": "Golden Ghoul Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Zealot Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ZEALOT",
       "right_name": "Rabbit Mafioso Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_MAFIOSO",
