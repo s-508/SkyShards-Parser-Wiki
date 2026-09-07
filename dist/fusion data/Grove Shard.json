@@ -1,10 +1,11 @@
 {
   "name": "Grove Shard",
-  "fusion_required": 2,
-  "skyblock_id": "SHARD_GROVE",
   "input_recipes": [
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Grove Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_GROVE",
@@ -13,6 +14,20 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
+      "right_name": "Grove Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_GROVE",
+      "output_name": "Phanpyre Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Mist Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_MIST",
@@ -21,6 +36,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Mist Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_MIST",
@@ -29,6 +47,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Flash Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_FLASH",
@@ -37,6 +58,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Flash Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_FLASH",
@@ -45,6 +69,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Phanpyre Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PHANPYRE",
@@ -53,6 +80,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Cod Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COD",
@@ -61,6 +91,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Cod Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COD",
@@ -69,6 +102,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Howling Spirit Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HOWLING_SPIRIT",
@@ -77,6 +113,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Howling Spirit Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HOWLING_SPIRIT",
@@ -85,6 +124,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Phanflare Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PHANFLARE",
@@ -93,6 +135,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Dumpster Diver Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DUMPSTER_DIVER",
@@ -101,6 +146,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Dumpster Diver Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DUMPSTER_DIVER",
@@ -109,6 +157,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lapis Zombie Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LAPIS_ZOMBIE",
@@ -117,6 +168,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lapis Zombie Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LAPIS_ZOMBIE",
@@ -125,6 +179,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideonleaf Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONLEAF",
@@ -133,6 +190,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideonleaf Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONLEAF",
@@ -141,6 +201,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Verdant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_VERDANT",
@@ -149,6 +212,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Verdant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_VERDANT",
@@ -157,6 +223,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Chill Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CHILL",
@@ -165,6 +234,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Chill Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CHILL",
@@ -173,6 +245,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Fly Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FLY",
@@ -181,6 +256,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bogged Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEA_ARCHER",
@@ -189,6 +267,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bogged Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEA_ARCHER",
@@ -197,6 +278,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Voracious Spider Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_VORACIOUS_SPIDER",
@@ -205,6 +289,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Voracious Spider Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_VORACIOUS_SPIDER",
@@ -213,6 +300,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideongift Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONGIFT",
@@ -221,6 +311,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Birries Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BIRRIES",
@@ -229,6 +322,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Birries Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BIRRIES",
@@ -237,6 +333,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Tank Zombie Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TANK_ZOMBIE",
@@ -245,6 +344,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Tank Zombie Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TANK_ZOMBIE",
@@ -253,6 +355,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Crow Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CROW",
@@ -261,6 +366,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Crow Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CROW",
@@ -269,6 +377,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Tadgang Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TADGANG",
@@ -277,6 +388,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Tadgang Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TADGANG",
@@ -285,6 +399,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Tadgang Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TADGANG",
@@ -293,6 +410,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Zealot Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ZEALOT",
@@ -301,6 +421,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Zealot Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ZEALOT",
@@ -309,6 +432,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Rabbit Mafioso Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_MAFIOSO",
@@ -317,6 +443,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Coralot Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CORALOT",
@@ -325,6 +454,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Coralot Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CORALOT",
@@ -333,6 +465,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Harpy Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HARPY",
@@ -341,6 +476,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Harpy Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HARPY",
@@ -349,6 +487,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Harpy Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HARPY",
@@ -357,6 +498,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Mudworm Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MUDWORM",
@@ -365,6 +509,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lotusfish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LOTUS_FISH",
@@ -373,6 +520,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lotusfish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LOTUS_FISH",
@@ -381,6 +531,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Golden Ghoul Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GOLDEN_GHOUL",
@@ -389,6 +542,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Golden Ghoul Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GOLDEN_GHOUL",
@@ -397,6 +553,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Locust Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LOCUST",
@@ -405,6 +564,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Azure Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_AZURE",
@@ -413,6 +575,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Azure Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_AZURE",
@@ -421,6 +586,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bezal Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BEZAL",
@@ -429,6 +597,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bezal Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BEZAL",
@@ -437,6 +608,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Stag Beetle Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STAG_BEETLE",
@@ -445,6 +619,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Inkling Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_NIGHT_SQUID",
@@ -453,6 +630,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Inkling Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_NIGHT_SQUID",
@@ -461,6 +641,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Yog Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_YOG",
@@ -469,6 +652,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Yog Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_YOG",
@@ -477,6 +663,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Boreal Owl Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BOREAL_OWL",
@@ -485,6 +674,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Newt Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_NEWT",
@@ -493,6 +685,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Newt Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_NEWT",
@@ -501,6 +696,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Miner Zombie Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MINER_ZOMBIE",
@@ -509,6 +707,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Miner Zombie Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MINER_ZOMBIE",
@@ -517,6 +718,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Flitter Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FLITTER",
@@ -525,6 +729,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Tepid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TEPID",
@@ -533,6 +740,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Tepid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TEPID",
@@ -541,6 +751,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Cretan Bull Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CRETAN_BULL",
@@ -549,6 +762,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Cretan Bull Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CRETAN_BULL",
@@ -557,6 +773,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Ant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ANT",
@@ -565,6 +784,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Cavernfish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CAVERNFISH",
@@ -573,6 +795,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Cavernfish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CAVERNFISH",
@@ -581,6 +806,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Strongarm Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STRONGARM",
@@ -589,6 +817,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Strongarm Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STRONGARM",
@@ -597,6 +828,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideonsun Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONSUN",
@@ -605,6 +839,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideonsun Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONSUN",
@@ -613,6 +850,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Haggard Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HAGGARD",
@@ -621,6 +861,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Haggard Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HAGGARD",
@@ -629,6 +872,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Honeyhog Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HONEYHOG",
@@ -637,6 +883,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Shyworm Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SHYWORM",
@@ -645,6 +894,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Brineling Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BRINELING",
@@ -653,6 +905,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Brineling Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BRINELING",
@@ -661,6 +916,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Foxtrot Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FOXTROT",
@@ -669,6 +927,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Firefox Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FIREFOX",
@@ -677,6 +938,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Groundhog Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GROUNDHOG",
@@ -685,6 +949,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Timil Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TIMIL",
@@ -693,6 +960,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Blue Jay Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BLUE_JAY",
@@ -701,6 +971,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Blue Jay Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BLUE_JAY",
@@ -709,6 +982,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bunbun Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BUNBUN",
@@ -717,6 +993,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Honeybuzz Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HONEYBUZZ",
@@ -725,6 +1004,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bramble Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_BRAMBLE",
@@ -733,6 +1015,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Tide Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TIDE",
@@ -741,6 +1026,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Tide Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TIDE",
@@ -749,6 +1037,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Quake Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_QUAKE",
@@ -757,6 +1048,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Quake Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_QUAKE",
@@ -765,6 +1059,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Sparrow Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SPARROW",
@@ -773,6 +1070,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Sparrow Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SPARROW",
@@ -781,6 +1081,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Goldfin Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GOLDFIN",
@@ -789,6 +1092,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Goldfin Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GOLDFIN",
@@ -797,6 +1103,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Troglobyte Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TROGLOBYTE",
@@ -805,6 +1114,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Troglobyte Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TROGLOBYTE",
@@ -813,6 +1125,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideoncave Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONCAVE",
@@ -821,6 +1136,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideoncave Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONCAVE",
@@ -829,6 +1147,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Salamander Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_SALAMANDER",
@@ -837,6 +1158,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Salamander Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_SALAMANDER",
@@ -845,6 +1169,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Cuboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CUBOA",
@@ -853,6 +1180,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Cuboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CUBOA",
@@ -861,6 +1191,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Field Mouse Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PEST",
@@ -869,6 +1202,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Mossybit Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_MOSSYBIT",
@@ -877,6 +1213,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Mossybit Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_MOSSYBIT",
@@ -885,6 +1224,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Rain Slime Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RAIN_SLIME",
@@ -893,6 +1235,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Rain Slime Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RAIN_SLIME",
@@ -901,6 +1246,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Wetwing Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WETWING",
@@ -909,6 +1257,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Wetwing Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WETWING",
@@ -917,6 +1268,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Seer Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEER",
@@ -925,6 +1279,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Seer Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEER",
@@ -933,6 +1290,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Heron Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HERON",
@@ -941,6 +1301,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Heron Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HERON",
@@ -949,6 +1312,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Sea Witch Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEA_WITCH",
@@ -957,6 +1323,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Sea Witch Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEA_WITCH",
@@ -965,6 +1334,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Obsidian Defender Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_OBSIDIAN_DEFENDER",
@@ -973,6 +1345,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Obsidian Defender Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_OBSIDIAN_DEFENDER",
@@ -981,6 +1356,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Cricket Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CRICKET",
@@ -989,6 +1367,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Salmon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SALMON",
@@ -997,6 +1378,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Salmon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SALMON",
@@ -1005,6 +1389,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Viper Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_VIPER",
@@ -1013,6 +1400,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Viper Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_VIPER",
@@ -1021,6 +1411,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Praying Mantis Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PRAYING_MANTIS",
@@ -1029,6 +1422,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lotum Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_LOTUM",
@@ -1037,6 +1433,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lotum Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_LOTUM",
@@ -1045,6 +1444,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Zombie Soldier Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ZOMBIE_SOLDIER",
@@ -1053,6 +1455,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Zombie Soldier Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ZOMBIE_SOLDIER",
@@ -1061,6 +1466,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bambuleaf Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BAMBULEAF",
@@ -1069,6 +1477,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Treasure Hoarder Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TREASURE_HOARDER",
@@ -1077,6 +1488,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Treasure Hoarder Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TREASURE_HOARDER",
@@ -1085,6 +1499,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Sycophant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SYCOPHANT",
@@ -1093,6 +1510,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Sycophant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SYCOPHANT",
@@ -1101,6 +1521,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Seagull Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEAGULL",
@@ -1109,6 +1532,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Seagull Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEAGULL",
@@ -1117,6 +1543,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Ent Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ENT",
@@ -1125,6 +1554,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Ent Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ENT",
@@ -1133,6 +1565,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Soul of the Alpha Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
@@ -1141,6 +1576,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Soul of the Alpha Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
@@ -1149,6 +1587,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Mochibear Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MOCHIBEAR",
@@ -1157,6 +1598,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Magma Slug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MAGMA_SLUG",
@@ -1165,6 +1609,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Magma Slug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MAGMA_SLUG",
@@ -1173,6 +1620,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Flaming Spider Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FLAMING_SPIDER",
@@ -1181,6 +1631,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Flaming Spider Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FLAMING_SPIDER",
@@ -1189,6 +1642,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Kiwi Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_KIWI",
@@ -1197,6 +1653,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Kiwi Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_KIWI",
@@ -1205,6 +1664,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Zealot Bruiser Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BRUISER",
@@ -1213,6 +1675,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Zealot Bruiser Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BRUISER",
@@ -1221,6 +1686,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Stridersurfer Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STRIDER_SURFER",
@@ -1229,6 +1697,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Stridersurfer Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STRIDER_SURFER",
@@ -1237,6 +1708,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Rana Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_RANA",
@@ -1245,6 +1719,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Rana Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_RANA",
@@ -1253,6 +1730,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Earthworm Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TERMITE",
@@ -1261,6 +1741,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Flipflopper Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FLIP_FLOPPER",
@@ -1269,6 +1752,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Flipflopper Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FLIP_FLOPPER",
@@ -1277,6 +1763,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Polaris Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_POLARIS",
@@ -1285,6 +1774,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Polaris Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_POLARIS",
@@ -1293,6 +1785,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Treefrog Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TREEFROG",
@@ -1301,6 +1796,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bayou Sludge Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BAYOU_SLUDGE",
@@ -1309,6 +1807,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bayou Sludge Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BAYOU_SLUDGE",
@@ -1317,6 +1818,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Areita Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_AREITA",
@@ -1325,6 +1829,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Areita Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_AREITA",
@@ -1333,6 +1840,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bluebird Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BLUEBIRD",
@@ -1341,6 +1851,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bluebird Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BLUEBIRD",
@@ -1349,6 +1862,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Osedax Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_OSEDAX",
@@ -1357,6 +1873,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Osedax Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_OSEDAX",
@@ -1365,6 +1884,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Duplico Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DUPLICO",
@@ -1373,6 +1895,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Duplico Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DUPLICO",
@@ -1381,6 +1906,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Litterbug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LITTERBUG",
@@ -1389,6 +1917,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Water Snake Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_WATER_SNAKE",
@@ -1397,6 +1928,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Water Snake Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_WATER_SNAKE",
@@ -1405,6 +1939,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Gazer Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GAZER",
@@ -1413,6 +1950,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Gazer Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GAZER",
@@ -1421,6 +1961,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Honeybug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HONEYBUG",
@@ -1429,6 +1972,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Shuddersquid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SHUDDERSQUID",
@@ -1437,6 +1983,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Shuddersquid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SHUDDERSQUID",
@@ -1445,6 +1994,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Solsnatcher Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SOLSNATCHER",
@@ -1453,6 +2005,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Sepialot Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
@@ -1461,6 +2016,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Sepialot Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_SEPIALOT",
@@ -1469,6 +2027,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Honey Badger Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HONEY_BADGER",
@@ -1477,6 +2038,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Honey Badger Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HONEY_BADGER",
@@ -1485,6 +2049,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Driftling Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DRIFTLING",
@@ -1493,6 +2060,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Tewtil Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TEWTIL",
@@ -1501,6 +2071,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Tewtil Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TEWTIL",
@@ -1509,6 +2082,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Minos Hunter Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MINOS_HUNTER",
@@ -1517,6 +2093,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Minos Hunter Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MINOS_HUNTER",
@@ -1525,6 +2104,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Woodchucker Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOODCHUCKER",
@@ -1533,6 +2115,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Solar Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SOLAR",
@@ -1541,6 +2126,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Solar Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SOLAR",
@@ -1549,6 +2137,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Parched Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARCHED",
@@ -1557,6 +2148,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Parched Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARCHED",
@@ -1565,6 +2159,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bloodbat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BLOODBAT",
@@ -1573,6 +2170,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Dustybit Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DUSTYBIT",
@@ -1581,6 +2181,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Dustybit Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DUSTYBIT",
@@ -1589,6 +2192,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Woodlouse Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOODLOUSE",
@@ -1597,6 +2203,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Ember Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_EMBER",
@@ -1605,6 +2214,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Ember Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_EMBER",
@@ -1613,6 +2225,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Cheeky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CHEEKY_TIKI",
@@ -1621,6 +2236,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Cheeky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CHEEKY_TIKI",
@@ -1629,6 +2247,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Red Panda Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RED_PANDA",
@@ -1637,6 +2258,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Sprawl Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SPRAWL",
@@ -1645,6 +2269,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Sneaky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNEAKY_TIKI",
@@ -1653,6 +2280,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Sneaky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNEAKY_TIKI",
@@ -1661,6 +2291,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Shrieky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SHRIEKY_TIKI",
@@ -1669,6 +2302,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Shrieky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SHRIEKY_TIKI",
@@ -1677,6 +2313,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Woodpecker Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOODPECKER",
@@ -1685,6 +2324,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Woodpecker Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOODPECKER",
@@ -1693,6 +2335,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Honeymite Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HONEYMITE",
@@ -1701,6 +2346,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Queen Ant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_QUEEN_ANT",
@@ -1709,6 +2357,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hawk Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HAWK",
@@ -1717,6 +2368,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hawk Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HAWK",
@@ -1725,6 +2379,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "June Bug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_JUNE_BUG",
@@ -1733,6 +2390,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Dung Beetle Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DUNG_BEETLE",
@@ -1741,6 +2401,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Rat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RAT",
@@ -1749,6 +2412,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Keeled Slug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_KEELED_SLUG",
@@ -1757,6 +2423,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Mite Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MITE",
@@ -1765,6 +2434,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Moth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MOTH",
@@ -1773,6 +2445,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Sylvan Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_SYLVAN",
@@ -1781,6 +2456,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Cascade Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CASCADE",
@@ -1789,6 +2467,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Cascade Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CASCADE",
@@ -1797,6 +2478,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bolt Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_BOLT",
@@ -1805,6 +2489,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bolt Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_BOLT",
@@ -1813,6 +2500,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bambloom Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BAMBLOOM",
@@ -1821,6 +2511,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Toad Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TOAD",
@@ -1829,6 +2522,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Toad Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TOAD",
@@ -1837,6 +2533,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Glacite Walker Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GLACITE_WALKER",
@@ -1845,6 +2544,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Glacite Walker Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GLACITE_WALKER",
@@ -1853,6 +2555,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Beaconmite Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BEACONMITE",
@@ -1861,6 +2566,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lizard King Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_LIZARD_KING",
@@ -1869,6 +2577,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lizard King Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_LIZARD_KING",
@@ -1877,6 +2588,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Python Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_PYTHON",
@@ -1885,6 +2599,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Python Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_PYTHON",
@@ -1893,6 +2610,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Invisibug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_INVISIBUG",
@@ -1901,6 +2621,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Piranha Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PIRANHA",
@@ -1909,6 +2632,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Piranha Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PIRANHA",
@@ -1917,6 +2643,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideongeon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONGEON",
@@ -1925,6 +2654,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideongeon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONGEON",
@@ -1933,6 +2665,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lapis Skeleton Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LAPIS_SKELETON",
@@ -1941,6 +2676,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lapis Skeleton Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LAPIS_SKELETON",
@@ -1949,6 +2687,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Beetle Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CROPEETLE",
@@ -1957,6 +2698,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Drowned Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DROWNED",
@@ -1965,6 +2709,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Drowned Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DROWNED",
@@ -1973,6 +2720,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Vulture Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_VULTURE",
@@ -1981,6 +2731,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Vulture Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_VULTURE",
@@ -1989,6 +2742,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Star Sentry Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STAR_SENTRY",
@@ -1997,6 +2753,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Star Sentry Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STAR_SENTRY",
@@ -2005,6 +2764,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideondra Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONDRA",
@@ -2013,6 +2775,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideondra Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONDRA",
@@ -2021,6 +2786,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Abyssal Lanternfish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ABYSSAL_LANTERN",
@@ -2029,6 +2797,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Abyssal Lanternfish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ABYSSAL_LANTERN",
@@ -2037,6 +2808,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Arachne Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ARACHNE",
@@ -2045,6 +2819,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Arachne Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ARACHNE",
@@ -2053,6 +2830,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bitbug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BITBUG",
@@ -2061,6 +2841,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lava Leech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LAVA_LEECH",
@@ -2069,6 +2852,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lava Leech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LAVA_LEECH",
@@ -2077,6 +2863,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
@@ -2085,6 +2874,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
@@ -2093,6 +2885,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Silentdepth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILENTDEPTH",
@@ -2101,6 +2896,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Silentdepth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILENTDEPTH",
@@ -2109,6 +2907,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Skeletor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SKELETOR",
@@ -2117,6 +2918,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Skeletor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SKELETOR",
@@ -2125,6 +2929,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Thyst Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_THYST",
@@ -2133,6 +2940,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Seashine Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEA_SHINE",
@@ -2141,6 +2951,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Seashine Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEA_SHINE",
@@ -2149,6 +2962,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Quartzfang Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_QUARTZFANG",
@@ -2157,6 +2973,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Quartzfang Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_QUARTZFANG",
@@ -2165,6 +2984,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideonring Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONRING",
@@ -2173,6 +2995,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideonring Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONRING",
@@ -2181,6 +3006,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Snowfin Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNOWFIN",
@@ -2189,6 +3017,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Snowfin Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNOWFIN",
@@ -2197,6 +3028,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Kada Knight Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_KADA_KNIGHT",
@@ -2205,6 +3039,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Kada Knight Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_KADA_KNIGHT",
@@ -2213,6 +3050,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hummingbird Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HUMMINGBIRD",
@@ -2221,6 +3061,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hummingbird Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HUMMINGBIRD",
@@ -2229,6 +3072,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Carrot King Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CARROT_KING",
@@ -2237,6 +3083,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Carrot King Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CARROT_KING",
@@ -2245,6 +3094,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Wither Spectre Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WITHER_SPECTER",
@@ -2253,6 +3105,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Wither Spectre Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WITHER_SPECTER",
@@ -2261,6 +3116,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Badger Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BADGER",
@@ -2269,6 +3127,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Matcho Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MATCHO",
@@ -2277,6 +3138,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Matcho Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MATCHO",
@@ -2285,6 +3149,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Ladybug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LADYBUG",
@@ -2293,6 +3160,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lumisquid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LUMISQUID",
@@ -2301,6 +3171,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lumisquid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LUMISQUID",
@@ -2309,6 +3182,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Crocodile Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CROCODILE",
@@ -2317,6 +3193,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Crocodile Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CROCODILE",
@@ -2325,6 +3204,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Wild Hog Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WILD_HOG",
@@ -2333,6 +3215,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bullfrog Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_BULLFROG",
@@ -2341,6 +3226,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bullfrog Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_BULLFROG",
@@ -2349,6 +3237,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Dreadwing Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DREADWING",
@@ -2357,6 +3248,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Joydive Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_JOYDIVE",
@@ -2365,6 +3259,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Joydive Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_JOYDIVE",
@@ -2373,6 +3270,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Stalagmight Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STALAGMIGHT",
@@ -2381,6 +3281,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Stalagmight Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STALAGMIGHT",
@@ -2389,6 +3292,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Fungloom Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FUNGLOOM",
@@ -2397,6 +3303,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Eel Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_EEL",
@@ -2405,6 +3314,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Eel Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_EEL",
@@ -2413,6 +3325,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "King Cobra Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_KING_COBRA",
@@ -2421,6 +3336,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "King Cobra Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_KING_COBRA",
@@ -2429,6 +3347,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hewver Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HEWVER",
@@ -2437,6 +3358,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lava Flame Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LAVA_FLAME",
@@ -2445,6 +3369,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lava Flame Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LAVA_FLAME",
@@ -2453,6 +3380,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Draconic Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DRACONIC",
@@ -2461,6 +3391,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Draconic Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DRACONIC",
@@ -2469,6 +3402,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Falcon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FALCON",
@@ -2477,6 +3413,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Falcon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FALCON",
@@ -2485,6 +3424,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Inferno Koi Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_INFERNO_KOI",
@@ -2493,6 +3435,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Inferno Koi Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_INFERNO_KOI",
@@ -2501,6 +3446,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Wither Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WITHER",
@@ -2509,6 +3457,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Wither Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WITHER",
@@ -2517,6 +3468,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Gecko Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_GECKO",
@@ -2525,6 +3479,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Wiki Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WIKI_TIKI",
@@ -2533,6 +3490,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Wiki Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WIKI_TIKI",
@@ -2541,6 +3501,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Minotaur Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MINOTAUR",
@@ -2549,6 +3512,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Minotaur Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MINOTAUR",
@@ -2557,6 +3523,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hivethief Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIVETHIEF",
@@ -2565,6 +3534,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Maggot Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MAGGOT",
@@ -2573,6 +3545,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Maggot Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MAGGOT",
@@ -2581,6 +3556,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Snoozle Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNOOZLE",
@@ -2589,6 +3567,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Snoozle Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNOOZLE",
@@ -2597,6 +3578,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Parakeet Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAKEET",
@@ -2605,6 +3589,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Parakeet Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAKEET",
@@ -2613,6 +3600,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Thunder Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_THUNDER",
@@ -2621,6 +3611,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Thunder Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_THUNDER",
@@ -2629,6 +3622,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Rockmite Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ROCKMITE",
@@ -2637,6 +3633,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Rockmite Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ROCKMITE",
@@ -2645,6 +3644,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Anteater Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ANTEATER",
@@ -2653,6 +3655,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Scrappy Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SCRAPPY",
@@ -2661,6 +3666,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Scrappy Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SCRAPPY",
@@ -2669,6 +3677,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideyho Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEYHO",
@@ -2677,6 +3688,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Mantis Shrimp Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MANTIS_SHRIMP",
@@ -2685,6 +3699,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Mantis Shrimp Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MANTIS_SHRIMP",
@@ -2693,6 +3710,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Chuckwalla Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CHUCKWALLA",
@@ -2701,6 +3721,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Chuckwalla Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CHUCKWALLA",
@@ -2709,6 +3732,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideonfloor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONFLOOR",
@@ -2717,6 +3743,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideonfloor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONFLOOR",
@@ -2725,6 +3754,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Gimmiegold Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GIMMIEGOLD",
@@ -2733,6 +3765,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Gimmiegold Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GIMMIEGOLD",
@@ -2741,6 +3776,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Billygoat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BILLYGOAT",
@@ -2749,6 +3787,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Billygoat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BILLYGOAT",
@@ -2757,6 +3798,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideonwall Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONWALL",
@@ -2765,6 +3809,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideonwall Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONWALL",
@@ -2773,6 +3820,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Nozzlenose Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_NOZZLENOSE",
@@ -2781,6 +3831,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Nozzlenose Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_NOZZLENOSE",
@@ -2789,6 +3842,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Stoneworm Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STONEWORM",
@@ -2797,6 +3853,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Stoneworm Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STONEWORM",
@@ -2805,6 +3864,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Fluffling Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FLUFFLING",
@@ -2813,6 +3875,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Stingray Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STINGRAY",
@@ -2821,6 +3886,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Stingray Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_STINGRAY",
@@ -2829,6 +3897,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Zombuddy Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ZOMBUDDY",
@@ -2837,6 +3908,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Puck Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PUCK",
@@ -2845,6 +3919,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Troodon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TROODON",
@@ -2853,6 +3930,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Troodon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TROODON",
@@ -2861,6 +3941,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Black Widow Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BLACK_WIDOW",
@@ -2869,6 +3952,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Pangolin Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PANGOLIN",
@@ -2877,6 +3963,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Giant Water Bug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GIANT_WATER_BUG",
@@ -2885,6 +3974,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Giant Water Bug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GIANT_WATER_BUG",
@@ -2893,6 +3985,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Murkbat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MURKBAT",
@@ -2901,6 +3996,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Goldolot Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
@@ -2909,6 +4007,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Goldolot Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_GOLDOLOT",
@@ -2917,6 +4018,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Rabbit Neighbor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_NEIGHBOR",
@@ -2925,6 +4029,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Torrid Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TORRID",
@@ -2933,6 +4040,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Terra Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TERRA",
@@ -2941,6 +4051,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Cryo Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CRYO",
@@ -2949,6 +4062,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Cryo Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CRYO",
@@ -2957,6 +4073,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Aero Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_AERO",
@@ -2965,6 +4084,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Aero Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_AERO",
@@ -2973,6 +4095,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Pandarai Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PANDARAI",
@@ -2981,6 +4106,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Leviathan Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_LEVIATHAN",
@@ -2989,6 +4117,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Leviathan Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_LEVIATHAN",
@@ -2997,6 +4128,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Alligator Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_ALLIGATOR",
@@ -3005,6 +4139,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Alligator Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_ALLIGATOR",
@@ -3013,6 +4150,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Fenlord Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_FENLORD",
@@ -3021,6 +4161,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Abyssal Miner Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ABYSSAL_MINER",
@@ -3029,6 +4172,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Abyssal Miner Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ABYSSAL_MINER",
@@ -3037,6 +4183,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Basilisk Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_BASILISK",
@@ -3045,6 +4194,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Basilisk Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_BASILISK",
@@ -3053,6 +4205,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Iguana Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_IGUANA",
@@ -3061,6 +4216,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Moray Eel Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_MORAY_EEL",
@@ -3069,6 +4227,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Moray Eel Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_MORAY_EEL",
@@ -3077,6 +4238,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Special Zealot Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SPECIAL_ZEALOT",
@@ -3085,6 +4249,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Special Zealot Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SPECIAL_ZEALOT",
@@ -3093,6 +4260,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lunar Moth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LUNAR_MOTH",
@@ -3101,6 +4271,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Fire Eel Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_FIRE_EEL",
@@ -3109,6 +4282,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Fire Eel Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_FIRE_EEL",
@@ -3117,6 +4293,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bal Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BAL",
@@ -3125,6 +4304,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bal Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BAL",
@@ -3133,6 +4315,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideonsack Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONSACK",
@@ -3141,6 +4326,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideonsack Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONSACK",
@@ -3149,6 +4337,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Water Hydra Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WATER_HYDRA",
@@ -3157,6 +4348,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Water Hydra Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WATER_HYDRA",
@@ -3165,6 +4359,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Flare Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FLARE",
@@ -3173,6 +4370,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Flare Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FLARE",
@@ -3181,6 +4381,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Murderwing Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MURDERWING",
@@ -3189,6 +4392,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Loch Emperor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEA_EMPEROR",
@@ -3197,6 +4403,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Loch Emperor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEA_EMPEROR",
@@ -3205,6 +4414,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Prince Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PRINCE",
@@ -3213,6 +4425,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Prince Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PRINCE",
@@ -3221,6 +4436,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Komodo Dragon Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_KOMODO_DRAGON",
@@ -3229,6 +4447,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Blue Crab Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BLUE_CRAB",
@@ -3237,6 +4458,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Blue Crab Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BLUE_CRAB",
@@ -3245,6 +4469,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Mimic Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MIMIC",
@@ -3253,6 +4480,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Mimic Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MIMIC",
@@ -3261,6 +4491,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Wolverine Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOLVERINE",
@@ -3269,6 +4502,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Shellwise Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_SHELLWISE",
@@ -3277,6 +4513,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Shellwise Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_SHELLWISE",
@@ -3285,6 +4524,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Barbarian Duke X Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
@@ -3293,6 +4535,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Barbarian Duke X Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
@@ -3301,6 +4546,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Toucan Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TOUCAN",
@@ -3309,6 +4557,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Toucan Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TOUCAN",
@@ -3317,6 +4568,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Caiman Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CAIMAN",
@@ -3325,6 +4579,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Caiman Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CAIMAN",
@@ -3333,6 +4590,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Firefly Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FIREFLY",
@@ -3341,6 +4601,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Sea Serpent Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_SEA_SERPENT",
@@ -3349,6 +4612,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Sea Serpent Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_SEA_SERPENT",
@@ -3357,6 +4623,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Ghost Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GHOST",
@@ -3365,6 +4634,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Ghost Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GHOST",
@@ -3373,6 +4645,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "XYZ Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_XYZ",
@@ -3381,6 +4656,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Leatherback Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_LEATHERBACK",
@@ -3389,6 +4667,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Leatherback Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_LEATHERBACK",
@@ -3397,6 +4678,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Cavernshade Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CAVERNSHADE",
@@ -3405,6 +4689,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Cavernshade Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CAVERNSHADE",
@@ -3413,6 +4700,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Dragonfly Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DRAGONFLY",
@@ -3421,6 +4711,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Sphinx Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SPHINX",
@@ -3429,6 +4722,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Sphinx Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SPHINX",
@@ -3437,6 +4733,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "King Minos Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_KING_MINOS",
@@ -3445,6 +4744,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "King Minos Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_KING_MINOS",
@@ -3453,6 +4755,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Dive Ghast Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DIVE_GHAST",
@@ -3461,6 +4766,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Silkbreeze Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILKBREEZE",
@@ -3469,6 +4777,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Silkbreeze Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILKBREEZE",
@@ -3477,6 +4788,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Gemzie Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GEMZIE",
@@ -3485,6 +4799,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Gemzie Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GEMZIE",
@@ -3493,6 +4810,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Rabbit Godmother Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_GODMOTHER",
@@ -3501,6 +4821,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Giant Isopod Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GIANT_ISOPOD",
@@ -3509,6 +4832,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Inferno Demonlord Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BURNINGSOUL",
@@ -3517,6 +4843,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Inferno Demonlord Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BURNINGSOUL",
@@ -3525,6 +4854,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Queen Bee Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_QUEEN_BEE",
@@ -3533,6 +4865,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bonzo Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BONZO",
@@ -3541,6 +4876,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Bonzo Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BONZO",
@@ -3549,6 +4887,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Beeheemoth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BEEHEEMOTH",
@@ -3557,6 +4898,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Scarf Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SCARF",
@@ -3565,6 +4909,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Scarf Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SCARF",
@@ -3573,6 +4920,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Thorn Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_THORN",
@@ -3581,6 +4931,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Thorn Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_THORN",
@@ -3589,6 +4942,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Scatha Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SCATHA",
@@ -3597,6 +4953,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Scatha Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SCATHA",
@@ -3605,6 +4964,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Nilbog Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_NILBOG",
@@ -3613,6 +4975,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Nilbog Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_NILBOG",
@@ -3621,6 +4986,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Littlefoot Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LITTLEFOOT",
@@ -3629,6 +4997,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Tenebris Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TENEBRIS",
@@ -3637,6 +5008,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Blizzard Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_BLIZZARD",
@@ -3645,6 +5019,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Blizzard Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_BLIZZARD",
@@ -3653,6 +5030,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Tempest Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TEMPEST",
@@ -3661,6 +5041,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Tempest Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TEMPEST",
@@ -3669,6 +5052,9 @@
     },
     {
       "fusion_type": "Chameleon",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Chameleon Shard",
       "right_count": 1,
       "right_skyblock_id": "SHARD_CHAMELEON",
@@ -3677,6 +5063,9 @@
     },
     {
       "fusion_type": "Chameleon",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Chameleon Shard",
       "right_count": 1,
       "right_skyblock_id": "SHARD_CHAMELEON",
@@ -3685,6 +5074,9 @@
     },
     {
       "fusion_type": "Chameleon",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Chameleon Shard",
       "right_count": 1,
       "right_skyblock_id": "SHARD_CHAMELEON",
@@ -3693,6 +5085,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Nessie Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_NESSIE",
@@ -3701,6 +5096,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Nessie Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_NESSIE",
@@ -3709,6 +5107,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Tiamat Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TIAMAT",
@@ -3717,6 +5118,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Tiamat Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TIAMAT",
@@ -3725,6 +5129,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Wyvern Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_WYVERN",
@@ -3733,6 +5140,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Tortoise Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TORTOISE",
@@ -3741,6 +5151,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Tortoise Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TORTOISE",
@@ -3749,6 +5162,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "End Stone Protector Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ENDSTONE_PROTECTOR",
@@ -3757,6 +5173,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "End Stone Protector Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ENDSTONE_PROTECTOR",
@@ -3765,6 +5184,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Rabbit Godfather Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RABBIT_GODFATHER",
@@ -3773,6 +5195,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Naga Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_NAGA",
@@ -3781,6 +5206,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Naga Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_NAGA",
@@ -3789,6 +5217,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lapis Creeper Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LAPIS_CREEPER",
@@ -3797,6 +5228,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lapis Creeper Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LAPIS_CREEPER",
@@ -3805,6 +5239,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Wartybug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WARTYBUG",
@@ -3813,6 +5250,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Spike Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SPIKE",
@@ -3821,6 +5261,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Spike Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SPIKE",
@@ -3829,6 +5272,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Kraken Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_KRAKEN",
@@ -3837,6 +5283,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Kraken Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_KRAKEN",
@@ -3845,6 +5294,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Taurus Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TAURUS",
@@ -3853,6 +5305,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Taurus Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TAURUS",
@@ -3861,6 +5316,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Daemon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DAEMON",
@@ -3869,6 +5327,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Daemon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DAEMON",
@@ -3877,6 +5338,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Moltenfish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MOLTENFISH",
@@ -3885,6 +5349,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Moltenfish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MOLTENFISH",
@@ -3893,6 +5360,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Doomspiral Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_DOOMSPIRAL",
@@ -3901,6 +5371,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Doomspiral Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_DOOMSPIRAL",
@@ -3909,6 +5382,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Macaw Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MACAW",
@@ -3917,6 +5393,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Macaw Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MACAW",
@@ -3925,6 +5404,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Shinyfish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SHINYFISH",
@@ -3933,6 +5415,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Shinyfish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SHINYFISH",
@@ -3941,6 +5426,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Ananke Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ANANKE",
@@ -3949,6 +5437,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Ananke Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ANANKE",
@@ -3957,6 +5448,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Ananke Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ANANKE",
@@ -3965,6 +5459,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideonbox Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONBOX",
@@ -3973,6 +5470,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hideonbox Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HIDEONBOX",
@@ -3981,6 +5481,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lord Jawbus Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LORD_JAWBUS",
@@ -3989,6 +5492,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Lord Jawbus Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LORD_JAWBUS",
@@ -3997,6 +5503,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Hellwisp Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HELLWISP",
@@ -4005,6 +5514,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Cinderbat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CINDER_BAT",
@@ -4013,6 +5525,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Megalith Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_MEGALITH",
@@ -4021,6 +5536,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Megalith Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_MEGALITH",
@@ -4029,6 +5547,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Power Dragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_POWER_DRAGON",
@@ -4037,6 +5558,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Power Dragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_POWER_DRAGON",
@@ -4045,6 +5569,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Condor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CONDOR",
@@ -4053,6 +5580,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Condor Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_CONDOR",
@@ -4061,6 +5591,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Sun Fish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SUN_FISH",
@@ -4069,6 +5602,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Sun Fish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SUN_FISH",
@@ -4077,6 +5613,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Apex Dragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_APEX_DRAGON",
@@ -4085,6 +5624,9 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Dodo Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DODO",
@@ -4093,6 +5635,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Dodo Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DODO",
@@ -4101,6 +5646,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Queen Snake Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_QUEEN_SNAKE",
@@ -4109,6 +5657,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Queen Snake Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_QUEEN_SNAKE",
@@ -4117,6 +5668,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Jormung Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_JORMUNG",
@@ -4125,6 +5679,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Ghost Crab Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GHOST_CRAB",
@@ -4133,6 +5690,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Ghost Crab Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GHOST_CRAB",
@@ -4141,6 +5701,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Etherdrake Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ETHERDRAKE",
@@ -4149,6 +5712,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Galaxy Fish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GALAXY_FISH",
@@ -4157,6 +5723,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Galaxy Fish Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GALAXY_FISH",
@@ -4165,6 +5734,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Molthorn Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MOLTHORN",
@@ -4173,6 +5745,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Starborn Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_STARBORN",
@@ -4181,6 +5756,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Starborn Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_STARBORN",
@@ -4189,6 +5767,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Primordial Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PRIMORDIAL",
@@ -4197,6 +5778,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
@@ -4205,6 +5789,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -4213,6 +5800,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Timestalk Clone Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_TIMESTALK_CLONE",
@@ -4221,6 +5811,9 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Grove Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GROVE",
       "right_name": "Wumpa Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WUMPA",
