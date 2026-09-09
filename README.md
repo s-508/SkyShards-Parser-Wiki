@@ -1,4 +1,10 @@
 # SkyShards Parser
+This is a fork of the SkyShards Parser that formats and splits recipe data into multiple files for use on the [Hypixel SkyBlock Wiki](https://hypixelskyblock.minecraft.wiki).
+
+Running `format-fusions.py` will create individual recipe files for each shard in `dist/fusion data`.
+
+---
+
 ### Python script to algorithmically generate all possible recipes based on info from the wiki
 
 Fusion rules and per-shard data come from the admin-published [Attribute Fusion](https://hypixelskyblock.minecraft.wiki/w/User:Wiki_Editor_33/AttributeFusion) page
